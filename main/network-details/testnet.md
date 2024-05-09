@@ -26,10 +26,11 @@ description: >-
 
 Example HTTP request:
 
-```curl
-curl -X POST \
--H "Content-Type: application/json" \
---data '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}' \
-https://testnet.rpc.hemi.network/rpc
-{"jsonrpc":"2.0","id":1,"result":"0xaa3716"}
-```
+<pre class="language-sh"><code class="lang-sh">curl -X POST \
+    -H "Content-Type: application/json" \
+<strong>    --data '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}' \
+</strong>    https://testnet.rpc.hemi.network/rpc
+
+<strong># This will print the RPC response:
+</strong># {"jsonrpc":"2.0","id":1,"result":"0xaa3716"}
+</code></pre>
