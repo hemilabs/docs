@@ -20,13 +20,10 @@ To our valued Friends and Family,
 
 We extend our gratitude for being the `first` in this journey. Your participation is invaluable as we create the future of the Hemi Network. We kindly request your feedback, particularly on the following features:
 
-#### [<mark style="background-color:orange;">🚰 Claim thETH through the Faucet</mark>](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/9d951b3b-bb81-46ad-88c0-78333576353f)
-
-[<mark style="background-color:orange;">**💻 Deploy a Smart Contract on HEMI**</mark>](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/f1417d83-9b33-43eb-85a4-4a5254347c8e)
-
-[<mark style="background-color:orange;">**⭕ Claim Onboarding Capsule**</mark>](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/013b62ec-ac5a-49d4-9590-fb9931bf0958)
-
-[ <mark style="background-color:orange;">**👥 Join Discord**</mark>](https://zealy.io/cw/hemixyz/questboard/admin/8c01ac05-b491-4af8-9170-c2d952cb2da0)
+- [**🚰 Claim thETH through the Faucet**](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/9d951b3b-bb81-46ad-88c0-78333576353f)
+- [**💻 Deploy a Smart Contract on HEMI**](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/f1417d83-9b33-43eb-85a4-4a5254347c8e)
+- [**⭕ Claim Onboarding Capsule**](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/013b62ec-ac5a-49d4-9590-fb9931bf0958)
+- [**👥 Join Discord**](https://zealy.io/cw/hemixyz/questboard/admin/8c01ac05-b491-4af8-9170-c2d952cb2da0)
 
 
 
