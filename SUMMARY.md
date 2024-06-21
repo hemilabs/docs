@@ -45,3 +45,11 @@
 
 * [Smart Contract Deployments](support/smart-contract-deployments.md)
 * [Portal](support/portal.md)
+
+## 📝 Governance
+
+* [Incentives](governance/incentives/README.md)
+  * [Points](governance/incentives/points.md)
+  * [Grants](governance/incentives/grants.md)
+  * [Retroactive Funding](governance/incentives/retroactive-funding.md)
+  * [One-Off Spends](governance/incentives/one-off-spends.md)
