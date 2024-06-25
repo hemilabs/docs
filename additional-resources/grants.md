@@ -2,7 +2,9 @@
 
 ## Getting Started
 
-We are always open to new ideas, but here are some specific areas we believe will have the most impact and can help get you started
+We are always open to new ideas, but here are some specific areas we believe will impact the network most.
+
+If you don't see your idea on this list, we also want to hear about projects you are interested in building!&#x20;
 
 ***
 
@@ -24,7 +26,7 @@ Any dApp you are passionate about building that would benefit from Bitcoin aware
   * A service that facilitates the creation of Ordinals.&#x20;
 * Any other novel Bitcoin dApp that benefits from introspection into Bitcoin data
 
-_**Have fun with it! We want to hear your ideas!**_&#x20;
+
 
 ***
 
