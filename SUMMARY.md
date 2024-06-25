@@ -7,7 +7,7 @@
 * [Network Details](main/network-details/README.md)
   * [Testnet](main/network-details/testnet.md)
 
-## 📖 How To Tutorials
+## 📖 How-To Tutorials
 
 * [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup/README.md)
   * [Add tHEMI to MetaMask](how-to-tutorials/metamask-wallet-setup/add-themi-to-metamask.md)
