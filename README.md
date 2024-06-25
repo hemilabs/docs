@@ -1,36 +1,32 @@
-# Hemi Network
+# Introduction
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/JFgdrC-nytvytP66yky6U\_hemi-garagedr.jpg)
+{% hint style="info" %}
+📜TL;DR:
 
-To-date, scaling Web3 has focused on building layers on top of the two biggest networks — Bitcoin and Ethereum.
-
-We addressed the compromises those projects had to make.
-
-Then we focused our energy where few dared — the under-explored areas in between.
-
-`Introducing Hemi: a modular network built to support and scale the next great applications on Bitcoin and Ethereum.`
-
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/aFicVK1AcTa5U9QtNbryQ\_hemispheresinfographicgrey.png)
+* The **Hemi Network** tunnels the **Bitcoin** and **Ethereum** ecosystems, leveraging the security of Bitcoin and the flexibility of Ethereum to introduce a **Layer-2 (L2) scalability** solution.
+* It enhances interoperability and creates an economic supernetwork by integrating these leading blockchain technologies into a unified, resilient protocol.
+* The core of Hemi's innovation is the **Hemi Bitcoin EVM (hVM)**, which incorporates a full Bitcoin node within an **Ethereum Virtual Machine**, offering developers a familiar yet powerful platform for creating decentralized applications (dApps).
+{% endhint %}
 
 ***
 
-## 👋 Friends and Family
+## 🌐 Overview
 
-To our valued Friends and Family,
-
-We extend our gratitude for being the `first` in this journey. Your participation is invaluable as we create the future of the Hemi Network. We kindly request your feedback, particularly on the following features:
-
-* [**🚰 Claim thETH through the Faucet**](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/9d951b3b-bb81-46ad-88c0-78333576353f)
-* [**💻 Deploy a Smart Contract on HEMI**](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/f1417d83-9b33-43eb-85a4-4a5254347c8e)
-* [**⭕ Claim Onboarding Capsule**](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/013b62ec-ac5a-49d4-9590-fb9931bf0958)
-* [**👥 Join Discord**](https://zealy.io/cw/hemixyz/questboard/admin/8c01ac05-b491-4af8-9170-c2d952cb2da0)
-
-Once you've completed tasks above please [fill out our feedback form](https://zealy.io/cw/hemixyz/questboard/bf9634d8-1e3c-4fdb-af3b-a5a17ec05e31/efb85e9e-7690-40b1-90d1-c8f42477cbce) to claim **200 XP!** Your insights and observations are crucial for refining and enhancing the Hemi Network.
-
-## **🎉 Reward Opportunities**
-
-Earn more rewards here at the [Quest Board](https://zealy.io/cw/hemixyz/questboard)
+* The **Hemi Network** represents a paradigm shift in blockchain scalability and interoperability, transcending traditional Layer-2 solutions by synergizing the strengths of **Bitcoin** and **Ethereum**.
+* This modular protocol aims to scale these networks and maximize their utility, creating a more connected and efficient blockchain ecosystem.
+* Through innovative features such as the **hVM**, Hemi equips developers with robust tools for building next-generation **dApps** with Bitcoin and Ethereum interoperability, while its approach to security, asset portability, and DeFi pave the way for a more inclusive and versatile digital economy.
 
 ***
 
-Thank you once again for your essential contribution and feedback. We eagerly anticipate hearing about your experience and we can't wait to create this community together!
+## 💡 Technologies Behind Hemi's Advantages
+
+{% hint style="success" %}
+*   #### Ease of Development:&#x20;
+
+    The Hemi Virtual Machine (hVM) integrates a full Bitcoin node within an Ethereum Virtual Machine (EVM), providing developers with a familiar programming interface while harnessing the power of both Bitcoin and Ethereum.
+* **Bitcoin Superfinality:** Hemi's **Proof-of-Proof (PoP)** consensus mechanism ensures transactions surpass Bitcoin's level of security in just a few hours.
+* **Trustless Cross-chain Portability:** The hVM's unique awareness of Bitcoin's and Ethereum's states enables secure, seamless asset transfers between Hemi and other chains through its "Tunnels" feature.
+* **Bitcoin-first DeFi:** The Hemi Bitcoin Kit provides detailed access to Bitcoin state, enabling smart contracts to support sophisticated DeFi applications previously not feasible.
+* **Extensibility:** Hemi allows external projects to create their own chains secured by Hemi's technology, facilitating Bitcoin-Security-as-a-Service and enhancing dual-chain interoperability.
+* **Superior Asset Handling:** Advanced on-chain functionalities, including routing, time-lock, and password protection, are made possible through Hemi, elevating asset management and security.
+{% endhint %}

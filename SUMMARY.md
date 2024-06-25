@@ -2,8 +2,7 @@
 
 ## 🏠 Main
 
-* [Hemi Network](README.md)
-* [Introduction](main/introduction.md)
+* [Introduction](README.md)
 * [Network Details](main/network-details/README.md)
   * [Testnet](main/network-details/testnet.md)
 
@@ -37,14 +36,12 @@
 * [Nodes & Clients](foundational-topics/nodes-and-clients.md)
 * [Tunneling](foundational-topics/tunneling.md)
 * [Staking](foundational-topics/staking.md)
-* [PoP Mining](foundational-topics/pop-mining/README.md)
-  * [Setup Part 1](foundational-topics/pop-mining/setup-part-1.md)
-  * [Setup Part 2](foundational-topics/pop-mining/setup-part-2.md)
+* [PoP Mining](foundational-topics/pop-mining.md)
 
-## ❓ Support
+## Tutorials
 
-* [Smart Contract Deployments](support/smart-contract-deployments.md)
-* [Portal](support/portal.md)
+* [Setup & Requesting Access Part 1](tutorials/setup-part-1.md)
+* [Setup & Start Mining Part 2](tutorials/setup-part-2.md)
 
 ## 📝 Governance
 
@@ -53,3 +50,14 @@
   * [Grants](governance/incentives/grants.md)
   * [Retroactive Funding](governance/incentives/retroactive-funding.md)
   * [One-Off Spends](governance/incentives/one-off-spends.md)
+
+## ⚡ Additional Resources
+
+* [FAQ](additional-resources/smart-contract-deployments.md)
+* [Official Links](additional-resources/official-links.md)
+* [Brand Kit](additional-resources/brand-kit.md)
+
+## 📨 Send Feedback
+
+* [Contact Us](send-feedback/contact-us.md)
+* [Report a Bug](send-feedback/report-a-bug.md)

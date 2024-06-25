@@ -1,11 +1,13 @@
 # ERC-20
 
-:::hint{type="info"}
-
+{% hint style="info" %}
 ## 📜 **TL;DR:**
 
 * This tutorial guides you through deploying an ERC-20 token using [Hardhat](https://hardhat.org/), a comprehensive Ethereum development environment. Hardhat is recommended for its powerful features, but you can use any Ethereum development tool.
-* Ensure Node.js, Hardhat, and Solidity are set up correctly for effective ERC-20 token development and deployment. :::
+* Ensure Node.js, Hardhat, and Solidity are set up correctly for effective ERC-20 token development and deployment.
+{% endhint %}
+
+
 
 ***
 
