@@ -23,7 +23,7 @@
 * View `Assets`
   *
 
-      ![](../.gitbook/assets/heminetwork-binaries-screenshot-v0.1.1.png)
+      ![](../../.gitbook/assets/heminetwork-binaries-screenshot-v0.1.1.png)
   * The files are named as `heminetwork_v0.1.1_<os>_<arch>.tar.gz` for Mac/Linux and `heminetwork_v0.1.1_windows_amd64.zip` for Windows.
 * After downloading the necessary files, you must extract them from their compressed format before you can use or access the software.
   * For `.tar.gz` **files on Mac/Linux, use the `tar`** command in the Terminal

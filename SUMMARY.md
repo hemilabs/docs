@@ -3,6 +3,10 @@
 ## 🏠 Main
 
 * [Introduction](README.md)
+* [Start Here](main/start-here/README.md)
+  * [Developers](main/start-here/developers.md)
+  * [Explorers](main/start-here/explorers.md)
+  * [Miners](main/start-here/miners.md)
 * [Network Details](main/network-details/README.md)
   * [Testnet](main/network-details/testnet.md)
 
@@ -13,6 +17,9 @@
 * [Tunnel ETH to Hemi](how-to-tutorials/tunnel-eth-to-hemi.md)
 * [Using Remix IDE](how-to-tutorials/using-remix-ide.md)
 * [ERC-20](how-to-tutorials/erc-20.md)
+* [PoP Mining](how-to-tutorials/pop-mining/README.md)
+  * [Setup & Requesting Access Part 1](how-to-tutorials/pop-mining/setup-part-1.md)
+  * [Setup & Start Mining Part 2](how-to-tutorials/pop-mining/setup-part-2.md)
 
 ## 🏁 Before You Begin
 
@@ -36,12 +43,16 @@
 * [Nodes & Clients](foundational-topics/nodes-and-clients.md)
 * [Tunneling](foundational-topics/tunneling.md)
 * [Staking](foundational-topics/staking.md)
-* [PoP Mining](foundational-topics/pop-mining.md)
+
+## ⚙️ Tools
+
+* [Foundry](tools/foundry.md)
+* [Hardhat](tools/hardhat.md)
+* [Remix](tools/remix.md)
+* [Clients](tools/clients/README.md)
+  * [viem](tools/clients/viem.md)
 
 ## Tutorials
-
-* [Setup & Requesting Access Part 1](tutorials/setup-part-1.md)
-* [Setup & Start Mining Part 2](tutorials/setup-part-2.md)
 
 ## 📝 Governance
 
@@ -53,6 +64,9 @@
 
 ## ⚡ Additional Resources
 
+* [Grants](additional-resources/grants.md)
+* [Hemi Ambassador Program](additional-resources/hemi-ambassador-program.md)
+* [Partners](additional-resources/partners.md)
 * [FAQ](additional-resources/smart-contract-deployments.md)
 * [Official Links](additional-resources/official-links.md)
 * [Brand Kit](additional-resources/brand-kit.md)
