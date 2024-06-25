@@ -11,7 +11,7 @@
 
 ## 🌐 Overview
 
-* The Hemi Network connects to both the **Bitcoin and Ethereum networks**, allowing asset portability across both, enabling a third-party cross-chain ecosystem. To create this highly secure multichain ecosystem, the Hemi Network operates 5 kinds of decentralized nodes: **Bitcoin finality governors, Bitcoin-secure sequencers, Proof-of-Proof miners, and a modified Geth node.**
+* The Hemi Network connects to both the **Bitcoin and Ethereum networks**, allowing asset portability across both, enabling a third-party cross-chain ecosystem. To create this highly secure multichain ecosystem, the Hemi Network operates several kinds of decentralized nodes: **Bitcoin finality governors, Bitcoin-secure sequencers, Proof-of-Proof miners, and a modified Geth node.**
 
 ***
 
