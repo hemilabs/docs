@@ -20,7 +20,7 @@ _Stay tuned for more._&#x20;
 ## 📐Troubleshooting
 
 1. [**Discord Channel**](https://discord.com/channels/1202677849887080508/1217860733820469298)
-2. Email [**support@hemi.xyz**](https://emailto:support@hemi.xyz)
+2. Email [**support@hemi.xyz**](mailto:support@hemi.xyz)
 
 
 
