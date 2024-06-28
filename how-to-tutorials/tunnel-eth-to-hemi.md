@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Acquire`ETH,`which is essential for initiating transactions and testing smart contracts on Hemi Testnet.
+* Acquire`ETH, which is essential` for initiating transactions and testing smart contracts on Hemi Testnet.
 * Move your ETH to Hemi by using the Tunnel, enabling interactions within the Hemi Network ecosystem.
 {% endhint %}
 
@@ -11,10 +11,9 @@
 
 ## 🏁 Prerequisites
 
-1. To test out the tunnel on the Sepolia testnet, you can obtain ETH with any of the following options:
-   1. Hemi Onboarding Capsule: New from the Hemi ecosystem, you can redeem an onboarding Capsule and simultaneously receive testnet ETH, tBTC and other exciting assets to jump-start your exploration on Hemi.
-   2. [**Using Alchemy**](https://sepoliafaucet.com/): This method requires creating an account but is generally **faster**.
-   3. [**Direct Faucet Access**](https://sepolia-faucet.pk910.de): If you prefer a no-account option, though it might be **slower**, use the Sepolia Faucet directly.
+1. To test out the tunnel on the Sepolia testnet, you can obtain ETH with either of the following options:
+   1. [**Using Alchemy**](https://sepoliafaucet.com/): This method requires creating an account but is generally **faster**.
+   2. [**Direct Faucet Access**](https://sepolia-faucet.pk910.de): If you prefer a no-account option, though it might be **slower**, use the Sepolia Faucet directly.
 2. To ensure visibility of your `ETH` on the Sepolia testnet post-transfer, toggle the `Show test networks`option in MetaMask:
    * Select the drop down on the left
    * Toggle `Show Test Networks`
@@ -26,7 +25,7 @@
 
 ## 📚 Tutorial
 
-### 1. Visit the Hemi App&#x20;
+### 1. Visit the Hemi Portal&#x20;
 
 Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunnel your ETH from Sepolia to the Hemi network.
 
@@ -38,7 +37,7 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 
 ***
 
-### 3. Select Your Preferred Wallet
+### 3. Connect to your Preferred Wallet
 
 
 
