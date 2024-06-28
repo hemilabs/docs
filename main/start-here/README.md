@@ -2,7 +2,7 @@
 
 ## 🌐 Overview
 
-Welcome to the technical documentation for Hemi, a Layer 2 solution for Bitcoin and Ethereum blockchains that offers true scalability and interoperability.&#x20;
+Welcome to the technical documentation for Hemi, a Layer-2 solution for Bitcoin and Ethereum blockchains that offers true scalability and interoperability.&#x20;
 
 This documentation is designed to guide builders and enthusiasts in understanding and utilizing the **hVM (**_**tba**_**)**. The hVM is Hemi's modular protocol that provides developers with a familiar programming interface.
 
@@ -12,7 +12,7 @@ This documentation is designed to guide builders and enthusiasts in understandin
 
 Our documentation is organized into the following sections to help you find relevant information quickly:
 
-⚡ **How To Tutorials:** These basics will get you started! Set up your MetaMask Wallet, tunnel ETH to Hemi, start with Remix IDE, and deploy an ERC-20 token and PoP mining.
+⚡ **How-To Tutorials:** These basics will get you started! Set up your MetaMask Wallet, tunnel ETH to Hemi, start with Remix IDE, deploy an ERC-20 token and run a PoP miner.
 
 ⚡ **Before You Begin:** Get a crash course in Ethereum Rollups and Proof-of-Proof within the context of Hemi.
 

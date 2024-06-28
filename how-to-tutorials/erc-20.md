@@ -15,8 +15,8 @@
 
 1. Download [VSCode ](https://code.visualstudio.com/download)or any other IDE
 2. Install [Node.js](https://nodejs.org/en/download/)
-3. [MetaMask Wallet Setup](docId:nS1WAge-Myjt-lTwTH710)
-4. [Tunnel sepETH to Hemi](docId:xWIKu2QZ4kOETgKTp1CRa)
+3. [MetaMask Wallet Setup](metamask-wallet-setup/)
+4. [Tunnel ETH to Hemi](tunnel-eth-to-hemi.md)
 
 ***
 
@@ -208,7 +208,7 @@ If the deployment is successful, you will see messages indicating the token was 
 
 
 
-To view the details of your deployed contract, enter the contract address from your success message into the [HEMI testnet explorer](https://explorer.testnet.hemi.network). This will provide you with information about the contract's transactions and state.
+To view the details of your deployed contract, enter the contract address from your success message into the [Hemi Testnet explorer](https://testnet.explorer.hemi.xyz). This will provide you with information about the contract's transactions and state.
 
 Contract details we just deployed:
 

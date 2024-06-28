@@ -21,12 +21,22 @@
 ## 💡 Technologies Behind Hemi's Advantages
 
 {% hint style="success" %}
-*   #### Ease of Development:&#x20;
+*   #### Ease of Development
 
     The Hemi Virtual Machine (hVM) integrates a full Bitcoin node within an Ethereum Virtual Machine (EVM), providing developers with a familiar programming interface while harnessing the power of both Bitcoin and Ethereum.
-* **Bitcoin Superfinality:** Hemi's **Proof-of-Proof (PoP)** consensus mechanism ensures transactions surpass Bitcoin's level of security in just a few hours.
-* **Trustless Cross-chain Portability:** The hVM's unique awareness of Bitcoin's and Ethereum's states enables secure, seamless asset transfers between Hemi and other chains through its "Tunnels" feature.
-* **Bitcoin-first DeFi:** The Hemi Bitcoin Kit provides detailed access to Bitcoin state, enabling smart contracts to support sophisticated DeFi applications previously not feasible.
-* **Extensibility:** Hemi allows external projects to create their own chains secured by Hemi's technology, facilitating Bitcoin-Security-as-a-Service and enhancing dual-chain interoperability.
-* **Superior Asset Handling:** Advanced on-chain functionalities, including routing, time-lock, and password protection, are made possible through Hemi, elevating asset management and security.
+*   **Bitcoin Superfinality**&#x20;
+
+    Hemi's **Proof-of-Proof (PoP)** consensus mechanism ensures transactions surpass Bitcoin's level of security in just a few hours.
+*   **Trustless Cross-chain Portability**
+
+    The hVM's unique awareness of Bitcoin's and Ethereum's states enables secure, seamless asset transfers between Hemi and other chains through its "Tunnels" feature.
+*   **Bitcoin-first DeFi**
+
+    The Hemi Bitcoin Kit provides detailed access to Bitcoin state, enabling smart contracts to support sophisticated DeFi applications previously not feasible.
+*   **Extensibility**
+
+    Hemi allows external projects to create their own chains secured by Hemi's technology, facilitating Bitcoin-Security-as-a-Service and enhancing dual-chain interoperability.
+*   **Superior Asset Handling**
+
+    Advanced on-chain functionalities, including routing, time-lock, and password protection, are made possible through Hemi, elevating asset management and security.
 {% endhint %}

@@ -120,7 +120,7 @@ Hemi’s Bitcoin and Ethereum Tunnels improve security while decentralizing asse
 
 <details>
 
-<summary>What is a capsule? How does it work?</summary>
+<summary>What is a Capsule? How does it work?</summary>
 
 A Capsule is a secure and gasless transfer service that sends your Hemi Testnet tokens along with a Tesnet NFT to your wallet.
 

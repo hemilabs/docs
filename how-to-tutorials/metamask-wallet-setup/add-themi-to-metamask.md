@@ -11,7 +11,7 @@
 
 ## 🌐Overview
 
-tHEMI is the testnet governance token for the Hemi Network. Initially, tHEMI tokens are used for payouts to PoP miners, as a way of acknowledging their contribution to the network's security and functionality.
+tHEMI is the testnet governance token for the Hemi Network. Initially, tHEMI tokens are used for payouts to PoP miners as a means of acknowledging their contribution to the network's security and functionality.
 
 Looking ahead, tHEMI will play a broader role in rewarding other network participants, including Sequencers, Publishers, and Challengers, who contribute to the network's resilience and growth. tHEMI is set to become the preferred gas token on the network, offering users fee discounts and enhancing transaction efficiency.
 
@@ -37,7 +37,7 @@ Looking ahead, tHEMI will play a broader role in rewarding other network partici
 ### 3. **Enter the Contract Address**
 
 * Type in the tHEMI token contract address `0x4200000000000000000000000000000000000042` into the `Token Contract Address` field.
-  * If the address is recognized, MetaMask will automatically populate the `Token Symbol` and `Decimals of Precision` fields.
+* If the address is recognized, MetaMask will automatically populate the `Token Symbol` and `Decimals of Precision` fields.
 
 ***
 
