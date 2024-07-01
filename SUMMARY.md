@@ -64,7 +64,6 @@
 
 ## ⚡ Additional Resources
 
-* [Grants](additional-resources/grants.md)
 * [Hemi Ambassador Program](additional-resources/hemi-ambassador-program.md)
 * [Partners](additional-resources/partners.md)
 * [FAQ](additional-resources/smart-contract-deployments.md)

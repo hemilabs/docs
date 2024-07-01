@@ -26,7 +26,7 @@ For intermediate to advanced users, these resources provide in-depth tutorials t
 3. [network-details](../network-details/ "mention")
 4. _**Claim a Capsule (Coming Soon)**_
 5. Deploy an [erc-20.md](../../how-to-tutorials/erc-20.md "mention")
-6. [grants.md](../../governance/incentives/grants.md "mention")
+6. [Broken link](broken-reference "mention")
 7. _**Incentives (tba)**_
 
 ***
