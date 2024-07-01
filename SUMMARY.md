@@ -58,7 +58,7 @@
 
 * [Incentives](governance/incentives/README.md)
   * [Points](governance/incentives/points.md)
-  * [Grants](governance/incentives/grants.md)
+  * [Grants](additional-resources/grants.md)
   * [Retroactive Funding](governance/incentives/retroactive-funding.md)
   * [One-Off Spends](governance/incentives/one-off-spends.md)
 
