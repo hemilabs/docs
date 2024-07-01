@@ -11,9 +11,10 @@
 
 ## 🏁 Prerequisites
 
-1. To test out the tunnel on the Sepolia testnet, you can obtain ETH with either of the following options:
-   1. [**Using Alchemy**](https://sepoliafaucet.com/): This method requires creating an account but is generally **faster**.
-   2. [**Direct Faucet Access**](https://sepolia-faucet.pk910.de): If you prefer a no-account option, though it might be **slower**, use the Sepolia Faucet directly.
+1. To test out the tunnel on the Sepolia testnet, you can obtain ETH with any of the following options:
+   1. [Hemi Discord Faucet](https://discord.gg/EcethnnA): Join the Hemi Discord to gain access to our community faucet and request ETH once per day.&#x20;
+   2. [**Using Alchemy**](https://sepoliafaucet.com/): This method requires creating an account but is generally **faster**.
+   3. [**Direct Faucet Access**](https://sepolia-faucet.pk910.de): If you prefer a no-account option, though it might be **slower**, use the Sepolia Faucet directly.
 2. To ensure visibility of your `ETH` on the Sepolia testnet post-transfer, toggle the `Show test networks`option in MetaMask:
    * Select the drop down on the left
    * Toggle `Show Test Networks`
