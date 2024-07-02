@@ -49,8 +49,7 @@
 * [Foundry](tools/foundry.md)
 * [Hardhat](tools/hardhat.md)
 * [Remix](tools/remix.md)
-* [Clients](tools/clients/README.md)
-  * [viem](tools/clients/viem.md)
+* [viem](tools/viem.md)
 
 ## Tutorials
 

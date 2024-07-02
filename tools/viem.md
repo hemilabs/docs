@@ -2,9 +2,9 @@
 
 ## 🌐 **Overview**
 
-[viem ](https://viem.sh/)is a TypeScript interface for Ethereum that offers low-level, stateless primitives for interacting with Ethereum.
+[viem ](https://viem.sh/)extension for the [Hemi Network](https://hemi.xyz/).&#x20;
 
-You can use viem to interact with smart contracts deployed on the Hemi network.
+
 
 It includes:&#x20;
 
