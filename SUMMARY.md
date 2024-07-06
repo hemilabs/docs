@@ -44,14 +44,21 @@
 * [Tunneling](foundational-topics/tunneling.md)
 * [Staking](foundational-topics/staking.md)
 
+## ⚙️ Hemi Core
+
+* [Introduction](hemi-core/introduction.md)
+* [Hemi Virtual Machine (hVM)](hemi-core/hemi-virtual-machine-hvm/README.md)
+  * [Motivation](hemi-core/hemi-virtual-machine-hvm/motivation.md)
+  * [Feature Summary](hemi-core/hemi-virtual-machine-hvm/feature-summary.md)
+  * [Deploy on hVM](hemi-core/hemi-virtual-machine-hvm/deploy-on-hvm.md)
+* [Hemi Bitcoin Kit (hBK)](hemi-core/hemi-bitcoin-kit-hbk.md)
+
 ## ⚙️ Tools
 
 * [Foundry](tools/foundry.md)
 * [Hardhat](tools/hardhat.md)
 * [Remix](tools/remix.md)
 * [viem](tools/viem.md)
-
-## Tutorials
 
 ## 📝 Governance
 
