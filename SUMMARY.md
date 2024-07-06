@@ -51,6 +51,7 @@
   * [Motivation](hemi-core/hemi-virtual-machine-hvm/motivation.md)
   * [Feature Summary](hemi-core/hemi-virtual-machine-hvm/feature-summary.md)
   * [Deploy on hVM](hemi-core/hemi-virtual-machine-hvm/deploy-on-hvm.md)
+  * [Using Remix IDE](hemi-core/hemi-virtual-machine-hvm/using-remix-ide.md)
 * [Hemi Bitcoin Kit (hBK)](hemi-core/hemi-bitcoin-kit-hbk.md)
 
 ## ⚙️ Tools
