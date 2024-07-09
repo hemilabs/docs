@@ -13,7 +13,7 @@ If you're a beginner, these resources are a great starting point! The tutorials 
 1. [using-remix-ide.md](../../how-to-tutorials/using-remix-ide.md "mention") to deploy a smart contract
 2. [metamask-wallet-setup](../../how-to-tutorials/metamask-wallet-setup/ "mention")
 3. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
-4. [hemi-ambassador-program.md](../../additional-resources/hemi-ambassador-program.md "mention")
+4. [hemi-ambassador-program](../../additional-resources/hemi-ambassador-program/ "mention")
 
 ***
 
