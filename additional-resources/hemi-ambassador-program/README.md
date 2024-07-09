@@ -5,11 +5,14 @@
 
 * Rise through ranks, earn miles, get merch, and unlock perks.
 * To get started, fill out this form (link to Ambassador form TBC, or are we using the Absinthe link?)!&#x20;
+* The Hemi Ambassador Program comprises TWO distinct tracks:
+  * [Pilot Track:](pilot-program.md) for builders that want to build using Hemi
+  * [Explorer Track:](explorer-program.md) for enthusiasts that want to spread the word about Hemi
 {% endhint %}
 
 ***
 
-## 👨‍✈️👩‍✈️ Welcome to the Hemi Ambassador Program!
+## ✈️ Welcome to the Hemi Ambassador Program!
 
 * Rise through ranks, earn miles, get merch, and unlock Captain level for the highest perks. _No pun intended._
 * There’s a few of things you can do here to earn your miles:
@@ -23,8 +26,8 @@ _Let's get exploring..._
 {% hint style="info" %}
 The Hemi Ambassador Program comprises TWO distinct tracks to earn miles and unlock perks:
 
-* Pilot Track: for builders that want to build using Hemi
-* Explorer Track: for enthusiasts that want to spread the word about Hemi
+* [Pilot Track:](pilot-program.md) for builders that want to build using Hemi
+* [Explorer Track:](explorer-program.md) for enthusiasts that want to spread the word about Hemi
 {% endhint %}
 
 ***
