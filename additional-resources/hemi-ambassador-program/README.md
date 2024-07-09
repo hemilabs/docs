@@ -23,7 +23,7 @@ _Let's get exploring..._
 {% hint style="info" %}
 The Hemi Ambassador Program comprises TWO distinct tracks to earn miles and unlock perks:
 
-* Pilot Track: for builders that want to build using Hemi
+* [Pilot Track](/pilot-program/ "mention")
 * Explorer Track: for enthusiasts that want to spread the word about Hemi
 {% endhint %}
 
