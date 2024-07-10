@@ -144,7 +144,7 @@ You can receive a Capsule containing everything you need to start building on th
 <summary>What's the benefit of claiming a Capsule on Hemi testnet?</summary>
 
 * **Comprehensive Toolkit:** Receive all the essential assets needed to begin building on the Hemi testnet in a single, easy-to-access package.
-* **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), tBTC, tHemi, and a special testnet NFT, enabling you to seamlessly onboard for Testnet in one 1-click.
+* **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), tBTC, tHEMI, and a special testnet NFT, enabling you to seamlessly onboard for testnet in one-click.
 * **Gasless:** A Capsule is delivered through a gasless transaction, meaning you can explore and build without incurring transaction fees.
 
 </details>

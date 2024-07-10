@@ -1,7 +1,7 @@
 ---
 description: >-
   The following contains summary information to help you quickly integrate with
-  the Hemi Testnet.
+  the Hemi testnet.
 ---
 
 # Testnet
