@@ -18,8 +18,7 @@
 * [Using Remix IDE](how-to-tutorials/using-remix-ide.md)
 * [ERC-20](how-to-tutorials/erc-20.md)
 * [PoP Mining](how-to-tutorials/pop-mining/README.md)
-  * [Setup: Part 1](how-to-tutorials/pop-mining/setup-part-1.md)
-  * [Start Mining: Part 2](how-to-tutorials/pop-mining/setup-part-2.md)
+  * [Run a PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
 
 ## 🏁 Before You Begin
 
@@ -44,15 +43,15 @@
 * [Tunneling](foundational-topics/tunneling.md)
 * [Staking](foundational-topics/staking.md)
 
-## ⚙️ Hemi Core
+## ⚙️ Building Bitcoin Apps
 
-* [Introduction](hemi-core/introduction.md)
-* [Hemi Virtual Machine (hVM)](hemi-core/hemi-virtual-machine-hvm/README.md)
-  * [Motivation](hemi-core/hemi-virtual-machine-hvm/motivation.md)
-  * [Feature Summary](hemi-core/hemi-virtual-machine-hvm/feature-summary.md)
-  * [Deploy on hVM](hemi-core/hemi-virtual-machine-hvm/deploy-on-hvm.md)
-  * [Using Remix IDE](hemi-core/hemi-virtual-machine-hvm/using-remix-ide.md)
-* [Hemi Bitcoin Kit (hBK)](hemi-core/hemi-bitcoin-kit-hbk.md)
+* [Introduction](building-bitcoin-apps/introduction.md)
+* [Hemi Virtual Machine (hVM)](building-bitcoin-apps/hemi-virtual-machine-hvm/README.md)
+  * [Motivation](building-bitcoin-apps/hemi-virtual-machine-hvm/motivation.md)
+  * [Feature Summary](building-bitcoin-apps/hemi-virtual-machine-hvm/feature-summary.md)
+  * [Deploy on hVM](building-bitcoin-apps/hemi-virtual-machine-hvm/deploy-on-hvm.md)
+  * [Using Remix IDE](building-bitcoin-apps/hemi-virtual-machine-hvm/using-remix-ide.md)
+* [Hemi Bitcoin Kit (hBK)](building-bitcoin-apps/hemi-bitcoin-kit-hbk.md)
 
 ## ⚙️ Tools
 

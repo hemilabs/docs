@@ -1,7 +1,7 @@
 # PoP Mining
 
 {% hint style="info" %}
-📜 **TL;DR:**
+## 📜 **TL;DR:**
 
 * Participants can secure the Hemi Network to Bitcoin and earn rewards by operating the PoP Miner application.
 {% endhint %}

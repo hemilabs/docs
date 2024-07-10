@@ -1,10 +1,12 @@
-# Setup: Part 1
+# Run a PoP Miner
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading pre-built binaries or by building from source.
+* This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading **pre-built binaries** or by **building from source**.
 * Ensure you have your development environment ready and follow the steps below to join the mining network.
+* Basic CLI skills are required.
+* To start mining, claim tBTC provided by your Hemi onboarding Capsule or send `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.&#x20;
 {% endhint %}
 
 ***
@@ -12,6 +14,8 @@
 ## 🏁 Prerequisites
 
 1. Basic CLI Knowledge
+2. [metamask-wallet-setup](../metamask-wallet-setup/ "mention")
+3. [tBTC](https://coinfaucet.eu/en/btc-testnet)
 
 ***
 
@@ -81,7 +85,6 @@ Environment:
         POPM_PROMETHEUS_ADDRESS: address and port bssd prometheus listens on 
         POPM_REMINE_THRESHOLD  : the number of L2 Keystones behind the latest seen that we are willing to remine, this is handy for re-orgs (default: 0)
         POPM_STATIC_FEE        : specify the number of sats/vB the PoP Miner will pay for fees (default: 1)
-
 ```
 
 ***
@@ -94,8 +97,6 @@ Start by generating your public key, your identifier on the Hemi Network.
 </code></pre></td></tr><tr><td><h4>For Windows</h4></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td><ol><li><p>Type the following command and press Enter:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">keygen.exe -secp256k1 -json -net="testnet" > %HOMEDRIVE%%HOMEPATH%\popm-address.json
 </code></pre></li></ol><p><strong>Note:</strong> After running the command, you might not see any immediate feedback in the Command Prompt. This is expected behavior.</p><p></p><ol start="2"><li>Open the Generated Key File</li></ol><p>After generating the key file, you'll want to check its contents. To do this, use the following command in Command Prompt:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">%HOMEDRIVE%%HOMEPATH%\popm-address.json
 </code></pre><p>This command opens the <code>popm-address.json</code> file in Notepad, allowing you to view or edit the generated key.</p></td></tr></tbody></table>
-
-
 
 ***
 
@@ -129,4 +130,75 @@ You should get an example result like:
 
 ***
 
-### 7. [Setup Part 2](setup-part-2.md)
+### 6. Import the ETH Address to MetaMask
+
+* Check the JSON for your `private_key`and import it into MetaMask.
+
+![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/YwLmvNZlpItY8LA-iIQ4h\_image.png)
+
+![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/KYSRZGcGOeqU-b7zT9xTG\_image.png)
+
+***
+
+### 7. Fund your PoP Miner Address
+
+To transfer `0.002 tBTC` to your testnet Bitcoin wallet address:
+
+* **Find Your Wallet Address**: Check the JSON from **Step 5** for your `pubkey_hash`, which is your testnet Bitcoin address.
+  * `"pubkey_hash": "m12345678P2xVWwVCWxq7tHJLGcJz2h6XYZ"`
+* **Fund Your Wallet**: Claim tBTC provided by your Hemi Network onboarding Capsule or use a testnet wallet to send `0.002 tBTC` to your `pubkey_hash` address.
+
+[👉 Get tBTC Here](https://coinfaucet.eu/en/btc-testnet)
+
+***
+
+### 8. Run the Miner
+
+Currently, the Bitcoin testnet is busy which means you will need to set a higher fee level to PoP mine successfully. You can check the latest Bitcoin testnet fees [here](https://mempool.space/testnet). In the latest version of the PoP miner, this fee is set using an environment variable. In the future, the PoP miner will have more fee configuration options for dynamic fee calculation.
+
+In your console, execute the following command while replacing `private_key` with the value found in the JSON from Step 5.
+
+*   #### Linux & macOS
+
+    ```none
+    export POPM_BTC_PRIVKEY=<private_key>
+    export POPM_STATIC_FEE=<fee_per_vB_integer>
+    export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
+    ./popmd
+    2024-02-06 18:03:19 INFO popmd popmd.go
+    ```
+*   #### For Windows
+
+    ```none
+    set POPM_BTC_PRIVKEY=<private_key>
+    set POPM_STATIC_FEE=<fee_per_vB_integer>
+    set POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public 
+    popmd.exe
+    ```
+
+***
+
+### 9. Expected Console Output
+
+```none
+2024-02-06 22:26:40 INFO popm popm.go:450 Checking for new keystone headers...
+2024-02-06 22:26:40 INFO popm popm.go:389 checking keystone received with height 88750 against last keystone 88800
+2024-02-06 22:26:40 INFO popm popm.go:389 checking keystone received with height 88775 against last keystone 88800
+2024-02-06 22:26:40 INFO popm popm.go:389 checking keystone received with height 88800 against last keystone 88800
+2024-02-06 22:26:43 INFO popm popm.go:450 Checking for new keystone headers...
+2024-02-06 22:26:43 INFO popm popm.go:389 checking keystone received with height 88750 against last keystone 88800
+2024-02-06 22:26:43 INFO popm popm.go:389 checking keystone received with height 88775 against last keystone 88800
+2024-02-06 22:26:43 INFO popm popm.go:389 checking keystone received with height 88800 against last keystone 88800
+2024-02-06 22:26:46 INFO popm popm.go:450 Checking for new keystone headers...
+2024-02-06 22:26:46 INFO popm popm.go:389 checking keystone received with height 88750 against last keystone 88800
+2024-02-06 22:26:46 INFO popm popm.go:389 checking keystone received with height 88775 against last keystone 88800
+2024-02-06 22:26:46 INFO popm popm.go:389 checking keystone received with height 88800 against last keystone 88800
+2024-02-06 22:26:49 INFO popm popm.go:450 Checking for new keystone headers...
+2024-02-06 22:26:49 INFO popm popm.go:389 checking keystone received with height 88750 against last keystone 88800
+2024-02-06 22:26:49 INFO popm popm.go:389 checking keystone received with height 88775 against last keystone 88800
+2024-02-06 22:26:49 INFO popm popm.go:389 checking keystone received with height 88800 against last keystone 88800
+```
+
+***
+
+### 10. 🎉 Congrats! You are now a Hemi PoP Miner!
