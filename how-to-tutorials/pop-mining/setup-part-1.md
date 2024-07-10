@@ -1,4 +1,4 @@
-# Setup & Requesting Access Part 1
+# Setup: Part 1
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
@@ -126,18 +126,6 @@ You should get an example result like:
 * `public_key`: Derived from the private key, this is shared publicly and used in the encryption process. For the Hemi network, it's intended for future use to whitelist addresses with the Bitcoin Finality Governor (BFG) endpoint.
 * `pubkey_hash`: Represents a Bitcoin address generated from the private\_key, which the PoP Miner application can use. It's recommended not to try importing this address into a wallet, as it's specifically for mining activities.
 {% endhint %}
-
-
-
-***
-
-### 6. Fill Out the Form 👇
-
-[🎉 Request PoP Miner Access Here](https://share.hsforms.com/1F9gO8imjSNaBADcqyuqtTAcrqw2)
-
-* With your public key in hand, proceed to register as a PoP Miner on the Hemi Network.
-* Complete the form with essential details, **including your public key ONLY** and other relevant information.
-* By submitting this form, you're expressing your intention to join the network as a miner. Please be as descriptive as possible.
 
 ***
 

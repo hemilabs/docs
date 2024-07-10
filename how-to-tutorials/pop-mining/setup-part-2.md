@@ -1,11 +1,10 @@
-# Setup Part 2
+# Start Mining: Part 2
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* After registering, await an email from Hemi Network to confirm you're set to mine.
 * Ensure you have basic CLI skills and your address is whitelisted.
-* To start mining, claim tBTC provided by your Hemi Network onboarding Capsule or send `0.002 tBTC` to your provided testnet address and run the miner with your private key.&#x20;
+* To start mining, claim tBTC provided by your Hemi onboarding Capsule or send `0.002 tBTC` to your provided testnet address and run the miner with your private key.&#x20;
 {% endhint %}
 
 ***
@@ -14,7 +13,7 @@
 
 1. Basic CLI Knowledge
 2. [tBTC](https://coinfaucet.eu/en/btc-testnet)
-3. [metamask-wallet-setup](../../how-to-tutorials/metamask-wallet-setup/ "mention")
+3. [metamask-wallet-setup](../metamask-wallet-setup/ "mention")
 4. [setup-part-1.md](setup-part-1.md "mention")
 
 ***
