@@ -16,7 +16,7 @@ description: >-
 | **ChainID**                   | 743111                                                                                     |
 | **RPC API endpoint**          | [https://testnet.rpc.hemi.network/rpc](https://testnet.rpc.hemi.network/rpc)               |
 | **Explorer**                  | [https://testnet.explorer.hemi.xyz](https://testnet.explorer.hemi.xyz)                     |
-| **Tunnel**                    | `in progress`                                                                              |
+| **Tunnel**                    | [https://app.hemi.xyz](https://app.hemi.xyz)                                               |
 | **Faucet**                    | [https://discord.gg/hemixyz](https://discord.gg/hemixyz)                                   |
 | **PoP Miner Endpoint**        | [wss://testnet.rpc.hemi.network/v1/ws/public](wss://testnet.rpc.hemi.network/v1/ws/public) |
 

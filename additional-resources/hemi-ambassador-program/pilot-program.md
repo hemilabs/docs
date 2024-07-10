@@ -1,7 +1,5 @@
 # Pilot Program
 
-
-
 ## 🥇 Ranking System
 
 ### 1st Rank: Cadet
@@ -108,16 +106,125 @@
 
 {% endhint %}
 
+***
 
+### 4th Rank: Check Airman
 
+> **Rising up:** Develop premium content like tutorials, blogs and evergreen memes. Nurture community through entertainment, education, creativity and networking.
 
+{% hint style="info" %}
+✅ **Requirements:**&#x20;
 
+* Introduce quality ambassadors to the program
+* Foster growth and advancement of level 3 ambassadors
+* Lead community engagement initiatives of your own doing
+* Conduct high quality education sessions or workshops
+* Attend events and report back meaningful insights like industry trends, opportunities
 
+\
+🏆 **Non-material Rewards:**
 
+* Title of official Hemi ambassador
+* Dedicated page featuring official ambassadors
+* VIP invitations to virtual events, local events, summits, workshops, hackathons
+* Exclusive invites for internal brainstorming sessions and strategic planning
+* The opportunity to join IRL local Hemi events
 
+\
+👕 **Swag:**
 
+* Aviators
+* Shirt
 
+\
+📈 **How to Advance:**
 
+* Host events: in person or virtual events like hackathons, workshops, meetups
+* Introduce multiple high quality ambassadors
+* Assist in training and managing high level ambassadors over level 3
+* Maintain relationships with other communities for collaboration
+* Continue creating high quality content
+{% endhint %}
 
+***
 
-<table><thead><tr><th width="158">Rank Name</th><th width="82">Rank</th><th width="311">Description</th><th width="277">Requirements</th><th width="245">Non-Material Rewards</th><th>Swag</th><th width="262">How to Advance</th></tr></thead><tbody><tr><td>Cadet</td><td>1st</td><td><strong>New member:</strong> Connect with us in our communities.</td><td><ul><li>Join Discord</li></ul></td><td><ul><li>Become a part of our community</li></ul></td><td>N/A</td><td><ul><li>Unlock Discord Level 1</li><li>Follow us on X</li><li>Finish "Intro to Hemi" quiz on Absinthe</li></ul></td></tr><tr><td>2nd Officer</td><td>2nd</td><td><strong>Spread awareness:</strong> Embrace sharing, learning, helping and spreading the word about Hemi. </td><td><ul><li>Engage with Hemi content (across Discord, X, and other socials)</li><li>Participate in online events</li></ul></td><td><ul><li>Access to private Ambassador Discord channel</li></ul></td><td>Stickers</td><td><ul><li>Engage with us on X (like, repost, comment)</li><li>Make a meme and share it in the Discord and tag Twitter account</li><li>Add the airplane emoji to your Twitter name</li><li>Post two original Tweets about our updates</li></ul></td></tr><tr><td>1st Officer</td><td>3rd</td><td><strong>Getting committed:</strong> Become an active participant in content creation, assisting newcomers and engaging on social media platforms. </td><td><ul><li>Participate actively on socials and Discord</li><li>Provide support on Discord and Twitter</li><li><p>Generate content, including:</p><ul><li>Tutorials</li><li>Blogs</li><li>Memes</li><li>Educational content</li><li>Produce videos</li><li>Translate content</li><li>Initiate threads</li><li>Make posts</li></ul></li></ul></td><td></td><td>Pin</td><td></td></tr><tr><td>Check Airman</td><td>4th</td><td><strong>Rising up:</strong> Develop premium content like tutorials, blogs and evergreen memes. Nurture community through entertainment, education, creativity and networking.</td><td><ul><li>Introduce quality ambassadors to the program</li><li>Foster growth and advancement of Level 3 Ambassadors</li><li>Lead community engagement initiatives of your own doing</li><li>Conduct high quality education sessions or workshops</li><li>Attend events and report back meaningful insights like industry trends and opportunities</li></ul></td><td></td><td></td><td></td></tr><tr><td>Chief Pilot</td><td>5th</td><td><strong>Getting higher:</strong> Assist managing the ambassador program (interview new ambassadors, onboard ambassadors, guide new users in our Discord and social media). Educate, inspire and assist other ambassadors for impactful community management.</td><td><ul><li>Attend local events on Hemi’s behalf</li><li>Host virtual or in person meetups/happy hours</li><li>Collaborate with other communities for joint events/workshops/announcements</li><li>Create captivating surveys, games, questionnaires, long interview questions, contests to keep communities engaged</li><li><p>Showcase strong commitment to consistently crafting superior engaging content covering many topics:</p><ul><li>Educational videos, guides, research, podcast</li><li>Well-researched articles</li><li>Enlightening and educational threads</li></ul></li></ul></td><td></td><td></td><td></td></tr><tr><td>Captain</td><td>6th</td><td><strong>You’ve peaked:</strong> Actively assist in the development of young ambassadors and be a key part of the Hemi team by hosting events and collaborating with the Hemi team. <strong>Earn the opportunity to be flown out to our live events!</strong></td><td><ul><li>Attend global events on Hemi’s behalf*</li><li>Take initiative on partnerships: find and pitch partnership opportunities </li><li>Actively engage to nurture relationships with key users, key voices, groups and other complementary communities</li><li>Provide a competitive analysis to similar brands</li><li>Maintain a close and active relationships with Hemi team</li></ul></td><td></td><td></td><td></td></tr></tbody></table>
+### 5th Rank: Chief Pilot
+
+> **Getting higher:** Assist managing the ambassador program, interview and onboard ambassadors, guide new users in our Discord and social media. Educate, inspire and assist other ambassadors for impactful community management.
+
+{% hint style="info" %}
+✅ **Requirements:**&#x20;
+
+* Attend local events on Hemi’s behalf
+* Host virtual or in person meetups/happy hours
+* Collaborate with other communities for joint events/workshops/announcements
+* Create captivating surveys, games, questionnaires, long interview questions, contests to keep communities engaged
+* Showcase strong commitment to consistently crafting superior engaging content covering many topics:
+  * Educational videos, guides, research, podcast
+  * Well-researched articles
+  * Enlightening and educational threads
+
+\
+🏆 **Non-material Rewards:**
+
+* Regular group calls with Hemi team and 6th Rank Ambassadors
+* Early opportunities to preview an work on pre-launch projects
+* Recognition on Discord and Twitter for contributions
+* Invitation to host/moderate ELI5 series
+
+\
+👕 **Swag:**
+
+* TBD
+
+\
+📈 **How to Advance:**
+
+* Help Hemi DevRel team filter ambassador applications and onboard interviews
+* Identify speaking opportunities for Hemi team (events, podcasts, etc)
+* Consistently provide support to newcomers
+* Create an educational/insightful video for Hemi
+* Achieve level 30 inside Hemi Discord
+* Regularly participate in Twitter Spaces
+* Collaborate with other Hemi ambassadors for joint community initiatives
+{% endhint %}
+
+***
+
+### 6th Rank: Captain
+
+> **You’ve peaked:** Actively assist in the development of young ambassadors and be a key part of the Hemi team by hosting events. **You may have the opportunity to be flown out to our live events!**
+
+{% hint style="info" %}
+✅ **Requirements:**&#x20;
+
+* Attend global events on Hemi’s behalf
+* Take initiative on partnerships: find and pitch partnership opportunities&#x20;
+* Actively engage to nurture relationships with key users, key voices, groups and other complementary communities
+* Provide a competitive analysis to similar brands
+* Maintain a close and active relationships with Hemi team
+
+\
+🏆 **Non-material Rewards:**
+
+* Opportunity to meet Hemi team globally at a virtual event, all expenses paid\*
+* 1:1 mentorship call with Hemi Co-founders
+* A consultant for Hemi community initiatives moving forward
+* Invitations to IRL events
+* First pick for Hemi job openings
+* Invitation to host/moderate ELI5 series
+
+\
+👕 **Swag:**
+
+* Captains hat
+
+\
+📈 **How to Advance:**
+
+* Maintain level 5 requirements
+* Host a Twitter Spaces 1x month
+* Play an active role in shaping Hemi’s community strategy
+* Serve as a mentor to other community members and ambassadors
+* Take the lead on spearheading collaborative efforts with external communities
+{% endhint %}

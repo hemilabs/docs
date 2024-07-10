@@ -64,6 +64,4 @@
 * **New Inflationary $HEMI for Security**: Introducing new $HEMI tokens specifically allocated to enhance network security and operational robustness.
 * **Governance Transition**: Phasing out direct grant applications and transitioning to a decentralized governance model (DeGov) to manage future grants and investments.
 
-
-
-_Note: Points awarded by the Hemi Network are intended to encourage user activities that are beneficial to the network. Points have no intrinsic value. The exchange or conversion of points to $HEMI tokens, if any, will be undertaken at the sole discretion of the Network._
+> _**Note:** Points awarded by the Hemi Network are intended to encourage user activities that are beneficial to the network. Points have no intrinsic value. The exchange or conversion of points to rewards, if any, will be undertaken at the sole discretion of Hemi._

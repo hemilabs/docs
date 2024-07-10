@@ -28,8 +28,7 @@ For intermediate to advanced users, these resources provide in-depth tutorials t
 5. CLI PoP Miner (link to docs)
 6. [_**Claim a Capsule**_ ](https://app.hemi.xyz/get-started/)
 7. Deploy an [erc-20.md](../../how-to-tutorials/erc-20.md "mention")
-8. [Broken link](broken-reference "mention")
-9. _**Incentives (tba)**_
+8. [**Incentives**](../../governance/incentives/)
 
 ***
 

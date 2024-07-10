@@ -75,7 +75,7 @@ Check out [incentives](../governance/incentives/ "mention") for the most recent 
 
 **🌐 Overview**
 
-Preparing your smart contract for deployment involves a critical step: <mark style="background-color:green;">verification</mark>. This process not only helps in catching potential issues early but also enhances the contract's integrity before it goes live.
+Preparing your smart contract for deployment involves a critical step: <mark style="background-color:green;">verification</mark>. This process not only helps in catching potential issues early but also enhances the contract's integrity before it goes live.&#x20;
 
 **🔍 Verification is Key**
 
@@ -85,6 +85,8 @@ Verifying your smart contract is paramount to ensure its readiness for deploymen
 
 * **Navigate to Contract Details:** Access your contract's details within your development environment or via a testnet blockchain explorer where your contract will be deployed.
 * Look for the `Verify and Publish` option. **Selecting this begins the verification process, which is essential for assessing whether your contract operates as intended and is ready for interaction with users.**
+
+[Read more](https://docs.blockscout.com/for-users/verifying-a-smart-contract) about verifying smart contracts deployed on Hemi.
 
 </details>
 
@@ -102,7 +104,7 @@ You can use our platform to access a variety of tokens, including ETH, USDT, USD
 
 <summary>Where is the faucet?</summary>
 
-The faucet can be found in the [Discord channel](https://discord.com/channels/1202677849887080508/1230886659222929418). You can get more Testnet tokens from there.&#x20;
+The faucet can be found in the [Discord channel](https://discord.com/channels/1202677849887080508/1230886659222929418). You can get more testnet tokens from there.&#x20;
 
 </details>
 
@@ -122,15 +124,15 @@ Hemi’s Bitcoin and Ethereum Tunnels improve security while decentralizing asse
 
 <summary>What is a Capsule? How does it work?</summary>
 
-A Capsule is a secure and gasless transfer service that sends your Hemi Testnet tokens along with a Tesnet NFT to your wallet.
+A Capsule is a secure and gasless transfer service that sends your Hemi testnet tokens along with a testnet NFT to your wallet.
 
-You can receive a Capsule containing everything you need to start building on the Hemi Testnet in one package! Here’s how it works:
+You can receive a Capsule containing everything you need to start building on the Hemi testnet in one package! Here’s how it works:
 
-1. **Input your email:** Once registered, we'll send a Capsule directly to your wallet.
+1. **Input your email:** Once registered, we'll send a Capsule link directly to your email.
 2. **What’s inside the Capsule?**
    * ETH (Sepolia)
    * tBTC
-   * tHemi
+   * tHEMI
    * Testnet NFT
 
 **Note:** Only one Capsule can be claimed per user.
@@ -139,10 +141,10 @@ You can receive a Capsule containing everything you need to start building on th
 
 <details>
 
-<summary>What's the benefit of claiming a Capsule on Hemi Testnet?</summary>
+<summary>What's the benefit of claiming a Capsule on Hemi testnet?</summary>
 
-* **Comprehensive Toolkit:** Receive all the essential assets needed to begin building on the Hemi Testnet in a single, easy-to-access package.
-* **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), tBTC, tHemi, and a special Testnet NFT, enabling you to seamlessly onboard for Testnet in one 1-click.
+* **Comprehensive Toolkit:** Receive all the essential assets needed to begin building on the Hemi testnet in a single, easy-to-access package.
+* **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), tBTC, tHemi, and a special testnet NFT, enabling you to seamlessly onboard for Testnet in one 1-click.
 * **Gasless:** A Capsule is delivered through a gasless transaction, meaning you can explore and build without incurring transaction fees.
 
 </details>

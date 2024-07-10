@@ -1,11 +1,12 @@
 # Add tHEMI to MetaMask
 
-📜 **TL;DR:**
+{% hint style="info" %}
+## 📜 **TL;DR:**
 
-* **tHEMI:** Governance token for the Hemi Network's testnet phase.
-* **Rewards:** Initially for PoP miners; will expand to Sequencers, Publishers, and Challengers.
-* **Future Role:** To become the primary gas token, offering fee discounts.
-* **Manage tHEMI:** View balance and transactions directly in MetaMask. :::
+* **tHEMI** is the governance token for the Hemi Network's testnet phase.
+* tHEMI tokens are used for payouts to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
+* View your tHEMI balance and transactions directly in MetaMask. :::
+{% endhint %}
 
 ***
 

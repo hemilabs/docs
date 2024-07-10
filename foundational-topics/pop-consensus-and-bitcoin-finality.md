@@ -22,11 +22,7 @@
 * The Hemi Network accounts for fluctuations in Bitcoin's transaction fees and block timings, recognizing that network-state proofs might not appear in every block.
 * To manage this variability, a **finality delay** of nine Bitcoin blocks is implemented.
 
-> If no competing fork publishes proofs to Bitcoin during this period, the network assumes finality, requiring a
->
-> **51% attack on both the Hemi and Bitcoin networks**
->
-> to alter this.
+> If no competing fork publishes proofs to Bitcoin during this period, the network assumes finality, requiring a **51% attack on both the Hemi and Bitcoin networks** to alter this.
 
 ***
 

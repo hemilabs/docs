@@ -1,6 +1,6 @@
 # Grants
 
-## Getting Started
+## 🏁 Getting Started
 
 We are always open to new ideas, but here are some specific areas we believe will impact the network most.
 
@@ -8,7 +8,7 @@ If you don't see your idea on this list, we also want to hear about projects you
 
 ***
 
-## Bitcoin "Intelligent" dApps
+## 🤖 Bitcoin "Intelligent" dApps
 
 Any dApp you are passionate about building that would benefit from Bitcoin awareness.
 
@@ -26,11 +26,9 @@ Any dApp you are passionate about building that would benefit from Bitcoin aware
   * A service that facilitates the creation of Ordinals.&#x20;
 * Any other novel Bitcoin dApp that benefits from introspection into Bitcoin data
 
-
-
 ***
 
-## dApp Ideas
+## 💡 dApp Ideas
 
 * DEXes
 * Lending Markets
@@ -48,7 +46,7 @@ Any dApp you are passionate about building that would benefit from Bitcoin aware
 
 ## Other
 
-* Wallet support (either $HEMI itself and/or PoP mining embedded in a Bitcoin wallet)
+* Wallet support (either tHEMI itself and/or PoP mining embedded in a Bitcoin wallet)
 * Improvements to existing services (explorer, portal, demo dApps, etc.)
 * Oracles
 

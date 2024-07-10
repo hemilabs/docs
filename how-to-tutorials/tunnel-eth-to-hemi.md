@@ -34,7 +34,9 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 
 ### 2. Connect Wallet
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/portal_disconnected_wallet_CTA.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -59,7 +61,7 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 * Enter the amount you would like to tunnel
 * Click `Deposit`
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/portal_tunnel_deposit_CTA.png" alt=""><figcaption></figcaption></figure>
 
 * Click `Confirm`
 

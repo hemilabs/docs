@@ -38,7 +38,7 @@
 ## 📝 **Tips**
 
 * 🚫 **Single Key, Single Miner**: Using the same key for multiple PoP miner instances can lead to conflicts, as they may attempt to use the same Bitcoin UTXO simultaneously, causing operational issues.
-* 🗂 Purpose of `popm-address.json`: This file serves as a secure storage for your generated keys, meant for reference. The actual Bitcoin key used by the PoP Miner is specified through an environment variable at the program's start.
+* 🗂 **Purpose of** `popm-address.json`: This file serves as a secure storage for your generated keys, meant for reference. The actual Bitcoin key used by the PoP Miner is specified through an environment variable at the program's start.
 * 🔑 **Unified Private Key**: Your single private key generates both a Bitcoin address and a Hemi address. The Hemi network automatically processes your public key from Bitcoin transactions, converting it into a Hemi address to receive payouts.
 * ⚡ **Bitcoin Testnet Dynamics**: The Bitcoin testnet can undergo periods of rapid block generation due to block difficulty adjustments after inactive periods. This unusual pace can temporarily impact the timing and processing of payouts.
 {% endhint %}

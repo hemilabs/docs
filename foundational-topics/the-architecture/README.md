@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* **The Hemi Network operates 4** kinds of specialized nodes: Bitcoin finality governors, Bitcoin-secure sequencers, Proof-of-Proof miners, and a modified Geth node.
+* **The Hemi Network operates four** kinds of specialized nodes: Bitcoin finality governors, Bitcoin-secure sequencers, Proof-of-Proof miners, and a modified Geth node.
 * The network’s nodes maintain its EVM and ensure decentralized operability across **Bitcoin**, **Ethereum**, and other EVM-compatible chains.
 {% endhint %}
 
