@@ -16,8 +16,6 @@ _The Hemi Network uses a hybrid of Proof-of-Stake (PoS) and Proof-of-Proof (PoP)
 
 ***
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/fhjqPWKStM6xmcXH1uKGw\_image.png)
-
 ## 🌐 **Overview**
 
 The Hemi Network utilizes the Bitcoin-Secure Sequencer (BSS), a type of Proof-of-Stake (PoS) node, to achieve consensus, or agreement, on the network’s status. By leveraging the Bitcoin blockchain, the Hemi Network decentralizes its security measures, reducing reliance on internal network validators.
