@@ -23,7 +23,7 @@
 
 ### 1. Binaries
 
-* Download a pre-built binary or[ build from source using the README](https://github.com/hemilabs/heminetwork/releases).
+* [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source).
 * View `Assets`
   *
 
