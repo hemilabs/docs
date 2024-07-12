@@ -31,7 +31,7 @@
 
 * Navigate to the [PoP miner web interface](https://pop-miner.hemi.xyz).
 
-### **2. Generate or Input Private Key:**&#x20;
+### **2. Generate or Input Private Key**
 
 * **Generate a Private Key:** Click on the option to generate a new private key. This key will be used for your PoP mining activities.
 * **Input Existing Private Key:** If you already have a private key, select this option and input your key to proceed.
