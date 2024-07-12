@@ -23,6 +23,15 @@
 
 ***
 
+## ⛏️ Run a PoP Miner
+
+There are two primary methods to run a PoP miner within the Hemi Network:
+
+1. [CLI Version:](https://docs.hemi.xyz/how-to-tutorials/pop-mining/setup-part-1) The CLI (Command Line Interface) version of PoP mining is designed for long-term, continuous operation. It requires some technical knowledge for setup and maintenance but provides robust security and operational efficiency.&#x20;
+2. Web-based Miner: The web-based PoP miner, built with WebAssembly (WASM), is lightweight and user-friendly, requiring no special hardware. It is ideal for users of all experience levels to test and run their own PoP miner. While it is not recommended for long-term operation, it is perfect for short-term experimentation and as an introduction to the more durable CLI version.
+
+***
+
 ## 💸 **Earning Rewards**
 
 |                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

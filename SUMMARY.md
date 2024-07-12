@@ -18,7 +18,8 @@
 * [Using Remix IDE](how-to-tutorials/using-remix-ide.md)
 * [ERC-20](how-to-tutorials/erc-20.md)
 * [PoP Mining](how-to-tutorials/pop-mining/README.md)
-  * [Run a PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
+  * [CLI PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
+  * [Web-based PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
 
 ## 🏁 Before You Begin
 

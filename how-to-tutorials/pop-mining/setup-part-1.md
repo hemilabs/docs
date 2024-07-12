@@ -1,12 +1,12 @@
-# Run a PoP Miner
+# CLI PoP Miner
 
 {% hint style="info" %}
-## 📜 **TL;DR:**
+### 📜 **TL;DR:**
 
 * This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading **pre-built binaries** or by **building from source**.
 * Ensure you have your development environment ready and follow the steps below to join the mining network.
 * Basic CLI skills are required.
-* To start mining, claim tBTC provided by your Hemi onboarding Capsule or send `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.&#x20;
+* To start mining, claim tBTC provided by your Hemi onboarding Capsule or send `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
 {% endhint %}
 
 ***
@@ -24,11 +24,13 @@
 ### 1. Binaries
 
 * [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source).
-* View `Assets`
-  *
+*   View `Assets` \*
 
-      ![](../../.gitbook/assets/heminetwork-binaries-screenshot-v0.1.1.png)
-  * The files are named as `heminetwork_v0.1.1_<os>_<arch>.tar.gz` for Mac/Linux and `heminetwork_v0.1.1_windows_amd64.zip` for Windows.
+    ```
+    ![](../../.gitbook/assets/heminetwork-binaries-screenshot-v0.1.1.png)
+    ```
+
+    * The files are named as `heminetwork_v0.1.1_<os>_<arch>.tar.gz` for Mac/Linux and `heminetwork_v0.1.1_windows_amd64.zip` for Windows.
 * After downloading the necessary files, you must extract them from their compressed format before you can use or access the software.
   * For `.tar.gz` **files on Mac/Linux, use the `tar`** command in the Terminal
   * For `.zip` files on Windows, use the built-in extraction tool by right-clicking on the file and choosing `Extract All`
@@ -49,12 +51,12 @@ ls
 
 Your output should be:
 
-*   #### Linux & macOS
+*   **Linux & macOS**
 
     ```none
     bfgd    bssd    extool    hemictl    keygen    popmd    tbcd
     ```
-*   #### For Windows
+*   **For Windows**
 
     ```none
     bfgd.exe    bssd.exe    extool.exe     hemictl.exe     keygen.exe     popmd.exe     tbcd.exe
@@ -93,9 +95,9 @@ Environment:
 
 Start by generating your public key, your identifier on the Hemi Network.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4>Linux &#x26; macOS</h4></td><td><p></p><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p></p><p><strong>Run the following command:</strong> </p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json -net="testnet" > ~/popm-address.json
-</code></pre></td></tr><tr><td><h4>For Windows</h4></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td><ol><li><p>Type the following command and press Enter:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">keygen.exe -secp256k1 -json -net="testnet" > %HOMEDRIVE%%HOMEPATH%\popm-address.json
-</code></pre></li></ol><p><strong>Note:</strong> After running the command, you might not see any immediate feedback in the Command Prompt. This is expected behavior.</p><p></p><ol start="2"><li>Open the Generated Key File</li></ol><p>After generating the key file, you'll want to check its contents. To do this, use the following command in Command Prompt:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">%HOMEDRIVE%%HOMEPATH%\popm-address.json
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p><strong>Run the following command:</strong></p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json -net="testnet" > ~/popm-address.json
+</code></pre></td></tr><tr><td><strong>For Windows</strong></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td><ol><li><p>Type the following command and press Enter:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">keygen.exe -secp256k1 -json -net="testnet" > %HOMEDRIVE%%HOMEPATH%\popm-address.json
+</code></pre></li></ol><p><strong>Note:</strong> After running the command, you might not see any immediate feedback in the Command Prompt. This is expected behavior.</p><ol start="2"><li>Open the Generated Key File</li></ol><p>After generating the key file, you'll want to check its contents. To do this, use the following command in Command Prompt:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">%HOMEDRIVE%%HOMEPATH%\popm-address.json
 </code></pre><p>This command opens the <code>popm-address.json</code> file in Notepad, allowing you to view or edit the generated key.</p></td></tr></tbody></table>
 
 ***
@@ -119,7 +121,7 @@ You should get an example result like:
 ```
 
 {% hint style="info" %}
-#### Glossary
+**Glossary**
 
 * `ethereum_address`: This is the unique identifier to which you can send Ethereum-based funds, including those on mainnets, testnets (like Sepolia), and Layer 2 networks (like Hemi). It facilitates cross-environment transactions, meaning the same address is applicable across different Ethereum networks.
 * `network`: Refers to the specific blockchain environment (e.g., Ethereum mainnet, Sepolia testnet, or a Layer 2 solution) that a transaction or operation is intended for.
@@ -158,7 +160,7 @@ Currently, the Bitcoin testnet is busy which means you will need to set a higher
 
 In your console, execute the following command while replacing `private_key` with the value found in the JSON from Step 5.
 
-*   #### Linux & macOS
+*   **Linux & macOS**
 
     ```none
     export POPM_BTC_PRIVKEY=<private_key>
@@ -167,7 +169,7 @@ In your console, execute the following command while replacing `private_key` wit
     ./popmd
     2024-02-06 18:03:19 INFO popmd popmd.go
     ```
-*   #### For Windows
+*   **For Windows**
 
     ```none
     set POPM_BTC_PRIVKEY=<private_key>
