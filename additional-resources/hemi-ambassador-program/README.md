@@ -14,14 +14,14 @@
 
 ## ✈️ Welcome to the Hemi Ambassador Program!
 
-* The Hemi Ambassador Program is a way to explore the Hemisphere. Meet other and crypto enthusiasts championing the growth of technology in Web3.&#x20;
+* The Hemi Ambassador Program is a way to explore the Hemisphere. Meet builders and crypto enthusiasts championing the growth of technology in Web3.
 * We aspire to nurture leaders, establish a forward-thinking and collaborative community and support Aviators with education and experience. Our community is full of like-minded individuals that believe shaping Web3 starts today and we are honored to have you all a part of our Hemi community!
 * Rise through ranks, earn miles, get merch, and unlock Captain level for the highest perks. _No pun intended._
 * There’s a few of things you can do here to earn your miles:
   * **Tech stuff: C**oding, mining
   * **Creative projects:** Art, design
   * **Community building:** Connect with others
-  * **Social events:** Have some fun
+  * **Social events:** Host, attend
 
 {% hint style="info" %}
 The Hemi Ambassador Program offers two tracks:
@@ -41,7 +41,9 @@ _Enthusiasts are able to move up the ranks the same way a builder can with tasks
   * **🎙️ Engagement:** Connecting with us and other users is the cornerstone of any community. Initiate thought-provoking conversations with community members, create content (yes, memes too!), organize events, assist others and provide feedback to the Hemi team.
   * **🗣️ Advocacy:** Share your knowledge and experience with other Web3 enthusiasts and builders, be a point of contact for users and direct them to the docs or other resources they may need.
   * **🧐 Research:** By being present in these communities, you have access to unique insights with pain points, trends and ideas. These valuable insights help us strengthen the Hemi brand and user experience.
-  * **📚 Educator:** By being an extension of Hemi, you’re given the opportunity to create educational content, host events and potentially join us for our live events globally\*.
+  * **📚 Educator:** By being an extension of Hemi, you’re given the opportunity to create educational content, host events and potentially join us for our live events globally.\*
+
+> _\* please confirm your country is eligible for these perks by contacting us at info-hemi@hemi.xyz_
 
 ***
 
