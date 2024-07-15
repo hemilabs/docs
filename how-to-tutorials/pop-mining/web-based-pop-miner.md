@@ -6,7 +6,7 @@
 * In this tutorial, we will run a [web-based PoP Miner](https://pop-miner.hemi.xyz).
 * The web-based PoP miner is designed for ease of use, allowing users of all experience levels to test and run their own PoP miner.&#x20;
 * We recommend storing only a **limited amount of working funds** in the wallet associated with the web-based miner.&#x20;
-* The web-based PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status, costs, and rewards.&#x20;
+* The web-based PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status and cost.
 {% endhint %}
 
 ***
@@ -59,7 +59,7 @@
 ## 👀 Monitoring Your Mining
 
 * The dashboard displays your tHEMI and tBTC balances. A tBTC balance is required to pay for gas fees published to the Bitcoin network. tHEMI is rewarded to addresses running a PoP node for participating in and securing the Hemi Network.
-* The web-based PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status, costs, and rewards.&#x20;
+* The web-based PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status and cost.
 
 ***
 
