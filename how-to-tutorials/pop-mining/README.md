@@ -19,7 +19,7 @@
 
 1. **Fetching Headers**: The PoP Miner retrieves network headers from the Bitcoin Finality Governor for Bitcoin blockchain publication.
 2. **Transaction Construction**: The miner constructs Bitcoin transactions embedding aforementioned Hemi Network headers.
-3. **Proof of Publication**: The miner then submits cryptographic proofs back to the Governor, integrating these into Hemi's consensus layer and rewarding the miner.
+3. **Proof of Publication**:  Miners broadcast transactions through the Governor. These transactions are then integrated into Hemi’s consensus layer after being validated via the Bitcoin network, resulting in miner rewards.
 
 ***
 
