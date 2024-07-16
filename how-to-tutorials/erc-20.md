@@ -15,7 +15,7 @@
 
 1. Download [VSCode ](https://code.visualstudio.com/download)or any other IDE
 2. Install [Node.js](https://nodejs.org/en/download/)
-3. [MetaMask Wallet Setup](metamask-wallet-setup/)
+3. [MetaMask Wallet Setup](metamask-wallet-setup.md)
 4. [Tunnel ETH to Hemi](tunnel-eth-to-hemi.md)
 
 ***

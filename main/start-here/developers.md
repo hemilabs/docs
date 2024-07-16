@@ -11,7 +11,7 @@ _wip_
 If you're a beginner, these resources are a great starting point! The tutorials are very thorough and designed for anyone without experience, whether you're an artist, a gamer, or a crypto enthusiast.&#x20;
 
 1. [using-remix-ide.md](../../how-to-tutorials/using-remix-ide.md "mention") to deploy a smart contract
-2. [metamask-wallet-setup](../../how-to-tutorials/metamask-wallet-setup/ "mention")
+2. [metamask-wallet-setup.md](../../how-to-tutorials/metamask-wallet-setup.md "mention")
 3. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
 4. [hemi-ambassador-program](../../additional-resources/hemi-ambassador-program/ "mention")
 

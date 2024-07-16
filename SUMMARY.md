@@ -12,14 +12,14 @@
 
 ## 📖 How-To Tutorials
 
-* [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup/README.md)
-  * [Add tHEMI to MetaMask](how-to-tutorials/metamask-wallet-setup/add-themi-to-metamask.md)
+* [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup.md)
 * [Tunnel ETH to Hemi](how-to-tutorials/tunnel-eth-to-hemi.md)
 * [Using Remix IDE](how-to-tutorials/using-remix-ide.md)
 * [ERC-20](how-to-tutorials/erc-20.md)
 * [PoP Mining](how-to-tutorials/pop-mining/README.md)
   * [CLI PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
   * [Web-based PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
+  * [Add tHEMI to MetaMask](how-to-tutorials/pop-mining/add-themi-to-metamask.md)
 
 ## 🏁 Before You Begin
 

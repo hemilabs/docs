@@ -14,7 +14,7 @@
 ## 🏁 Prerequisites
 
 1. Basic CLI Knowledge
-2. [metamask-wallet-setup](../metamask-wallet-setup/ "mention")
+2. [metamask-wallet-setup.md](../metamask-wallet-setup.md "mention")
 3. [tBTC](https://coinfaucet.eu/en/btc-testnet)
 
 ***
