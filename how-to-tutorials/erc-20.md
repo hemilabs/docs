@@ -13,7 +13,7 @@
 
 ## 🏁 Prerequisites
 
-1. Download [VSCode ](https://code.visualstudio.com/download)or any other IDE
+1. Download [VSCode ](https://code.visualstudio.com/download)(or any other IDE)
 2. Install [Node.js](https://nodejs.org/en/download/)
 3. [MetaMask Wallet Setup](metamask-wallet-setup.md)
 4. [Tunnel ETH to Hemi](tunnel-eth-to-hemi.md)
@@ -117,28 +117,42 @@ a) Export your Private Key from MetaMask:
 * Select `Confirm`
 * Select the unlock button to reveal your password.
 
-b) Create an `.env` file in the root directory of your project and add your private key.
+b) Install `dotenv` package
+
+```shell
+npm install dotenv
+```
+
+c) Run the command `touch .env` to create an `.env` file in the root directory of your project.&#x20;
+
+```
+touch .env
+```
+
+d) Run the command `nano .env` to open the CLI editor&#x20;
+
+```none
+nano .env
+```
+
+e) Add your private key to the `.env` file.
 
 ```none
 PRIVATE_KEY=your_exported_private_key
 ```
 
-:::hint{type="danger"} Ensure this file is never shared or committed to version control. :::
+{% hint style="danger" %}
+Ensure this file is never shared or committed to version control.
+{% endhint %}
 
 * Sample `.gitignore` code below
 
-```none
-node_modules/
-.env
+<pre class="language-markup"><code class="lang-markup"><strong>// Sample .gitignore code
+</strong><strong>node_modules/
+</strong>.env
 artifacts/
 cache/
-```
-
-c) Install `dotenv` package
-
-```shell
-npm install dotenv
-```
+</code></pre>
 
 ***
 
