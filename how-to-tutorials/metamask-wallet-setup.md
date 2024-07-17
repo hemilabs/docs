@@ -71,4 +71,4 @@ Select `Save` to add the Hemi network to your MetaMask and then select `Switch t
 
 ***
 
-### 7. [Add tHEMI to MetaMask](docId:iBwf4NkItg2jR9XhyZxfm) (Optional)
+### 7. [Add tHEMI to MetaMask](pop-mining/add-themi-to-metamask.md) (Optional)
