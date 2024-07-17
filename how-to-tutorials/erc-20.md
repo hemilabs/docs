@@ -22,9 +22,16 @@
 
 ## 📚 Tutorial
 
-### 1. Initialize Your NPM Project
+### 1. Create A Project Directory
 
-* In your project directory, initialize a Node.js project
+* Create a folder on your computer and name it `TestToken`.
+* This folder will serve as your project directory, containing all the elements and code needed to deploy your ERC-20 token.
+
+***
+
+### 2. Initialize Your NPM Project
+
+* In your `TestToken` project directory, open a terminal window and initialize a Node.js project
 
 ```shell
 npm init -y
@@ -32,7 +39,7 @@ npm init -y
 
 ***
 
-### 2. Install Hardhat & Ethers.js Plugin
+### 3. Install Hardhat & Ethers.js Plugin
 
 * Install Hardhat along with the Ether.js plugin, and the OpenZeppelin contracts library.
 
@@ -42,7 +49,7 @@ npm install --save-dev hardhat @nomiclabs/hardhat-ethers ethers @openzeppelin/co
 
 ***
 
-### 3. Create a HardHat Project
+### 4. Create a HardHat Project
 
 a) Inside your Node.js project, start a Hardhat project
 
@@ -56,7 +63,7 @@ b) Select `Create an empty hardhat.config.js`
 
 ***
 
-### 4. Add Folder
+### 5. Add Folder
 
 In the root directory of your project, create `contracts` and `scripts` folders:
 
@@ -66,7 +73,7 @@ mkdir contracts && mkdir scripts
 
 ***
 
-### 5. Write Your Contract
+### 6. Write Your Contract
 
 ![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/PbdlxnFGjB396RpLZIqHe\_image.png)
 
@@ -89,7 +96,7 @@ contract MyToken is ERC20 {
 
 ***
 
-### 6. Compile Your Contract
+### 7. Compile Your Contract
 
 ```shell
 npx hardhat compile 
@@ -97,7 +104,7 @@ npx hardhat compile
 
 ***
 
-### 7. Secure Your Private Key for Deployment
+### 8. Secure Your Private Key for Deployment
 
 a) Export your Private Key from MetaMask:
 
@@ -135,7 +142,7 @@ npm install dotenv
 
 ***
 
-### 8. Configure Hardhat for the Testnet
+### 9. Configure Hardhat for the Testnet
 
 a) Open `hardhat.config.js` in your project.
 
@@ -165,7 +172,7 @@ module.exports = {
 
 ***
 
-### 9. Write a Deployment Script
+### 10. Write a Deployment Script
 
 ![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/2-Ua8\_3VwJN89awF\_u9lH\_image.png)
 
@@ -194,7 +201,7 @@ This script is deploying `MyToken` with an initial supply (customize the supply 
 
 ***
 
-### 10. Deploy the Contract
+### 11. Deploy the Contract
 
 ```shell
 npx hardhat run scripts/deploy.js --network hemi
