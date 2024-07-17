@@ -43,10 +43,8 @@
 * Fund your Bitcoin address, provided in-screen, to pay for gas required during PoP mining.&#x20;
 
 {% hint style="info" %}
-**Note:** You can also find the estimated mining costs in Bitcoin (tBTC) for different time periods. Please ensure you transfer at least `0.002 tBTC` to the provided address to start PoP mining.
+Please ensure you transfer at least `0.002 tBTC` to the provided address to start PoP mining.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ### **4. Confirm Key and Begin Mining!**
 
