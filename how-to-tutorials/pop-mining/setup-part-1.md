@@ -72,6 +72,10 @@ To ensure the setup is correctly configured, execute the command below:
 ./popmd --help
 ```
 
+{% hint style="warning" %}
+**Note:** If the program does not run due to an unknown software error, open the application from the directory and retry the command.
+{% endhint %}
+
 This will display the help menu for `popmd`, indicating that it's installed and operational.
 
 ```none
@@ -159,6 +163,25 @@ To transfer `0.002 tBTC` to your testnet Bitcoin wallet address:
 Currently, the Bitcoin testnet is busy which means you will need to set a higher fee level to PoP mine successfully. You can check the latest Bitcoin testnet fees [here](https://mempool.space/testnet). In the latest version of the PoP miner, this fee is set using an environment variable. In the future, the PoP miner will have more fee configuration options for dynamic fee calculation.
 
 In your console, execute the following command while replacing `private_key` with the value found in the JSON from Step 5.
+
+{% hint style="warning" %}
+**Bitcoin fee/vB**
+
+The fee per virtual byte (fee/vB) is an important metric used to determine the cost of including a transaction in a Bitcoin block. The fee/vB is variable and fluctuates based on the network's traffic, increasing during periods of high transaction volume and decreasing when the network is less congested. The PoP Miner consumes tBTC as gas and operates more smoothly when the fee/vB is set to appropriate levels to ensure transactions can be broadcasted efficiently to the Bitcoin network. \
+\
+In the latest version of the PoP miner, this fee is set using an environment variable, \<fee\_per\_vB\_integer>. In the future, the PoP miner will have more fee configuration options for dynamic fee calculation.\
+\
+**For beginner / intermediate users:**
+
+* We recommend setting the \<fee\_per\_vB\_integer> to **50** to ensure a high limit when broadcasting transactions. \
+
+
+**For advanced users:**
+
+* Current fee/vB integers can be found at [mempool.space](https://mempool.space) and can be used to identify a more exact fee.&#x20;
+
+
+{% endhint %}
 
 *   **Linux & macOS**
 
