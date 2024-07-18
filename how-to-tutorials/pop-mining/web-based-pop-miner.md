@@ -46,6 +46,10 @@
 Please ensure you transfer at least `0.002 tBTC` to the provided address to start PoP mining.
 {% endhint %}
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-18 at 12.13.59.png" alt=""><figcaption></figcaption></figure>
+
 ### **4. Confirm Key and Begin Mining!**
 
 * Once your key is set, click "Continue" to start the mining process.
@@ -58,6 +62,8 @@ Please ensure you transfer at least `0.002 tBTC` to the provided address to star
 
 * The dashboard displays your tHEMI and tBTC balances. A tBTC balance is required to pay for gas fees published to the Bitcoin network. tHEMI is rewarded to addresses running a PoP node for participating in and securing the Hemi Network.
 * The web-based PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status and cost.
+
+
 
 ***
 

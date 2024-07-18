@@ -72,9 +72,7 @@ To ensure the setup is correctly configured, execute the command below:
 ./popmd --help
 ```
 
-{% hint style="warning" %}
-**Note:** If the program does not run due to an unknown software error, open the application from the directory and retry the command.
-{% endhint %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to first remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./popmd</code></mark></p></td><td></td></tr><tr><td><strong>Windows</strong></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td></td></tr></tbody></table>
 
 This will display the help menu for `popmd`, indicating that it's installed and operational.
 
@@ -100,7 +98,7 @@ Environment:
 Start by generating your public key, your identifier on the Hemi Network.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p><strong>Run the following command:</strong></p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json -net="testnet" > ~/popm-address.json
-</code></pre></td></tr><tr><td><strong>For Windows</strong></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td><ol><li><p>Type the following command and press Enter:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">keygen.exe -secp256k1 -json -net="testnet" > %HOMEDRIVE%%HOMEPATH%\popm-address.json
+</code></pre></td></tr><tr><td><strong>Windows</strong></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td><ol><li><p>Type the following command and press Enter:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">keygen.exe -secp256k1 -json -net="testnet" > %HOMEDRIVE%%HOMEPATH%\popm-address.json
 </code></pre></li></ol><p><strong>Note:</strong> After running the command, you might not see any immediate feedback in the Command Prompt. This is expected behavior.</p><ol start="2"><li>Open the Generated Key File</li></ol><p>After generating the key file, you'll want to check its contents. To do this, use the following command in Command Prompt:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">%HOMEDRIVE%%HOMEPATH%\popm-address.json
 </code></pre><p>This command opens the <code>popm-address.json</code> file in Notepad, allowing you to view or edit the generated key.</p></td></tr></tbody></table>
 
@@ -160,27 +158,23 @@ To transfer `0.002 tBTC` to your testnet Bitcoin wallet address:
 
 ### 8. Run the Miner
 
-Currently, the Bitcoin testnet is busy which means you will need to set a higher fee level to PoP mine successfully. You can check the latest Bitcoin testnet fees [here](https://mempool.space/testnet). In the latest version of the PoP miner, this fee is set using an environment variable. In the future, the PoP miner will have more fee configuration options for dynamic fee calculation.
-
 In your console, execute the following command while replacing `private_key` with the value found in the JSON from Step 5.
 
 {% hint style="warning" %}
 **Bitcoin fee/vB**
 
-The fee per virtual byte (fee/vB) is an important metric used to determine the cost of including a transaction in a Bitcoin block. The fee/vB is variable and fluctuates based on the network's traffic, increasing during periods of high transaction volume and decreasing when the network is less congested. The PoP Miner consumes tBTC as gas and operates more smoothly when the fee/vB is set to appropriate levels to ensure transactions can be broadcasted efficiently to the Bitcoin network. \
-\
-In the latest version of the PoP miner, this fee is set using an environment variable, \<fee\_per\_vB\_integer>. In the future, the PoP miner will have more fee configuration options for dynamic fee calculation.\
-\
-**For beginner / intermediate users:**
-
-* We recommend setting the \<fee\_per\_vB\_integer> to **50** to ensure a high limit when broadcasting transactions. \
+* The Bitcoin transaction (normally represented in satsoshis per virtual byte or sats/vB) is a fee paid to the Bitcoin miners to include a transaction in a Bitcoin block. It varies with network congestion, typically rising during periods of high transaction volume and decreasing when there is less activity. The PoP Miner consumes tBTC to pay the Bitcoin miners to include PoP transactions in Bitcoin blocks.
+* In order to ensure PoP transactions from your PoP miner are included in Bitcoin blocks, ensure the configured fee is set to an appropriate value. The PoP miner can be configured to use a certain fee in sats/vB by changing the `POPM_STATIC_FEE` environment variable when running the PoP miner. In a future version, the PoP miner will automatically calculate the current network fee to guarantee PoP transactions are included in Bitcoin blocks.
 
 
-**For advanced users:**
 
-* Current fee/vB integers can be found at [mempool.space](https://mempool.space) and can be used to identify a more exact fee.&#x20;
+**Beginner and intermediate users:**&#x20;
 
+* We recommend setting the `POPM_STATIC_FEE` environment variable to `50` (50 sats/vB) to ensure PoP transactions are included in Bitcoin blocks.
 
+**Advanced users:**&#x20;
+
+* You can find the current Bitcoin transaction fees at [mempool.space](https://mempool.space/) and configure the PoP miner to use a more exact fee, to decrease the cost of running the PoP miner for long periods of time, or to fix issues caused by high transaction fees.
 {% endhint %}
 
 *   **Linux & macOS**
@@ -192,7 +186,7 @@ In the latest version of the PoP miner, this fee is set using an environment var
     ./popmd
     2024-02-06 18:03:19 INFO popmd popmd.go
     ```
-*   **For Windows**
+*   **Windows**
 
     ```none
     set POPM_BTC_PRIVKEY=<private_key>
