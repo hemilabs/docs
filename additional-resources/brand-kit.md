@@ -62,6 +62,26 @@ On Hemi Orange or colored backgrounds, use either the fully white or full black 
 
 <figure><img src="../.gitbook/assets/Hemi Colorways.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Hex Colors.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Font Download
+
+**H1, H2, H3**
+
+Letter Spacing: -2%
+
+<figure><img src="../.gitbook/assets/Mona Sans.png" alt=""><figcaption><p><a href="https://github.com/github/mona-sans/releases/tag/v1.0.1">https://github.com/github/mona-sans/releases/tag/v1.0.1</a></p></figcaption></figure>
+
+**Links, Paragraphs**
+
+Letter Spacing: -2%
+
+<figure><img src="../.gitbook/assets/Inter.png" alt=""><figcaption><p><a href="https://fonts.google.com/specimen/Inter">https://fonts.google.com/specimen/Inter</a></p></figcaption></figure>
+
+
+
 ***
 
 ## Prohibited Use of Logo
