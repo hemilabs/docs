@@ -160,6 +160,24 @@ To transfer `0.002 tBTC` to your testnet Bitcoin wallet address:
 
 In your console, execute the following command while replacing `private_key` with the value found in the JSON from Step 5.
 
+*   **Linux & macOS**
+
+    ```none
+    export POPM_BTC_PRIVKEY=<private_key>
+    export POPM_STATIC_FEE=<fee_per_vB_integer>
+    export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
+    ./popmd
+    2024-02-06 18:03:19 INFO popmd popmd.go
+    ```
+*   **Windows**
+
+    ```
+    set POPM_BTC_PRIVKEY=<private_key>
+    set POPM_STATIC_FEE=<fee_per_vB_integer>
+    set POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public 
+    popmd.exe
+    ```
+
 {% hint style="warning" %}
 **Bitcoin fee/vB**
 
@@ -176,24 +194,6 @@ In your console, execute the following command while replacing `private_key` wit
 
 * You can find the current Bitcoin transaction fees at [mempool.space](https://mempool.space/) and configure the PoP miner to use a more exact fee, to decrease the cost of running the PoP miner for long periods of time, or to fix issues caused by high transaction fees.
 {% endhint %}
-
-*   **Linux & macOS**
-
-    ```none
-    export POPM_BTC_PRIVKEY=<private_key>
-    export POPM_STATIC_FEE=<fee_per_vB_integer>
-    export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
-    ./popmd
-    2024-02-06 18:03:19 INFO popmd popmd.go
-    ```
-*   **Windows**
-
-    ```none
-    set POPM_BTC_PRIVKEY=<private_key>
-    set POPM_STATIC_FEE=<fee_per_vB_integer>
-    set POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public 
-    popmd.exe
-    ```
 
 ***
 
