@@ -20,10 +20,6 @@
 
 > **Most dApp developers will use the Hemi Bitcoin Kit (hBK) rather than hVM directly.**&#x20;
 
-* If you’re looking for an easy way to get started developing Bitcoin-aware dApps on Hemi, checkout the “Hemi Bitcoin Kit (hBK)” section. Understanding how Bitcoin Kit uses hVM under-the-hood may be helpful, and dApp developers looking to maximize gas efficiency may benefit from using hVM directly to avoid paying overhead for unmarshalling data they don’t need for a specific use case.
-
-***
-
-## 📑 Example Contract in Remix
+* If you’re looking for an easy way to get started developing Bitcoin-aware dApps on Hemi, check out the “Hemi Bitcoin Kit (hBK)” section. Understanding how Bitcoin Kit uses hVM under-the-hood may be helpful, and dApp developers looking to maximize gas efficiency may benefit from using hVM directly to avoid paying overhead for unmarshalling data they don’t need for a specific use case.
 
 ###
