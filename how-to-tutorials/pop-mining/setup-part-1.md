@@ -167,7 +167,6 @@ In your console, execute the following command while replacing `private_key` wit
     export POPM_STATIC_FEE=<fee_per_vB_integer>
     export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
     ./popmd
-    2024-02-06 18:03:19 INFO popmd popmd.go
     ```
 *   **Windows**
 
