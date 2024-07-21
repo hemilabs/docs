@@ -28,7 +28,7 @@ Such control might result in the withholding of valid state rollups from Ethereu
 
 ***
 
-### Verifiers and Challenges
+### &#x20;🟩 Verifiers and Challenges
 
 Vulnerabilities in optimistic rollup networks pose risks of asset theft through forged L2 states. To address this, rollups introduce verifiers, but the lack of proper incentives for this role presents challenges.
 
@@ -41,6 +41,6 @@ These lack of incentives can lead to difficulties such as:
 
 ***
 
-### Denial-of-Service Risks
+### ✋ Denial-of-Service Risks
 
 L2 networks' reliance on centralized "batchers" can expose them to denial-of-service risks if batchers refuse to publish transactions back to Ethereum for data availability.

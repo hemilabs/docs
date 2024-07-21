@@ -191,7 +191,7 @@ In your console, execute the following command while replacing `private_key` wit
 
 **Advanced users:**&#x20;
 
-* You can find the current Bitcoin transaction fees at [mempool.space](https://mempool.space/) and configure the PoP miner to use a more exact fee, to decrease the cost of running the PoP miner for long periods of time, or to fix issues caused by high transaction fees.
+* You can find the current Bitcoin transaction fees at mempool.space and configure the PoP miner to use a more exact fee to decrease the cost of running the PoP miner for long periods of time or to fix issues caused by high transaction fees.
 {% endhint %}
 
 ***
@@ -220,3 +220,7 @@ In your console, execute the following command while replacing `private_key` wit
 ***
 
 ### 10. 🎉 Congrats! You are now a Hemi PoP Miner!
+
+{% hint style="info" %}
+Let us know how this process was for you via [Discord](https://discord.gg/hemixyz). We are constantly looking for ways to improve our documentation.
+{% endhint %}

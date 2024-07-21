@@ -10,6 +10,27 @@
 * [Network Details](main/network-details/README.md)
   * [Testnet](main/network-details/testnet.md)
 
+## ⛰️ Foundational Topics
+
+* [The Architecture](foundational-topics/the-architecture/README.md)
+  * [Consensus and Security Protocols](foundational-topics/the-architecture/consensus-and-security-protocols.md)
+* [Sequencer Consensus](foundational-topics/sequencer-consensus/README.md)
+  * [PoS-Only Pitfalls](foundational-topics/sequencer-consensus/pos-only-pitfalls.md)
+  * [PoS Solutions](foundational-topics/sequencer-consensus/pos-solutions.md)
+* [Ethereum Rollups](foundational-topics/ethereum-rollups/README.md)
+  * [Pros & Cons](foundational-topics/ethereum-rollups/pros-and-cons.md)
+  * [Decentralized Rollups](foundational-topics/ethereum-rollups/decentralized-rollups.md)
+* [Proof-of-Proof](foundational-topics/proof-of-proof/README.md)
+  * [PoP Consensus & Bitcoin Finality](foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
+  * [Proof-of-Proof vs. Merged Mining](foundational-topics/proof-of-proof/proof-of-proof.md)
+* [Transactions](foundational-topics/transactions.md)
+* [Blocks](foundational-topics/blocks.md)
+* [Ethereum Virtual Machine (EVM)](foundational-topics/ethereum-virtual-machine-evm.md)
+* [Gas](foundational-topics/gas.md)
+* [Nodes & Clients](foundational-topics/nodes-and-clients.md)
+* [Tunneling](foundational-topics/tunneling.md)
+* [Staking](foundational-topics/staking.md)
+
 ## 📖 How-To Tutorials
 
 * [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup.md)
@@ -20,29 +41,6 @@
   * [CLI PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
   * [Web-based PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
   * [Add tHEMI to MetaMask](how-to-tutorials/pop-mining/add-themi-to-metamask.md)
-
-## 🏁 Before You Begin
-
-* [Ethereum Rollups](before-you-begin/ethereum-rollups/README.md)
-  * [Pros & Cons](before-you-begin/ethereum-rollups/pros-and-cons.md)
-  * [Decentralized Rollups](before-you-begin/ethereum-rollups/decentralized-rollups.md)
-* [Proof-of-Proof](before-you-begin/proof-of-proof.md)
-
-## ⛰️ Foundational Topics
-
-* [The Architecture](foundational-topics/the-architecture/README.md)
-  * [Consensus and Security Protocols](foundational-topics/the-architecture/consensus-and-security-protocols.md)
-* [Sequencer Consensus](foundational-topics/sequencer-consensus/README.md)
-  * [PoS-Only Pitfalls](foundational-topics/sequencer-consensus/pos-only-pitfalls.md)
-  * [PoS Solutions](foundational-topics/sequencer-consensus/pos-solutions.md)
-* [PoP Consensus & Bitcoin Finality](foundational-topics/pop-consensus-and-bitcoin-finality.md)
-* [Transactions](foundational-topics/transactions.md)
-* [Blocks](foundational-topics/blocks.md)
-* [Ethereum Virtual Machine (EVM)](foundational-topics/ethereum-virtual-machine-evm.md)
-* [Gas](foundational-topics/gas.md)
-* [Nodes & Clients](foundational-topics/nodes-and-clients.md)
-* [Tunneling](foundational-topics/tunneling.md)
-* [Staking](foundational-topics/staking.md)
 
 ## ⚙️ Building Bitcoin Apps
 

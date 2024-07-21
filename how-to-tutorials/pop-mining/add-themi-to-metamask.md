@@ -4,17 +4,17 @@
 ## 📜 **TL;DR:**
 
 * **tHEMI** is the governance token for the Hemi Network's testnet phase.
-* tHEMI tokens are used for payouts to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
-* View your tHEMI balance and transactions directly in MetaMask. :::
+* **tHEMI tokens are used for payouts** to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
+* View your tHEMI balance and transactions directly in MetaMask.
 {% endhint %}
 
 ***
 
 ## 🌐Overview
 
-tHEMI is the testnet governance token for the Hemi Network. Initially, tHEMI tokens are used for payouts to PoP miners as a means of acknowledging their contribution to the network's security and functionality.
+tHEMI is the testnet governance token for the Hemi Network. Initially, tHEMI tokens are used for payouts to PoP miners to acknowledge their contribution to the network's security and functionality.
 
-Looking ahead, tHEMI will play a broader role in rewarding other network participants, including Sequencers, Publishers, and Challengers, who contribute to the network's resilience and growth. tHEMI is set to become the preferred gas token on the network, offering users fee discounts and enhancing transaction efficiency.
+Looking ahead, **tHEMI will play a broader role in rewarding other network participants**, including **Sequencers**, **Publishers**, and **Challengers**, who contribute to the network's resilience and growth. tHEMI is set to become the preferred gas token on the network, offering fee discounts and enhancing user transaction efficiency.
 
 ***
 
@@ -46,4 +46,4 @@ Looking ahead, tHEMI will play a broader role in rewarding other network partici
 
 * Confirm the accuracy of the provided information, click on `Add Custom Token`, and then select `Import Tokens`.
 
-Your tHEMI tokens should now be visible in your MetaMask wallet, allowing you to view your balance and conduct transactions directly within the wallet interface.
+Your tHEMI tokens should now be visible in your MetaMask wallet. You can view your balance and conduct transactions directly within the wallet interface.
