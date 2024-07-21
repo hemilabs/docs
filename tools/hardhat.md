@@ -1,3 +1,0 @@
-# Hardhat
-
-_WIP_

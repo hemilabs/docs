@@ -56,9 +56,6 @@
 
 ## ⚙️ Tools
 
-* [Foundry](tools/foundry.md)
-* [Hardhat](tools/hardhat.md)
-* [Remix](tools/remix.md)
 * [viem](tools/viem.md)
 
 ## 📝 Governance
