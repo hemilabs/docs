@@ -9,7 +9,7 @@
 
 ***
 
-## ✈️ Welcome to the Hemi Pilot Program
+## ✈️ Welcome to the Beta Hemi Pilot Program
 
 If you're here, you're in the perfect place at the perfect time!
 
@@ -42,14 +42,15 @@ Ranks are cool badges you earn by collecting miles (points) and reaching specifi
 
 You can earn miles from all sorts of activities, from deploying smart contracts and running PoP miners to hosting Twitter Spaces or IRL events. We've got something for everyone with both on-chain and off-chain activities.&#x20;
 
-**There are 6 ranks:**
+**The Ranks Start with:**
 
 1. Cadet
-2. 2nd Officer
-3. 1st Officer
-4. Check Airman
-5. Chief Pilot
-6. Captain
+2. Private
+3. Sergeant
+4. Major
+5. Officer
+6. Lieutenant
+7. Captain
 
 **🔓 **_**Captain is the rank you want to aim for!**_&#x20;
 
