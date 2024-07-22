@@ -25,7 +25,7 @@ We offer something for everyone (beginner, intermediate, advanced) for both on-c
 
 * **💻 On-chain Activities:** Deploying Smart Contracts, interacting with Hemi Hatchlings, Tunneling.
 * 🔧 **Technical Activities**: Participating in code reviews, proposing feature improvements, writing tutorials, explanations, or documentation.
-* **🎨 Creative Projects:** Entering contests (TBA), designing new Hemi Hatchlings, suggesting and improving UX (for Hemi dApps ).
+* **🎨 Creative Projects:** Entering contests (TBA), designing new Hemi Hatchlings, suggesting and improving UX (for hApps).
 * **🔗 Community Building:** Hosting in-person events or online education sessions, joining Discord, or participating in AMAs.
 * **🎉 Social Events:** Hosting and attending happy hours and meetups, hosting Twitter Spaces or online discussions with experts.
 * **📝 Content Creation:** Writing articles or blogs, researching and writing about blockchain and cryptocurrency trends with Hemi, recording Hemi-related video tutorials, or hosting podcasts with Hemi.
@@ -44,12 +44,12 @@ You can earn miles from all sorts of activities, from deploying smart contracts 
 
 **There are 6 ranks:**
 
-1. **Cadet**
-2. **Navigator**
-3. **Lieutenant**
-4. **Commander**
-5. **Major**
-6. **Captain**
+1. Cadet
+2. 2nd Officer
+3. 1st Officer
+4. Check Airman
+5. Chief Pilot
+6. Captain
 
 **🔓 **_**Captain is the rank you want to aim for!**_&#x20;
 
