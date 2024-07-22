@@ -63,12 +63,10 @@
   * [Grants](additional-resources/grants.md)
   * [Retroactive Funding](governance/incentives/retroactive-funding.md)
   * [One-Off Spends](governance/incentives/one-off-spends.md)
+* [Hemi Pilot Program](governance/hemi-ambassador-program.md)
 
 ## ⚡ Additional Resources
 
-* [Hemi Ambassador Program](additional-resources/hemi-ambassador-program/README.md)
-  * [Pilot Program](additional-resources/hemi-ambassador-program/pilot-program.md)
-  * [Explorer Program](additional-resources/hemi-ambassador-program/explorer-program.md)
 * [Partners](additional-resources/partners.md)
 * [FAQ](additional-resources/smart-contract-deployments.md)
 * [Official Links](additional-resources/official-links.md)

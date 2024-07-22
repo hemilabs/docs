@@ -8,7 +8,7 @@ _wip_
 
 ## 📚 Resources
 
-1. [hemi-ambassador-program](../../additional-resources/hemi-ambassador-program/ "mention")
+1. [hemi-ambassador-program.md](../../governance/hemi-ambassador-program.md "mention")
 2. [**Blog**](https://hemi.xyz/blog)
 3. **YouTube (**_**wip)**_
 4. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
