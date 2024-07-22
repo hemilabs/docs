@@ -6,6 +6,7 @@
 * In this tutorial, we will run a [web-based PoP Miner](https://pop-miner.hemi.xyz)**.**
 * The web-based PoP miner is designed for ease of use, allowing users of all experience levels to test and run their own PoP miner.&#x20;
 * We recommend storing only a **limited amount of working funds** in the wallet associated with the web-based miner.&#x20;
+* To start mining, claim tBTC provided by your [Hemi onboarding Capsule](https://app.hemi.xyz/en/get-started).
 * The web-based PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status and cost.
 {% endhint %}
 
@@ -23,6 +24,12 @@
 
 * The web-based miner uses the same secure code as the CLI miner. However, it also relies on your web browser, which introduces additional security risks. Therefore, we recommend storing only a **limited amount of working funds** in the wallet associated with the web-based miner. For long-term use, consider using the CLI PoP Miner.
 * When transitioning to the CLI PoP Miner, **it is recommended to generate a new public key.** Private key information obtained via the web-based PoP Miner, although encrypted, is not fully secure and is not meant for extended mining operations.&#x20;
+
+***
+
+## 🏁 Prerequisites
+
+1. [tBTC](https://app.hemi.xyz/en/get-started)
 
 ***
 

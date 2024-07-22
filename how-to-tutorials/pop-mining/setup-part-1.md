@@ -6,7 +6,7 @@
 * This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading **pre-built binaries** or by **building from source**.
 * Ensure you have your development environment ready and follow the steps below to join the mining network.
 * Basic CLI skills are required.
-* To start mining, claim tBTC provided by your Hemi onboarding Capsule or send `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
+* To start mining, claim tBTC provided by your [Hemi onboarding Capsule](https://app.hemi.xyz/en/get-started) or send `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
 {% endhint %}
 
 ***
