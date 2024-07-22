@@ -7,6 +7,7 @@
 * Whereas other projects approach Bitcoin and Ethereum as ecosystem silos, Hemi views them as components of a single supernetwork. This unlocks new levels of programmability, portability, and potential.
 * At Hemi's core: the **Hemi Virtual Machine (hVM)**, which incorporates a full Bitcoin node within an **Ethereum Virtual Machine**.
 * Combined with the **Hemi Bitcoin Kit (hBK)**, developers have a familiar yet powerful platform for creating Hemi decentralized applications (hApps).
+* The Proof-of-Proof (PoP) protocol allows Hemi to easily inherit Bitcoin security, with transactions attaining better-than-Bitcoin security ("superfinality") over time.
 {% endhint %}
 
 ***
@@ -22,7 +23,7 @@
 ## 💡 The Benefits of Hemi
 
 {% hint style="success" %}
-*   **Ease of Development**
+*   **Uniting Bitcoin & Ethereum**
 
     The Hemi Virtual Machine (hVM) integrates a full Bitcoin node within an Ethereum Virtual Machine (EVM), providing developers with a familiar programming interface while harnessing the power of both Bitcoin and Ethereum.
 *   **Bitcoin Programmability**
