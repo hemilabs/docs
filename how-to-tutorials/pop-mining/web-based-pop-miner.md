@@ -73,6 +73,10 @@ Please ensure you transfer at least `0.002 tBTC` to the provided address to star
 
 
 
+<figure><img src="../../.gitbook/assets/Captura de Tela 2024-07-22 às 17.59.34.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ***
 
 ## ⭐️ Best Practices
