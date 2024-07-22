@@ -63,7 +63,7 @@
   * [Grants](additional-resources/grants.md)
   * [Retroactive Funding](governance/incentives/retroactive-funding.md)
   * [One-Off Spends](governance/incentives/one-off-spends.md)
-* [Hemi Pilot Program](governance/hemi-ambassador-program.md)
+* [Hemi Pilot Program](governance/hemi-pilot-program.md)
 
 ## ⚡ Additional Resources
 
