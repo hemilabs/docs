@@ -3,14 +3,14 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* This tutorial walks you through how to claim your Capsule.
+* This tutorial walks you through how to claim your Onboarding Capsule.
 {% endhint %}
 
 ***
 
 ## 🏁 Prerequisites
 
-1. **Visit** [**app.hemi.xyz**](https://app.hemi.xyz/en/tunnel/)**:** Enter your email to receive your Welcome Pack with your Capsule URL link.
+1. **Visit** [**app.hemi.xyz**](https://app.hemi.xyz/get-started)**:** Enter your email to receive your Welcome Pack that contains your Capsule URL link.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="294"><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@
 <figure><img src="../../.gitbook/assets/image (28).png" alt="" width="187"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Note: You will receive an error if you have not switched to the Hemi Sepolia Network.
+Note: You will receive an error when trying to claim your Capsule if you have not switched to the Hemi Sepolia Network.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt="" width="242"><figcaption></figcaption></figure>
@@ -68,7 +68,7 @@ Note: You will receive an error if you have not switched to the Hemi Sepolia Net
 ## Optional: Start PoP Mining Today
 
 * Anyone can do this! We have a [beginner](../pop-mining/)[ and advanced tutorial on how to start PoP mining.](../pop-mining/)
-* Enter the receiving BTC address to get started!&#x20;
+* Enter the receiving BTC address pr click to have Capsule create one for you to get started!&#x20;
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt="" width="250"><figcaption></figcaption></figure>
 
