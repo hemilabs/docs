@@ -159,6 +159,10 @@ tBTC (testnet Bitcoin), ETH (Sepolia ether), tHEMI (testnet HEMI) and a special 
 * **ETH**: Ether acquired from your Capsule can be tunneled (bridged) and used to interact with and build dapps on Hemi by paying transaction fees.
 * **tBTC**: tBTC is essential to run a PoP miner. In the future, you will be able to tunnel your tBTC (and other Bitcoin assets) to Hemi for use in Bitcoin DeFi deployed on Hemi.
 
+<!---->
+
+* **tHemi:** tHEMI is the governance token for the Hemi Network's testnet phase. **tHEMI tokens are used for payouts** to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
+
 </details>
 
 <details>
