@@ -5,8 +5,8 @@
 {% hint style="info" %}
 ## 📜 TL;DR:
 
-* The Hemi Onboarding Capsule provides all the testnet tokens (tBTC, ETH, and tHEMI) you need to start building and interacting on Hemi, which are all-in-one gasless transactions.
-* Claiming your onboarding capsule gives you everything necessary for PoP mining, paying transaction fees, and using the Hemi Tunnel.
+* The Hemi Onboarding Capsule gives you all the testnet tokens (tBTC, ETH, and tHEMI) you need to start building and using Hemi. These are gasless transactions that can be used for everything.
+* When you claim your onboarding capsule, you get everything you need to mine PoP, pay transaction fees, and use the Hemi Tunnel.
 * Only one onboarding capsule may be claimed per user.
 {% endhint %}
 
