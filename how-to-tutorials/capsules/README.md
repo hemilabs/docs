@@ -47,6 +47,6 @@ A further look into what's in your Capsule and how you can use it:
 
 ## Want to build further?
 
-* Create and send your own Capsules
-* You can create dApps around Capsules by forking the repo here&#x20;
+* Create and send Capsules
+* Develop dApps around Capsules
 
