@@ -103,7 +103,7 @@ Note: You will receive an error if you have not switched to the Hemi Sepolia Net
 
 **How to View Your Hemi Hatchling**
 
-1. In your MetaMask wallet, under NFTs, you should see your Hemi Hatchlingg. If you don't, you may need to add your Hatchling manually.&#x20;
+1. In your MetaMask wallet, under NFTs, you should see your Hemi Hatchling. If you don't, you may need to add your Hatchling manually.&#x20;
 
 ![](<../../.gitbook/assets/image (37).png>)
 
@@ -130,7 +130,7 @@ Note: You will receive an error if you have not switched to the Hemi Sepolia Net
   * Enter the [Air Hemi Hatchling Address](https://testnet.explorer.hemi.xyz/token/0x3F5c3083EC12bd7301371655714A0896e8d56f22) and **your Token ID**
 
 ```
-0x3F5c3083EC12bd7301371655714A0896e8d56f22// Some code
+0x3F5c3083EC12bd7301371655714A0896e8d56f22
 ```
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
