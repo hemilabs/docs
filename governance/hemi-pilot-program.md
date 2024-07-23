@@ -4,7 +4,7 @@
 ## 📜 **TL;DR:**
 
 * Rise through the ranks, earn miles, get merch, and unlock exclusive perks (including real-life rewards).
-* To get started, check out the [Hemi Pilot Program.](http://dashboard.hemi.xyz/)
+* To get started, check out the [Hemi Pilot Program.](https://points.absinthe.network/hemi)
 {% endhint %}
 
 ***
@@ -62,7 +62,7 @@ The tier threshold for each rank will be announced in mid-August.&#x20;
 
 ## 🏁 Getting Started
 
-1. The[ incentivized testnet and referral program](http://dashboard.hemi.xyz) are accessible today, and you can earn "**Miles"** (points).&#x20;
+1. The[ incentivized testnet and referral program](https://points.absinthe.network/hemi) are accessible today, and you can earn "**Miles"** (points).&#x20;
 2. Any activities you complete during this period (with a corresponding miles reward) will be counted towards your miles total. If you’ve been doing this for a while, you can take a pretty good guess as to what those activities tend to be.&#x20;
 3. The leaderboard launches in early August. On that day, you’ll see the leaderboard rankings and, retroactively, how well you did in that first week.&#x20;
 4. From there, earn away!
