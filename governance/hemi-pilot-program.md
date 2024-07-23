@@ -77,9 +77,9 @@ _**Let's get exploring...**_
 
 ## 🛩️ Captain Level
 
-When you reach the Captain level, you can receive exclusive real-life rewards by filling out a form \[tba]. Participation is completely optional. We understand that some may prefer to maintain their anonymity and stay behind the scenes, and that's perfectly okay.&#x20;
+When you reach  Captain level, you can receive exclusive real-life rewards. Participation is completely optional. We understand that some may prefer to maintain their anonymity and stay behind the scenes, and that's perfectly okay.&#x20;
 
-However, you can opt-in for real-life perks like exclusive merch, team access, and involvement in IRL activities.
+However, you can opt in for real-life perks like exclusive merch, team access, and involvement in IRL activities.
 
 While more real-life rewards such as merch, in-person perks, and community events will become available to other ranks in the future, they are currently exclusive to **Captain status!**
 
