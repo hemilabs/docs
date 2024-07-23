@@ -25,7 +25,7 @@
 
 Receive all the essential assets needed to begin building on the Hemi testnet in a single, easy-to-access package.
 
-* **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), tBTC, tHEMI, and a special something else (read further), enabling you to seamlessly onboard to Testnet in one 1-click.
+* **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), tBTC, tHEMI, and a special surprise (keep reading to find out what it is), enabling you to seamlessly onboard to Testnet in one 1-click.
 * **Gasless Transaction:** A Capsule is delivered through a gasless transaction, meaning you can explore and build without incurring transaction fees.
 
 ***
