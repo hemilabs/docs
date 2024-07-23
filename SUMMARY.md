@@ -52,7 +52,8 @@
   * [Feature Summary](building-bitcoin-apps/hemi-virtual-machine-hvm/feature-summary.md)
   * [Deploy on hVM](building-bitcoin-apps/hemi-virtual-machine-hvm/deploy-on-hvm.md)
   * [Using Remix IDE](building-bitcoin-apps/hemi-virtual-machine-hvm/using-remix-ide.md)
-* [Hemi Bitcoin Kit (hBK)](building-bitcoin-apps/hemi-bitcoin-kit-hbk.md)
+* [Hemi Bitcoin Kit (hBK)](building-bitcoin-apps/hemi-bitcoin-kit-hbk/README.md)
+  * [hBK Smart Contract](building-bitcoin-apps/hemi-bitcoin-kit-hbk/hbk-smart-contract.md)
 
 ## ⚙️ Tools
 

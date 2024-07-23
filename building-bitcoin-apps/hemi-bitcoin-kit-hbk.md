@@ -1,2 +1,0 @@
-# Hemi Bitcoin Kit (hBK)
-
