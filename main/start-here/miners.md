@@ -16,6 +16,7 @@ Interested in mining? We have a ton of tools for you!
 4. [setup-part-1.md](../../how-to-tutorials/pop-mining/setup-part-1.md "mention")
 5. [**Web PoP Miner**](https://pop-miner.hemi.xyz)
 6. [**Add tHEMI to MetaMask**](../../how-to-tutorials/pop-mining/add-themi-to-metamask.md)
+7. [**Refer a friend**](https://points.absinthe.network/hemi)
 
 ***
 

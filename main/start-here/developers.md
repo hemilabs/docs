@@ -9,6 +9,7 @@ If you're a beginner, these resources are a great starting point! The tutorials 
 3. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
 4. [hemi-pilot-program.md](../../governance/hemi-pilot-program.md "mention")
 5. [**Claim your onboarding Capsule**](../../how-to-tutorials/capsules/tutorial.md)
+6. [**Refer a friend**](https://points.absinthe.network/hemi)
 
 ***
 

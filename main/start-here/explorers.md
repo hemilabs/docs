@@ -8,6 +8,7 @@
 4. [**Hemi Demo Apps**](https://app.hemi.xyz/en/demos/)
 5. [**Web PoP Miner**](https://pop-miner.hemi.xyz)
 6. [**Claim a Capsule**](../../how-to-tutorials/capsules/tutorial.md)
+7. [**Refer a friend**](https://points.absinthe.network/hemi)
 
 ***
 
