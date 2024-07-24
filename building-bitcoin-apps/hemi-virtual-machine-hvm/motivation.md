@@ -10,18 +10,23 @@
 
 ***
 
-## 🚧 Relay Limitations
+## 🚧 Limitations of Existing Approaches
 
-* Current BTC-Relay systems exist with current limitations:
-  * Rely on third-party relayers
-  * Require large proofs with expensive validation
-  * Can only prove a transaction exists in Bitcoin (no UTXO set proofs, no balance proofs, etc.)
-* Other protocols have designed alternate Bitcoin interoperability primitives that serve ONLY **specific use cases** like 3-party noncustodial escrow, or smart-contract-controlled wallets run by the network validator set.&#x20;
-* dApp developers are limited to the narrow functionality and forced governance/security models that these enshrined primitives provide.
+Various Bitcoin header relay systems have been available on Ethereum as a primitive Bitcoin interoperability technology for nearly a decade. This approach has third-party relayers communicate new Bitcoin headers to a smart contract which maintains a lightweight view of Bitcoin consensus. Smart contracts can then verify a Merkle proof to verify that a specific Bitcoin transaction exists in the canonical Bitcoin chain.
+
+However, this approach has significant limitations:
+
+* Relies on third-party relayers
+* Requires large inclusion proofs with expensive validation
+* Can only prove a transaction exists in Bitcoin (no UTXO set proofs, no balance proofs, etc.)
+
+Recently, other protocols have designed alternate Bitcoin interoperability primitives like 3-way noncustodial escrow systems validated with zk proofs, or smart-contract-controlled wallets run by the network validator set where network Sequencers facilitate UTXO queries.
+
+However, these other approaches are only designed to serve specific use cases, and still don't provide smart contracts with a complete view of Bitcoin's state. Developers building on these primitives are also forced to accept the governance/security models that these one-off primitives provide, such as trusting a Sequencer doesn't withhold data from a UTXO query.
 
 ***
 
-> 💡 With hVM, we set out to create something much more powerful and flexible that enabled anyone to build custom Bitcoin interoperability infrastructure directly in the EVM.
+> 💡 With hVM, we set out to create something much more powerful and flexible that enabled anyone to build custom Bitcoin interoperability infrastructure directly in the EVM with complete access to Bitcoin state.
 
 ***
 
