@@ -59,7 +59,7 @@
 
 #### **Strategic Initiatives** <a href="#pdf-page-jfwnwievmil2x2lghizb-strategic-initiatives-2" id="pdf-page-jfwnwievmil2x2lghizb-strategic-initiatives-2"></a>
 
-* **Retroactive Funding Implementation**: Beginning to reward builders retroactively for their impactful contributions made in previous seasons aligning with the launch of $HEMI distributions.
+* **Retroactive Funding Implementation**: Beginning to reward builders retroactively for their impactful contributions made in previous seasons.
 * **Continuation of Grant and Investment Programs**: Focusing solely on bespoke agreements, moving away from open applications to more curated and strategic engagements that are aligned with network goals.
 * **New Inflationary $HEMI for Security**: Introducing new $HEMI tokens specifically allocated to enhance network security and operational robustness.
 * **Governance Transition**: Phasing out direct grant applications and transitioning to a decentralized governance model (DeGov) to manage future grants and investments.
