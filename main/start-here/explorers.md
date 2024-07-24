@@ -1,19 +1,13 @@
 # Explorers
 
-## 🌐 Overview
-
-_wip_
-
-***
-
 ## 📚 Resources
 
 1. [hemi-pilot-program.md](../../governance/hemi-pilot-program.md "mention")
 2. [**Blog**](https://hemi.xyz/blog)
-3. **YouTube (**_**wip)**_
-4. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
-5. [Hemi Demo Apps](https://app.hemi.xyz/demos)
-6. [Web PoP Miner](https://popminer.hemi.xyz)
+3. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
+4. [**Hemi Demo Apps**](https://app.hemi.xyz/en/demos/)
+5. [**Web PoP Miner**](https://pop-miner.hemi.xyz)
+6. [**Claim a Capsule**](../../how-to-tutorials/capsules/tutorial.md)
 
 ***
 
