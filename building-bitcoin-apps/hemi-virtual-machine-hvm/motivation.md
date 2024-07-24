@@ -3,9 +3,9 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Current BTC-Relay systems exist with current limitations.
-* By embedding a full indexed Bitcoin node directly inside the EVM, hVM allows **anyone** to build custom Bitcoin interoperability infrastructure directly in the EVM, limitation-free.
-* dApp developers to build all kinds of Bitcoin-aware dApps and custom Bitcoin interoperability infrastructure on hVM.
+* Current Bitcoin interoperability systems like BTC header relays exist, but come with significant limitations.
+* By embedding a full indexed Bitcoin node directly inside the EVM, hVM allows **anyone** to access Bitcoin's processed state efficiently and without introducing any trust assumptions.
+* dApp developers can now build all kinds of Bitcoin-aware dApps and custom Bitcoin interoperability infrastructure directly on hVM.
 {% endhint %}
 
 ***
