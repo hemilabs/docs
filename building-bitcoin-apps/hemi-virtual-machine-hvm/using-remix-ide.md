@@ -4,7 +4,7 @@
 ## 📜 **TL;DR:**
 
 * In this section, we’ll deploy a small contract in[ Remix IDE](https://remix.ethereum.org) with a single method which calls the Bitcoin Balance precompile and returns the balance as a uint256.&#x20;
-* Ensure to use Solidity version **0.8.19 or earlier** for compatibility with the Hemi testnet environment.&#x20;
+* We recommend you use Solidity version **0.8.25 or later**, but previous versions are also expected to work.
 {% endhint %}
 
 ***
@@ -26,7 +26,7 @@
 * Paste in the following code:
 
 ```solidity
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.25;
 
 contract BitcoinBalDemo {
     function getBitcoinAddressBalance(string calldata btcAddress) public view returns (uint256 balance) {
@@ -39,4 +39,6 @@ contract BitcoinBalDemo {
 }
 ```
 
-## &#x20;
+\
+You can now compile and deploy this contract, and try out calling it with a Bitcoin address string to see the address's balance (in satoshis) returned by hVM.
+
