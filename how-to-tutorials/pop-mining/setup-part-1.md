@@ -191,7 +191,8 @@ In your console, execute the following command while replacing `private_key` wit
 
 **Advanced users:**&#x20;
 
-* You can find the current Bitcoin transaction fees at mempool.space and configure the PoP miner to use a more exact fee to decrease the cost of running the PoP miner for long periods of time or to fix issues caused by high transaction fees.
+1. Check Current Fee Levels: Visit https://mempool.space/testnet to see the current fee levels. Look at the "sat/vB" numbers for the different transaction fee priorities.
+2. Set the Static Fee: Run the PoP miner with the following command, adjusting X to be slightly above the fee level shown on the mempool site: `POPM_STATIC_FEE=X`
 {% endhint %}
 
 ***
