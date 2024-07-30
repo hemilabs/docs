@@ -56,7 +56,7 @@
   * **Linux**:
     * Depends on OS. On Ubuntu (Gnome): `Ctrl` + `Alt` + `T`
     * For most other distros, you can press `Super` (Windows Key) and search for Terminal.&#x20;
-* Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press Enter.
+* Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press `Enter`.
   * For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:
   * ```
     cd '/home/user/Downloads/heminetwork_v0.2.8_linux_amd64'
@@ -64,7 +64,7 @@
 * List the files:
   * **Windows**: &#x20;
     * `dir`  (and press `Enter`)
-  * Linux/macOS:&#x20;
+  * **Linux/macOS**:&#x20;
     * `ls`  (and press `Enter`)
 
 Your output should be:
@@ -124,11 +124,15 @@ Start by generating your public key, your identifier on the Hemi Network.
 
 ### 5. Open the JSON
 
+If you are on Windows, see the above instructions for how to open the file in Notepad.
+
+On Linux/macOS, you can run the following command to print the contents of your key file to the Terminal:
+
 ```none
 cat ~/popm-address.json
 ```
 
-You should get an example result like:
+You should see a result like:
 
 ```none
 {
@@ -147,14 +151,14 @@ You should get an example result like:
 * `network`: Refers to the specific blockchain environment that the generated address is compatible with. On Ethereum, addresses are the same for mainnet and testnet, however on Bitcoin addresses on each network are formatted differently.
 * `private_key`: A secure digital code known only to the owner, used to access and manage the corresponding Ethereum address in wallets like MetaMask and Bitcoin address in wallets like UniSat. It’s essential for interacting with blockchain networks.
 * `public_key`: Derived from the private key, this is shared publicly and used in the transaction signature process. For PoP mining and most other interactions with the Hemi network, you will not need to do anything directly with your public key.
-* `pubkey_hash`: Represents a Bitcoin address generated from the private\_key. You will send tBTC to this address to use in PoP Mining. If you import your private key into a Bitcoin wallet, you will have to select the address type - for now the PoP miner uses
+* `pubkey_hash`: Represents a Bitcoin address generated from the private\_key. You will send tBTC to this address to use in PoP Mining. If you import your private key into a Bitcoin wallet like Unisat, you will have to select the address type - for now the PoP miner uses a "P2PKH" address type, and selecting that type will import the private key and use the corresponding address that matches the pubkey\_hash.
 {% endhint %}
 
 ***
 
 ### 6. Import the ETH Address to MetaMask
 
-* Check the JSON for your `private_key`and import it into MetaMask.
+* Check the JSON for your `private_key`and import it into MetaMask (only copy the hexadecimal digits; no quotes or spaces).
 
 ![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/YwLmvNZlpItY8LA-iIQ4h\_image.png)
 
@@ -164,19 +168,22 @@ You should get an example result like:
 
 ### 7. Fund your PoP Miner Address
 
-To transfer `0.002 tBTC` to your testnet Bitcoin wallet address:
+To transfer at least `0.002 tBTC` to your testnet Bitcoin wallet address:
 
 * **Find Your Wallet Address**: Check the JSON from **Step 5** for your `pubkey_hash`, which is your testnet Bitcoin address.
   * `"pubkey_hash": "m12345678P2xVWwVCWxq7tHJLGcJz2h6XYZ"`
-* **Fund Your Wallet**: Claim tBTC provided by your Hemi Network onboarding Capsule or use a testnet wallet to send `0.002 tBTC` to your `pubkey_hash` address.
+* **Fund Your Wallet**: Claim tBTC provided by your [Hemi Network Welcome Capsule](../capsules/tutorial.md) or use a testnet wallet to send at least`0.002 tBTC` to your `pubkey_hash` address.
 
-[👉 Get tBTC Here](https://coinfaucet.eu/en/btc-testnet)
+👉 You can also get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/). However these faucets often don't provide enough tBTC to do much PoP mining. We are in the process of adding a tBTC faucet to Discord where you can regularly request sufficient tBTC to perform PoP Mining.
 
 ***
 
 ### 8. Run the Miner
 
-In your console, execute the following command while replacing `private_key` with the value found in the JSON from Step 5.
+In your console, execute the following commands while:
+
+1. replacing `<private_key>` with the value found in the JSON from Step 5
+2. replacing `<fee_per_vB_integer>` with the fee in sat/vB you want to pay. See the notice on "Bitcoin fee/vB" below if you need help determining what value to set here.&#x20;
 
 *   **Linux & macOS**
 
@@ -200,6 +207,7 @@ In your console, execute the following command while replacing `private_key` wit
 
 * The Bitcoin transaction (normally represented in satsoshis per virtual byte or sats/vB) is a fee paid to the Bitcoin miners to include a transaction in a Bitcoin block. It varies with network congestion, typically rising during periods of high transaction volume and decreasing when there is less activity. The PoP Miner consumes tBTC to pay the Bitcoin miners to include PoP transactions in Bitcoin blocks.
 * In order to ensure PoP transactions from your PoP miner are included in Bitcoin blocks, ensure the configured fee is set to an appropriate value. The PoP miner can be configured to use a certain fee in sats/vB by changing the `POPM_STATIC_FEE` environment variable when running the PoP miner. In a future version, the PoP miner will automatically calculate the current network fee to guarantee PoP transactions are included in Bitcoin blocks.
+* The lower you set the fee, the less tBTC you will pay per PoP transaction. But if your fees are too low, Bitcoin miners may not include your transaction quickly enough for you to successfully PoP mine.
 
 
 
@@ -209,8 +217,8 @@ In your console, execute the following command while replacing `private_key` wit
 
 **Advanced users:**&#x20;
 
-1. Check Current Fee Levels: Visit https://mempool.space/testnet to see the current fee levels. Look at the "sat/vB" numbers for the different transaction fee priorities.
-2. Set the Static Fee: Run the PoP miner with the following command, adjusting X to be slightly above the fee level shown on the mempool site: `POPM_STATIC_FEE=X`
+1. Check Current Fee Levels: Visit [mempool.space](https://mempool.space/testnet) to see the current fee levels. Look at the "sat/vB" numbers for the different transaction fee priorities. It is recommended to set the value to the "High Priority" value or slightly higher.
+2. Set the Static Fee: Re-run the command to set the `POPM_STATIC_FEE` environment variable from above (`export` on Linux/macOS, `set` on Windows) each time you want to change the fee, and restart the PoP Miner afterwards.
 {% endhint %}
 
 ***
