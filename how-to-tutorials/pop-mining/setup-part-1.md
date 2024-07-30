@@ -6,7 +6,7 @@
 * This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading **pre-built binaries** or by **building from source**.
 * Ensure you have your development environment ready and follow the steps below to join the mining network.
 * Basic CLI skills are required.
-* To start mining, claim tBTC provided by your [Hemi onboarding Capsule](https://app.hemi.xyz/en/get-started) or send `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
+* To start mining, claim tBTC provided by your [Hemi onboarding Capsule](https://app.hemi.xyz/en/get-started) or send at least `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
 {% endhint %}
 
 ***
@@ -24,30 +24,48 @@
 ### 1. Binaries
 
 * [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source).
-*   View `Assets` \*
+*   Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
 
-    ```
-    ![](../../.gitbook/assets/heminetwork-binaries-screenshot-v0.1.1.png)
-    ```
+    <figure><img src="../../.gitbook/assets/pop-miner-binaries-v0.2.8 (1).png" alt=""><figcaption><p>Note: the version numbers may be different.</p></figcaption></figure>
 
-    * The files are named as `heminetwork_v0.1.1_<os>_<arch>.tar.gz` for Mac/Linux and `heminetwork_v0.1.1_windows_amd64.zip` for Windows.
-* After downloading the necessary files, you must extract them from their compressed format before you can use or access the software.
-  * For `.tar.gz` **files on Mac/Linux, use the `tar`** command in the Terminal
-  * For `.zip` files on Windows, use the built-in extraction tool by right-clicking on the file and choosing `Extract All`
+    * Which package you need to download depends on your OS and architecture:
+      * **Windows (Intel/AMD CPU):** heminetwork\_v0.2.8\_windows\_amd64.zip
+      * **Mac (Intel CPU):** heminetwork\_v0.2.8\_darwin\_amd64.tar.gz
+      * **Mac (Apple Silicon "M" CPU):** heminetwork\_v0.2.8\_darwin\_arm64.tar.gz
+      * **Linux (Intel/AMD CPU):** heminetwork\_v0.2.8\_linux\_amd64.tar.gz
+      * **Linux (ARM CPU):** heminetwork\_v0.2.8\_linux\_arm64.tar.gz
+* After downloading the necessary files, you must extract them from their compressed format before you can use or access the software. On most operating systems, you can right-click on the downloaded archive and choose "Extract" or similar. On Linux/macOS, you can also use the command `tar xvf heminetwork_v0.2.8_linux_amd64.tar.gz`; see instructions below for how to open the Terminal and run commands.
 
 {% hint style="info" %}
-Use the `uname -a`command in the CLI to view all system information, ensuring compatibility with the correct asset on GitHub.
+**Linux/macOS Tip**: Run the  `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub. Depending on the output:\
+"**x86\_64**" => Choose the "**amd64**" package corresponding to your OS\
+"**arm64**" => Choose the "**arm64**" package corresponding to your OS
 {% endhint %}
 
 ***
 
-### 2. Open the folder
+### 2. Open your CLI and navigate to the extracted folder
 
-* List the files
-
-```none
-ls
-```
+* Launch your CLI:
+  * **Windows**:
+    * Press `⊞ Win` + `R` together to open the "Run Program Or File" Window
+    * Type "cmd" and press `Enter`
+  * &#x20;**macOS**:
+    * Press `⌘` + `Space` together to open Spotlight Search
+    * Type "terminal" and press Enter
+  * **Linux**:
+    * Depends on OS. On Ubuntu (Gnome): `Ctrl` + `Alt` + `T`
+    * For most other distros, you can press `Super` (Windows Key) and search for Terminal.&#x20;
+* Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press Enter.
+  * For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:
+  * ```
+    cd '/home/user/Downloads/heminetwork_v0.2.8_linux_amd64'
+    ```
+* List the files:
+  * **Windows**: &#x20;
+    * `dir`  (and press `Enter`)
+  * Linux/macOS:&#x20;
+    * `ls`  (and press `Enter`)
 
 Your output should be:
 
@@ -66,29 +84,29 @@ Your output should be:
 
 ### 3. Verify Configuration Success
 
-To ensure the setup is correctly configured, execute the command below:
+To ensure you downloaded the correct binaries and are able to run them, execute the command below:
 
 ```none
 ./popmd --help
 ```
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to first remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./popmd</code></mark></p></td><td></td></tr><tr><td><strong>Windows</strong></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li></ol></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to first remove the quarantine by running the following command in your Terminal:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./popmd</code></mark></p></td><td></td></tr><tr><td><strong>Windows</strong></td><td><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt (CMD), not PowerShell (which is the default terminal in environments like Visual Studio Code).</mark></td><td></td></tr></tbody></table>
 
 This will display the help menu for `popmd`, indicating that it's installed and operational.
 
 ```none
-Hemi Proof of Proof miner: v0.1.1-pre+29f116fb4
+Hemi Proof of Proof miner: v0.1.0-pre+f09d4e5ff
 Usage:
-        help (this help)
+	help (this help)
 Environment:
-        POPM_BFG_URL           : url for BFG (Bitcoin Finality Governor) (default: http://localhost:8383/v1/ws/public)
-        POPM_BTC_CHAIN_NAME    : the name of the bitcoing chain to connect to (ex. "mainnet", "testnet3") (default: testnet3)
-        POPM_BTC_PRIVKEY       : bitcoin private key (required) 
-        POPM_LOG_LEVEL         : loglevel for various packages; INFO, DEBUG and TRACE (default: popmd=INFO;popm=INFO)
-        POPM_PPROF_ADDRESS     : address and port popm pprof listens on (open <address>/debug/pprof to see available profiles)
-        POPM_PROMETHEUS_ADDRESS: address and port bssd prometheus listens on 
-        POPM_REMINE_THRESHOLD  : the number of L2 Keystones behind the latest seen that we are willing to remine, this is handy for re-orgs (default: 0)
-        POPM_STATIC_FEE        : specify the number of sats/vB the PoP Miner will pay for fees (default: 1)
+	POPM_BFG_URL           : url for BFG (Bitcoin Finality Governor) (default: http://localhost:8383/v1/ws/public)
+	POPM_BTC_CHAIN_NAME    : the name of the bitcoin chain to connect to (ex. "mainnet", "testnet3") (default: testnet3)
+	POPM_BTC_PRIVKEY       : bitcoin private key (required) 
+	POPM_LOG_LEVEL         : loglevel for various packages; INFO, DEBUG and TRACE (default: popmd=INFO;popm=INFO)
+	POPM_PPROF_ADDRESS     : address and port popm pprof listens on (open <address>/debug/pprof to see available profiles) 
+	POPM_PROMETHEUS_ADDRESS: address and port popm prometheus listens on 
+	POPM_REMINE_THRESHOLD  : the number of L2 Keystones behind the latest seen that we are willing to remine, this is handy for re-orgs (default: 0)
+	POPM_STATIC_FEE        : specify the number of sats/vB the PoP Miner will pay for fees (default: 1)
 ```
 
 ***
@@ -126,10 +144,10 @@ You should get an example result like:
 **Glossary**
 
 * `ethereum_address`: This is the unique identifier to which you can send Ethereum-based funds, including those on mainnets, testnets (like Sepolia), and Layer 2 networks (like Hemi). It facilitates cross-environment transactions, meaning the same address is applicable across different Ethereum networks.
-* `network`: Refers to the specific blockchain environment (e.g., Ethereum mainnet, Sepolia testnet, or a Layer 2 solution) that a transaction or operation is intended for.
-* `private_key`: A secure digital code known only to the owner, used to access and manage the corresponding Ethereum address in wallets like MetaMask. It’s essential for interacting with blockchain networks, allowing the execution of transactions from the Ethereum address.
-* `public_key`: Derived from the private key, this is shared publicly and used in the encryption process. For the Hemi network, it's intended for future use to whitelist addresses with the Bitcoin Finality Governor (BFG) endpoint.
-* `pubkey_hash`: Represents a Bitcoin address generated from the private\_key, which the PoP Miner application can use. It's recommended not to try importing this address into a wallet, as it's specifically for mining activities.
+* `network`: Refers to the specific blockchain environment that the generated address is compatible with. On Ethereum, addresses are the same for mainnet and testnet, however on Bitcoin addresses on each network are formatted differently.
+* `private_key`: A secure digital code known only to the owner, used to access and manage the corresponding Ethereum address in wallets like MetaMask and Bitcoin address in wallets like UniSat. It’s essential for interacting with blockchain networks.
+* `public_key`: Derived from the private key, this is shared publicly and used in the transaction signature process. For PoP mining and most other interactions with the Hemi network, you will not need to do anything directly with your public key.
+* `pubkey_hash`: Represents a Bitcoin address generated from the private\_key. You will send tBTC to this address to use in PoP Mining. If you import your private key into a Bitcoin wallet, you will have to select the address type - for now the PoP miner uses
 {% endhint %}
 
 ***
