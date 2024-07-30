@@ -42,7 +42,7 @@
   * [Web-based PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
   * [Add tHEMI to MetaMask](how-to-tutorials/pop-mining/add-themi-to-metamask.md)
 * [Capsules](how-to-tutorials/capsules/README.md)
-  * [Tutorial](how-to-tutorials/capsules/tutorial.md)
+  * [Claim Welcome Capsule](how-to-tutorials/capsules/tutorial.md)
 
 ## ⚙️ Building Bitcoin Apps
 
