@@ -16,6 +16,6 @@ It includes:&#x20;
 
 ## 📚 Tutorial
 
-1. [Installation ](https://github.com/hemilabs/hemi-viem?tab=readme-ov-file#example)
-2. [Example](https://github.com/hemilabs/hemi-viem?tab=readme-ov-file#example)
+1. [Installation ](https://github.com/hemilabs/hemi-viem#installation)
+2. [Example](https://github.com/hemilabs/hemi-viem#example)
 
