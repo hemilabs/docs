@@ -32,7 +32,7 @@ Remix IDE is a powerful, open-source web application for developing, compiling, 
 
 In Remix IDE, start by creating a new file named `HelloWorld.sol`.
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/aASuOiQQ-J-6OoH-J-Nbg\_image.png)
+![](../.gitbook/assets/1c.png)
 
 * The following contract is a basic example designed for interaction. Copy the code below and paste it into the file `HelloWorld.sol`.
 
@@ -63,7 +63,7 @@ Ensure that the Solidity Compiler is configured to **version 0.8.19** or earlier
 
 Select `Compile HelloWorld.sol` button to use the Remix IDE's Solidity compiler. Check for any compilation errors and fix them.
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/AlgvMWAYUOl5sELM5jnQg\_image.png)
+![](../.gitbook/assets/2c.png)
 
 ***
 
@@ -75,7 +75,7 @@ The address you choose to connect **MUST** have a minimum balance of 0.10 ETH to
 
 Choose `Injected Provider - MetaMask` under "Environment".
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/b8Rpm5EDGY6VtoKaUGcB6\_image.png)
+![](../.gitbook/assets/3c.png)
 
 ***
 
@@ -83,11 +83,11 @@ Choose `Injected Provider - MetaMask` under "Environment".
 
 * A pop-up from MetaMask will appear to confirm the connection. Select `Next`.
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/DVAbARozcEhgs9u-aX12U\_image.png)
+![](../.gitbook/assets/4c.png)
 
 * Select `Connect`
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/jqNegecBy\_X2a2NY87n30\_image.png)
+![](../.gitbook/assets/5c.png)
 
 ***
 
@@ -95,7 +95,7 @@ Choose `Injected Provider - MetaMask` under "Environment".
 
 * Link to the relevant Hemi account in the "Account" drop-down.
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/r5KAbf\_1pEkJBohPVd0Pk\_image.png)
+![](../.gitbook/assets/6c.png)
 
 ***
 
@@ -109,14 +109,14 @@ Uncheck `Publish to IPFS.`Note: if you get a warning about Gas Limit, you may ig
 
 * Select `Deploy`
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/1u--sVUSTA7c7XWMGdUtS\_image.png)
+![](../.gitbook/assets/7c.png)
 
 * Your MetaMask will pop-up to confirm the deployment of your smart contract. Select `Confirm`
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/ADm4Lo3PartN9VdYIQJj9\_image.png)
+![](../.gitbook/assets/8c.png)
 
 🥳 Whoooo! If successful you should see a ✅ in the console.
 
 ⚠️ If it fails, double check that the Solidity version in the compiler is the correct version.
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/AlgvMWAYUOl5sELM5jnQg\_image.png)
+![](../.gitbook/assets/9c.png)
