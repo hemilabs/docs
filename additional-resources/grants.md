@@ -2,15 +2,17 @@
 
 ## 🏁 Getting Started
 
-We are always open to new ideas, but here are some specific areas we believe will impact the network most.
+Are you building the next killer Hemi application (hApp) or a service that adds value to Hemi's ecosystem? Fill out the form below to let us know what you're building and apply for a grant!
 
-If you don't see your idea on this list, we also want to hear about projects you are interested in building!&#x20;
+Want some inspiration? Check out the lists below for some of the projects we're most excited about.&#x20;
+
+If you don't see your idea on this list, we'd still love to hear what you're interested in building!&#x20;
 
 ***
 
-## 🤖 Bitcoin "Intelligent" dApps
+## 🤖 Bitcoin-Aware hApps (Using hVM or hBK)
 
-Any dApp you are passionate about building that would benefit from Bitcoin awareness.
+These are hApps that directly take advantage of Hemi's EVM-level Bitcoin awareness.
 
 * Non-Custodial BTC / BTC Asset DEXes
   * A decentralized exchange to trade Bitcoin or Bitcoin-based assets without requiring users to give up custody of their funds.&#x20;
@@ -28,26 +30,47 @@ Any dApp you are passionate about building that would benefit from Bitcoin aware
 
 ***
 
-## 💡 dApp Ideas
+## ✨ Artificial Intelligence hApps
 
-* DEXes
-* Lending Markets
-* Bridges
-* Yield Aggregators
-* Algorithmic Stablecoins (maybe?)
-* On-chain games
-* NFT projects&#x20;
-* NFT Marketplaces
-* AI (ex: model marketplace with zk-verifiable inference)
-* Real World Assets
-* Fiat On-Ramps
+These are hApps that utilize AI directly or provide services that AI developers want to use.
+
+* ZK-Verified MLaaS (ML as a Service)
+  * Model owners authenticate their private models to Bitcoin via Hemi by publishing a hash of the model weights. Consumers select a model and send data to perform inference on, and the model owner computes the requested inference and returns the result along with a zero-knowledge proof demonstrating correct execution against the specified model.
+* Private FHE-based MLaaS
+  * Similar to zk-verified MLaaS, but the model consumers send fully homomorphically encrypted input data, meaning the model owner can't see the consumer's data they are performing inference with.
+* Training Data Marketplace
+  * Marketplace for users to buy and sell the rights to use different data sets for model training, producing a proof of data licensing authenticated to Bitcoin via Hemi. Optionally, ZK-verified training proofs could be employed to cryptographically prove that a model was only trained on licensed data.
+* Decentralized Machine Learning
+  * Peer-to-peer marketplaces for buying computing power. Could either be generic compute purchasing, or AI-specific distributed training/inference protocols.
+* Portfolio Management Agents and DAOs
+  * Autonomous AI agents that trade assets or perform other on-chain actions on Hemi for a user or group of users.
+* Crowd-Sourced Data Classification
+  * Humans perform data classification/labeling on data so it can be used for machine learning, and are paid a reward if their classification is aligned with the majority of other users.&#x20;
 
 ***
 
-## Other
+## 💡 Other hApp Ideas
 
-* Wallet support (either tHEMI itself and/or PoP mining embedded in a Bitcoin wallet)
-* Improvements to existing services (explorer, portal, demo dApps, etc.)
+* DEXes
+* Lending Markets
+* Payment Channels
+* Bridges
+* Yield Aggregators
+* Algorithmic Stablecoins
+* On-chain Games
+* NFT Projects&#x20;
+* NFT Marketplaces
+* Real World Assets
+
+***
+
+## Other Projects
+
+* Custom PoP miners
+* PoP mining embedded in a widely-used Bitcoin wallet
+* Hemi metrics/explorers/chain analytics
+* Improvements to existing services (explorer, portal, demo hApps, etc.)
+* Bitcoin timestamping services via Hemi
 * Oracles
 
 ***
