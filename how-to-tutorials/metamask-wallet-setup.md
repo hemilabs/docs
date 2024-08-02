@@ -29,7 +29,7 @@
 
 ### 1. Open the MetaMask Extension
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/kiU49ijKsPHZcoyaBdbal\_image.png)
+<figure><img src="../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
@@ -37,19 +37,19 @@
 
 Click on the network-selection dropdown, which is found at the top left of the MetaMask window.
 
-<figure><img src="../.gitbook/assets/MetaMask - Google Chrome 2024-06-25 08.09.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.png" alt="" width="359"><figcaption></figcaption></figure>
 
 ***
 
 ### 3. Select "Add Network"
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.png" alt="" width="348"><figcaption></figcaption></figure>
 
 ***
 
 ### 4. Add a Network Manually
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/yJrkutZr\_ZiqPEzkbbGEZ\_image.png)
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
