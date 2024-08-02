@@ -30,7 +30,7 @@ These are hApps that directly take advantage of Hemi's EVM-level Bitcoin awarene
 
 ***
 
-## ✨ Artificial Intelligence hApps
+## ✨ AI hApps
 
 These are hApps that utilize AI directly or provide services that AI developers want to use.
 
