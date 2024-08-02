@@ -59,7 +59,7 @@ npx hardhat init
 
 b) Select `Create an empty hardhat.config.js`
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/vwOqdeFQBmRmd5dn5u5aO\_image.png)
+![](../.gitbook/assets/1d.png)
 
 ***
 
@@ -75,7 +75,7 @@ mkdir contracts && mkdir scripts
 
 ### 6. Write Your Contract
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/PbdlxnFGjB396RpLZIqHe\_image.png)
+![](../.gitbook/assets/2d.png)
 
 * In the `contracts` folder, create a file named `MyToken.sol` . This will be your ERC-20 token contract. Here's a basic example:
 
@@ -110,7 +110,7 @@ a) Export your Private Key from MetaMask:
 
 * Open MetaMask, select your account icon, and go to `Account Details`
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/ZV2mIMUNSoJjryajgnG1F\_image.png)
+![](../.gitbook/assets/3d.png)
 
 * Select `Show private key`
 * Enter your password.
@@ -188,7 +188,7 @@ module.exports = {
 
 ### 10. Write a Deployment Script
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/2-Ua8\_3VwJN89awF\_u9lH\_image.png)
+![](../.gitbook/assets/4d.png)
 
 In the `scripts` folder, create a file named `deploy.js` to write a script for deploying your contract.
 
@@ -233,4 +233,4 @@ To view the details of your deployed contract, enter the contract address from y
 
 Contract details we just deployed:
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/KjbK1i2kxKgeiQ35kJjXE\_image.png)
+![](../.gitbook/assets/5d.png)
