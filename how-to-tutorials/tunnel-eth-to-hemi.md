@@ -19,7 +19,7 @@
    * Toggle `Show Test Networks`
    * Select `Sepolia`
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/baJr3fT0uJhu2UKKhbhp9\_image.png)
+<figure><img src="../.gitbook/assets/1b.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -35,7 +35,7 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 
 
 
-<figure><img src="../.gitbook/assets/portal_disconnected_wallet_CTA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2b.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,15 +43,15 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3b.png" alt="" width="531"><figcaption></figcaption></figure>
 
 ***
 
-### 4. Click Connect
+### 4. Click Confirm
 
 
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4b.png" alt="" width="261"><figcaption></figcaption></figure>
 
 ***
 
@@ -60,14 +60,16 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 * Enter the amount you would like to tunnel
 * Click `Deposit`
 
-<figure><img src="../.gitbook/assets/portal_tunnel_deposit_CTA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5b.png" alt=""><figcaption></figcaption></figure>
 
 * Click `Confirm`
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="282"><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/6b.png" alt="" width="267"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: You can confirm your transaction was successful in the `Activity` tab of your MetaMask wallet.
 
-![](<../.gitbook/assets/image (7).png>) :::
+![](../.gitbook/assets/7b.png) :::
 {% endhint %}
