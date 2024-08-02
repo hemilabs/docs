@@ -160,9 +160,9 @@ You should see a result like:
 
 * Check the JSON for your `private_key`and import it into MetaMask (only copy the hexadecimal digits; no quotes or spaces).
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/YwLmvNZlpItY8LA-iIQ4h\_image.png)
+![](<../../.gitbook/assets/PoP 1.png>)
 
-![](https://archbee-image-uploads.s3.amazonaws.com/P3jZYg6ia8u4bfG9Eix0B/KYSRZGcGOeqU-b7zT9xTG\_image.png)
+![](<../../.gitbook/assets/Pop 2.png>)
 
 ***
 
