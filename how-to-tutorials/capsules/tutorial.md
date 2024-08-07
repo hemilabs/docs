@@ -1,47 +1,63 @@
-# Tutorial
+# Claim a Capsule
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* This tutorial walks you through how to claim your Onboarding Capsule.
+* This tutorial walks you through claiming your onboarding Capsule.
+* There are NO prerequisites to claim a Capsule. If you do not have an EVM or BTC address, Capsule can create one for you!
 {% endhint %}
 
 ***
 
 ## 🏁 Prerequisites
 
-1. **Visit** [**app.hemi.xyz**](https://app.hemi.xyz/get-started)**:** Enter your email to receive your Welcome Pack that contains your Capsule URL link.
-
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="294"><figcaption></figcaption></figure>
-
-2. **Check Your Email:** You will receive an email with your Capsule URL link. If you encounter any issues, message us on [Discord](https://discord.gg/hemixyz)**.**&#x20;
-
-{% hint style="danger" %}
-**Only 1 Capsule can be claimed per user.**&#x20;
-{% endhint %}
+1. **NONE!**
 
 ***
 
 ## 📚 Tutorial
 
-### 1. Click the Capsule URL in your Email
+### **1. Join the Hemi Discord**
+
+* Join the Hemi [Discord](https://discord.gg/hemixyz) and find the `#claim-capsule` channel. Click "Claim" to request your Capsule.
+* **Only ONE Capsule can be claimed per user.**&#x20;
+
+{% hint style="info" %}
+If you do not see the `#claim-capsule` channel in the left menu bar, click "Channels & Roles" -> "Browse Channels" to view / add other channels.&#x20;
+{% endhint %}
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-07 at 14.45.58.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### **2. Check your Discord DMs**
+
+* **Y**ou will receive a DM from one of the Hemi team members with your Capsule URL link.&#x20;
+
+{% hint style="info" %}
+If you encounter any issues or do not receive your DM within 24 hours, create a ticket in the `#ticket` channel on [Discord](https://discord.gg/hemixyz)**.** &#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-07 at 14.55.52.png" alt=""><figcaption><p>Example DM to claim your Capsule</p></figcaption></figure>
+
+***
+
+### 3. Click the Capsule URL in your Discord DM
 
 * **Landing Page:** You will be directed to a page like this.
 * Click `Redeem`
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-07 at 14.59.32.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 2. Connect to Claim
+### 4. Connect to Claim
 
-* Enter the receiving Hemi Sepolia address or connect your preferred wallet.
+* Enter the receiving Hemi Sepolia address or connect your preferred EVM wallet.
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### 3.Switch to Hemi Sepolia Network
 
 * **Network Warning:** Make sure to switch to the Hemi Sepolia Network. (A warning will pop up if you haven't switched.)
 
@@ -57,7 +73,7 @@ Note: You will receive an error when trying to claim your Capsule if you have no
 
 ***
 
-### 4. Redeem
+### 5. Redeem
 
 * Once you are properly connected, you can click `Redeem`.
 
@@ -68,13 +84,17 @@ Note: You will receive an error when trying to claim your Capsule if you have no
 ## Optional: Start PoP Mining Today
 
 * Anyone can do this! We have a [beginner](../pop-mining/)[ and advanced tutorial on how to start PoP mining.](../pop-mining/)
-* Enter the receiving BTC address pr click to have Capsule create one for you to get started!&#x20;
+* Enter the receiving BTC address or click to have Capsule create one for you to get started!&#x20;
+
+{% hint style="warning" %}
+Make sure you save the&#x20;
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt="" width="250"><figcaption></figcaption></figure>
 
 ***
 
-## 5. Transaction Progress
+## 6. Transaction Progress
 
 * You should see the screen below if everything was inputted correctly.&#x20;
 

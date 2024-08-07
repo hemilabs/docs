@@ -12,7 +12,7 @@
   * Currency Symbol: `ETH`
   * Block Explorer URL: [`https://testnet.explorer.hemi.xyz`](https://testnet.explorer.hemi.network)
 * **ETH**, the native token of the Hemi Network, is used to pay for gas fees.
-* **tHEMI** is the testnet governance token of the Hemi Network and is rewarded to PoP Miners for broadcasting transactions and securing Hemi.
+* **tHEMI** is the testnet governance token of the Hemi Network and is rewarded to PoP miners for broadcasting transactions and securing Hemi.
 {% endhint %}
 
 

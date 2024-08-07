@@ -1,22 +1,17 @@
 # Miners
 
-## 🌐 Overview
-
-Interested in mining? We have a ton of tools for you!
-
-***
-
 ## 📚 Resources
 
 {% file src="../../.gitbook/assets/Hemi Network Whitepaper.pdf" %}
 
-1. [network-details](../network-details/ "mention")
-2. [**Claim a Capsule**](../../how-to-tutorials/capsules/)
-3. [**Proof-of-Proof Consensus**](../../foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
-4. [setup-part-1.md](../../how-to-tutorials/pop-mining/setup-part-1.md "mention")
-5. [**Web PoP Miner**](https://pop-miner.hemi.xyz)
-6. [**Add tHEMI to MetaMask**](../../how-to-tutorials/pop-mining/add-themi-to-metamask.md)
-7. [**Refer a friend**](https://points.absinthe.network/hemi)
+1. [**Claim an onboarding Capsule**](../../how-to-tutorials/capsules/tutorial.md)
+2. Configure specific [network-details](../network-details/ "mention")
+3. [metamask-wallet-setup.md](../../how-to-tutorials/metamask-wallet-setup.md "mention") for Hemi testnet
+4. [**What is Proof-of-Proof (PoP) Consensus?**](../../foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
+5. [**Run a CLI PoP Miner**](../../how-to-tutorials/pop-mining/setup-part-1.md)
+6. [**Use the Web PoP Miner**](https://pop-miner.hemi.xyz)
+7. [**Add tHEMI to MetaMask**](../../how-to-tutorials/pop-mining/add-themi-to-metamask.md)
+8. [**Refer a friend**](https://points.absinthe.network/hemi)
 
 ***
 

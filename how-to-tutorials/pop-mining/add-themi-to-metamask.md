@@ -4,8 +4,9 @@
 ## 📜 **TL;DR:**
 
 * **tHEMI** is the governance token for the Hemi Network's testnet phase.
-* **tHEMI tokens are used for payouts** to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
+* tHEMI tokens are used for **payouts to PoP miners** as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
 * View your tHEMI balance and transactions directly in MetaMask.
+* The tHEMI token contract address is `0x4200000000000000000000000000000000000042.`
 {% endhint %}
 
 ***

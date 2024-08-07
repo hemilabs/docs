@@ -39,10 +39,10 @@
 * [ERC-20](how-to-tutorials/erc-20.md)
 * [PoP Mining](how-to-tutorials/pop-mining/README.md)
   * [CLI PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
-  * [Web-based PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
+  * [Web PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
   * [Add tHEMI to MetaMask](how-to-tutorials/pop-mining/add-themi-to-metamask.md)
 * [Capsules](how-to-tutorials/capsules/README.md)
-  * [Claim Welcome Capsule](how-to-tutorials/capsules/tutorial.md)
+  * [Claim a Capsule](how-to-tutorials/capsules/tutorial.md)
 
 ## ⚙️ Building Bitcoin Apps
 

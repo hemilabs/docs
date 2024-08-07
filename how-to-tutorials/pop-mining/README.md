@@ -4,6 +4,7 @@
 ### 📜 **TL;DR:**
 
 * Participants can secure the Hemi Network to Bitcoin and earn rewards by operating the PoP Miner application.
+* There are two primary methods to run a PoP miner within the Hemi Network: [Web PoP Miner](web-based-pop-miner.md) and [CLI PoP Miner](setup-part-1.md).
 {% endhint %}
 
 ***

@@ -42,5 +42,5 @@ Whether you're a developer, miner, or explorer, we've got a path for you!&#x20;
 
 ## 📦 Claim a Capsule
 
-* The Hemi Onboarding Capsule gives you all the testnet tokens (tBTC, ETH, and tHEMI) you need to start building and using Hemi.
+* The Hemi Onboarding Capsule gives you all the testnet tokens (tBTC, ETH and tHEMI) you need to start building and interacting on Hemi testnet.
 * When you [claim](../../how-to-tutorials/capsules/tutorial.md) your Onboarding Capsule, you get everything you need to mine PoP, pay transaction fees, and use the Hemi Tunnel.

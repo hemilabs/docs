@@ -4,12 +4,15 @@
 
 If you're a beginner, these resources are a great starting point! The tutorials are very thorough and designed for anyone without experience, whether you're an artist, a gamer, or a crypto enthusiast.&#x20;
 
-1. [using-remix-ide.md](../../how-to-tutorials/using-remix-ide.md "mention") to deploy a smart contract
-2. [metamask-wallet-setup.md](../../how-to-tutorials/metamask-wallet-setup.md "mention")
-3. **Explain Hemi to Me like I'm 5** (_Coming Soon)_
-4. [hemi-pilot-program.md](../../governance/hemi-pilot-program.md "mention")
-5. [**Claim your onboarding Capsule**](../../how-to-tutorials/capsules/tutorial.md)
-6. [**Refer a friend**](https://points.absinthe.network/hemi)
+1. [metamask-wallet-setup.md](../../how-to-tutorials/metamask-wallet-setup.md "mention") for Hemi testnet
+2. [**Claim an onboarding Capsule**](../../how-to-tutorials/capsules/tutorial.md)
+3. Join the [hemi-pilot-program.md](../../governance/hemi-pilot-program.md "mention")
+4. [**Use the Web PoP Miner**](https://pop-miner.hemi.xyz)
+5. [**Mint a Hemi Hatchling NFT**](https://hemihatchlings-test.hemi.xyz)
+6. [**Explore the Hemi Demo Apps**](https://app.hemi.xyz/en/demos/)
+7. Deploy a smart contract [using-remix-ide.md](../../how-to-tutorials/using-remix-ide.md "mention")&#x20;
+8. Deploy an [erc-20.md](../../how-to-tutorials/erc-20.md "mention")
+9. [**Refer a friend**](https://points.absinthe.network/hemi)
 
 ***
 
@@ -19,13 +22,10 @@ For intermediate to advanced users, these resources provide in-depth tutorials t
 
 {% file src="../../.gitbook/assets/Hemi Network Whitepaper.pdf" %}
 
-1. [the-architecture](../../foundational-topics/the-architecture/ "mention")
-2. [network-details](../network-details/ "mention")
-3. [**Web PoP Miner**](https://pop-miner.hemi.xyz)
-4. [**CLI PoP Miner**](../../how-to-tutorials/pop-mining/setup-part-1.md)
-5. [**Claim a Capsule** ](https://app.hemi.xyz/en/get-started/)
-6. Deploy an [erc-20.md](../../how-to-tutorials/erc-20.md "mention")
-7. [**Incentives**](../../governance/incentives/)
+1. Learn about[the-architecture](../../foundational-topics/the-architecture/ "mention")
+2. Configure specific [network-details](../network-details/ "mention")
+3. [**Run a CLI PoP Miner**](../../how-to-tutorials/pop-mining/setup-part-1.md)
+4. [**Learn about developer incentives**](../../governance/incentives/)
 
 ***
 
