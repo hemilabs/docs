@@ -13,7 +13,7 @@
 
 ## 🌐 Overview
 
-* The **Hemi Network** represents a different way of thinking about Layer-2 scaling, by approaching **Bitcoin** and **Ethereum** as components of a supernetwork versus .
+* The **Hemi Network** represents a different way of thinking about Layer-2 scaling, by approaching **Bitcoin** and **Ethereum** as components of a supernetwork.
 * This modular protocol aims to scale these networks and maximize their utility, creating a more connected and efficient blockchain ecosystem.
 * Through features such as the **hVM**, Hemi equips developers with robust tools for building next-generation **dApps** with Bitcoin _and_ Ethereum interoperability.
 
