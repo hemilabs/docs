@@ -40,13 +40,11 @@ If you do not see the `#claim-capsule` channel in the left menu bar, click "Chan
 If you encounter any issues or do not receive your DM within 24 hours, create a ticket in the `#ticket` channel on [Discord](https://discord.gg/hemixyz)**.** &#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-07 at 14.55.52.png" alt=""><figcaption><p>Example DM to claim your Capsule</p></figcaption></figure>
-
 ***
 
 ### 3. Click the Capsule URL in your Discord DM
 
-* **Landing Page:** You will be directed to a page like this.
+* **Landing Page:** You will be directed to the Capsule omboarding page.
 * Click `Redeem`
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-07 at 14.59.32.png" alt=""><figcaption></figcaption></figure>
@@ -108,16 +106,13 @@ Make sure you save the&#x20;
 
 **🥚 Easter Egg**
 
-* **Hidden Surprise**: If you've reached this part of the documentation, congrats, you've discovered an Easter egg! Remember the little surprise we mentioned earlier?&#x20;
+* If you happened to join Hemi testnet in the first month of participation and claimed your onboarding Capsule, you might have discovered an easter egg -- a limited "Air" Hemi Hatchling NFT!&#x20;
+* These limited NFTs were only available through Capsule. As of August 20, 2024, we have suspended the minting of these limited NFTs to provide the community with a special NFT honoring their initial participation in Hemi. Will there be more/different NFTs? Stay tuned.
 *   When you click **`View the onboarding transaction here`** (from the previous step) you will see the different Tokens transferred.
 
     <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
-* **Air Hemi Hatchling:** You'll notice several items were transferred, including an Air Hemi Hatchling. An **Air Hemi Hatchling is only available in a Capsule.**
-  * A Hemi Hatchling offers an immersive introduction to the Hemi Network's approach to scaling the Ethereum and Bitcoin networks, merging elemental lore with blockchain finality principles.&#x20;
-  * **PoP Protocol:** Hemi Hatchlings use the PoP protocol to achieve Superfinality. Read more about that at [pop-consensus-and-bitcoin-finality.md](../../foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md "mention").
-*   **Collect Other Hatchlings:** You can collect other elemental hatchlings by visiting [Hemi Hatchlings](https://hemihatchlings-test.hemi.xyz/) and learning more about how it works.
-
-    ![](<../../.gitbook/assets/Screenshot 2024-07-22 at 4.51.39 PM.png>)
+* **PoP Protocol:** Hemi Hatchlings use the PoP protocol to achieve Superfinality. Read more about that at [pop-consensus-and-bitcoin-finality.md](../../foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md "mention").
+* **Collect Other Hatchlings:** Although we are no longer minting the limited Air Hemi Hatchling NFT, you can collect other elemental hatchlings by visiting [Hemi Hatchlings](https://hemihatchlings-test.hemi.xyz/) and learning more about how it works.
 
 ***
 
