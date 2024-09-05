@@ -43,7 +43,9 @@ After connecting your wallet, you will be asked to confirm the transaction to mi
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-### 5. You've just minted a Hemi Hatchling! 🎉
+***
+
+### 5. Success! You've just minted a Hemi Hatchling! 🎉
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
