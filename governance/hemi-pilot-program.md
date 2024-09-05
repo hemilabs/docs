@@ -68,7 +68,7 @@ The tier threshold for each rank will be announced in mid-August.&#x20;
 4. From there, earn away!
 
 {% hint style="info" %}
-We are looking for a few people to work closely with us on this program. If you want to become more involved as an ambassador in our Pilot Program, please join our [Discord](https://discord.gg/hemixyz) or message[ @areyoujanedoe](https://x.com/areyoujanedoe).
+We are looking for a few people to work closely with us on this program. If you want to become more involved as an ambassador in our Pilot Program, please join our [Discord](https://discord.gg/hemixyz) reach out to **@bebegun3**.
 {% endhint %}
 
 _**Let's get exploring...**_

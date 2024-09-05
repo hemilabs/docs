@@ -54,6 +54,7 @@
 
 * [The Architecture](foundational-topics/the-architecture/README.md)
   * [Consensus and Security Protocols](foundational-topics/the-architecture/consensus-and-security-protocols.md)
+* [Tunnels](foundational-topics/tunneling.md)
 * [Sequencer Consensus](foundational-topics/sequencer-consensus/README.md)
   * [PoS-Only Pitfalls](foundational-topics/sequencer-consensus/pos-only-pitfalls.md)
   * [PoS Solutions](foundational-topics/sequencer-consensus/pos-solutions.md)
@@ -68,7 +69,6 @@
 * [Ethereum Virtual Machine (EVM)](foundational-topics/ethereum-virtual-machine-evm.md)
 * [Gas](foundational-topics/gas.md)
 * [Nodes & Clients](foundational-topics/nodes-and-clients.md)
-* [Tunnels](foundational-topics/tunneling.md)
 * [Staking](foundational-topics/staking.md)
 
 ## ⚡ Additional Resources
