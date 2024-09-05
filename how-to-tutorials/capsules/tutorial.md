@@ -1,7 +1,7 @@
 # Claim a Capsule
 
 {% hint style="info" %}
-## 📜 **TL;DR:**
+📜 **TL;DR:**
 
 * This tutorial walks you through claiming your onboarding Capsule.
 * There are NO prerequisites to claim a Capsule. If you do not have an EVM or BTC address, Capsule can create one for you!
@@ -54,55 +54,19 @@ If you encounter any issues or do not receive your DM within 24 hours, create a 
 ### 4. Connect to Claim
 
 * Enter the receiving Hemi Sepolia address or connect your preferred EVM wallet.
-
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-
 * **Network Warning:** Make sure to switch to the Hemi Sepolia Network. (A warning will pop up if you haven't switched.)
-
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="187"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Note: You will receive an error when trying to claim your Capsule if you have not switched to the Hemi Sepolia Network.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="242"><figcaption></figcaption></figure>
-
-***
-
 ### 5. Redeem
 
 * Once you are properly connected, you can click `Redeem`.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="240"><figcaption></figcaption></figure>
 
-***
 
-## Optional: Start PoP Mining Today
 
-* Anyone can do this! We have a [beginner](../pop-mining/)[ and advanced tutorial on how to start PoP mining.](../pop-mining/)
-* Enter the receiving BTC address or click to have Capsule create one for you to get started!&#x20;
-
-{% hint style="warning" %}
-Make sure you save the&#x20;
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="250"><figcaption></figcaption></figure>
-
-***
-
-## 6. Transaction Progress
-
-* You should see the screen below if everything was inputted correctly.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="326"><figcaption></figcaption></figure>
-
-* Click **`View the onboarding transaction here`**
-
-<figure><img src="../../.gitbook/assets/image (35).png" alt="" width="355"><figcaption></figcaption></figure>
-
-***
 
 **🥚 Easter Egg**
 

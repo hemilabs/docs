@@ -1,17 +1,9 @@
----
-description: >-
-  The following contains summary information to help you quickly integrate with
-  the Hemi testnet.
----
+# Network Details
 
-# Testnet
+## Hemi Testnet&#x20;
 
-***
-
-## Hemi Testnet Details
-
-| Hemi Testnet                  |                                                                              |
-| ----------------------------- | -----------------------------------------------------------------------------|
+|                               |                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------- |
 | **Gas Token/Currency Symbol** | ETH                                                                          |
 | **ChainID**                   | 743111                                                                       |
 | **RPC API endpoint**          | [https://testnet.rpc.hemi.network/rpc](https://testnet.rpc.hemi.network/rpc) |
@@ -19,6 +11,19 @@ description: >-
 | **Tunnel**                    | [https://app.hemi.xyz](https://app.hemi.xyz)                                 |
 | **Faucet**                    | [https://discord.gg/hemixyz](https://discord.gg/hemixyz)                     |
 | **PoP Miner Endpoint**        | wss://testnet.rpc.hemi.network/v1/ws/public                                  |
+
+***
+
+## Hemi Mainnet&#x20;
+
+|                               |     |
+| ----------------------------- | --- |
+| **Gas Token/Currency Symbol** | TBD |
+| **ChainID**                   | TBD |
+| **RPC API endpoint**          | TBD |
+| **Explorer**                  | TBD |
+| **Tunnel**                    | TBD |
+| **PoP Miner Endpoint**        | TBD |
 
 ***
 

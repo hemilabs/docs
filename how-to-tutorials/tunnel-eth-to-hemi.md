@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Acquire`ETH`, which is essential for initiating transactions and testing smart contracts on Hemi Testnet.
+* Acquire`ETH`, which is essential for initiating transactions and testing smart contracts on Hemi testnet.
 * Move your ETH to Hemi by using the Tunnel, enabling interactions within the Hemi Network ecosystem.
 {% endhint %}
 

@@ -1,11 +1,11 @@
-# Miners
+# Quickstart: Miners
 
 ## 📚 Resources
 
 {% file src="../../.gitbook/assets/Hemi Network Whitepaper.pdf" %}
 
 1. [**Claim an onboarding Capsule**](../../how-to-tutorials/capsules/tutorial.md)
-2. Configure specific [network-details](../network-details/ "mention")
+2. Configure specific [network-details.md](../network-details.md "mention")
 3. [metamask-wallet-setup.md](../../how-to-tutorials/metamask-wallet-setup.md "mention") for Hemi testnet
 4. [**What is Proof-of-Proof (PoP) Consensus?**](../../foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
 5. [**Run a CLI PoP Miner**](../../how-to-tutorials/pop-mining/setup-part-1.md)

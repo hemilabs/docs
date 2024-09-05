@@ -12,7 +12,6 @@
   * Currency Symbol: `ETH`
   * Block Explorer URL: [`https://testnet.explorer.hemi.xyz`](https://testnet.explorer.hemi.network)
 * **ETH**, the native token of the Hemi Network, is used to pay for gas fees.
-* **tHEMI** is the testnet governance token of the Hemi Network and is rewarded to PoP miners for broadcasting transactions and securing Hemi.
 {% endhint %}
 
 
@@ -68,7 +67,3 @@ In the "`Add a network manually"` settings, input the following information for 
 ### 6. **Save and Connect**
 
 Select `Save` to add the Hemi network to your MetaMask and then select `Switch to Hemi Testnet`.
-
-***
-
-### 7. [Add tHEMI to MetaMask](pop-mining/add-themi-to-metamask.md) (Optional)

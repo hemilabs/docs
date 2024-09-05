@@ -2,46 +2,28 @@
 
 ## 🏠 Main
 
-* [Introduction](README.md)
-* [Start Here](main/start-here/README.md)
-  * [Developers](main/start-here/developers.md)
-  * [Explorers](main/start-here/explorers.md)
-  * [Miners](main/start-here/miners.md)
-* [Network Details](main/network-details/README.md)
-  * [Testnet](main/network-details/testnet.md)
+* [Welcome to the Hemi Docs](README.md)
+* [Getting Started](main/start-here/README.md)
+  * [Quickstart: Developers](main/start-here/developers.md)
+  * [Quickstart: Explorers](main/start-here/explorers.md)
+  * [Quickstart: Miners](main/start-here/miners.md)
+* [Network Details](main/network-details.md)
 
-## ⛰️ Foundational Topics
+## 📖 How-to Tutorials
 
-* [The Architecture](foundational-topics/the-architecture/README.md)
-  * [Consensus and Security Protocols](foundational-topics/the-architecture/consensus-and-security-protocols.md)
-* [Sequencer Consensus](foundational-topics/sequencer-consensus/README.md)
-  * [PoS-Only Pitfalls](foundational-topics/sequencer-consensus/pos-only-pitfalls.md)
-  * [PoS Solutions](foundational-topics/sequencer-consensus/pos-solutions.md)
-* [Ethereum Rollups](foundational-topics/ethereum-rollups/README.md)
-  * [Pros & Cons](foundational-topics/ethereum-rollups/pros-and-cons.md)
-  * [Decentralized Rollups](foundational-topics/ethereum-rollups/decentralized-rollups.md)
-* [Proof-of-Proof](foundational-topics/proof-of-proof/README.md)
-  * [PoP Consensus & Bitcoin Finality](foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
-  * [Proof-of-Proof vs. Merged Mining](foundational-topics/proof-of-proof/proof-of-proof.md)
-* [Transactions](foundational-topics/transactions.md)
-* [Blocks](foundational-topics/blocks.md)
-* [Ethereum Virtual Machine (EVM)](foundational-topics/ethereum-virtual-machine-evm.md)
-* [Gas](foundational-topics/gas.md)
-* [Nodes & Clients](foundational-topics/nodes-and-clients.md)
-* [Tunneling](foundational-topics/tunneling.md)
-* [Staking](foundational-topics/staking.md)
-
-## 📖 How-To Tutorials
-
+* [Tutorials](how-to-tutorials/tutorials/README.md)
+  * [Deploy a Smart Contract](how-to-tutorials/tutorials/using-remix-ide.md)
+  * [Deploy an ERC-20 Token](how-to-tutorials/tutorials/erc-20.md)
+  * [Mint a Hemi Hatchling NFT](how-to-tutorials/tutorials/mint-a-hemi-hatchling-nft.md)
+  * [Create a Capsule](how-to-tutorials/tutorials/create-a-capsule.md)
+  * [Set Up a Safe Wallet](how-to-tutorials/tutorials/set-up-a-safe-wallet.md)
 * [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup.md)
 * [Tunnel ETH to Hemi](how-to-tutorials/tunnel-eth-to-hemi.md)
-* [Using Remix IDE](how-to-tutorials/using-remix-ide.md)
-* [ERC-20](how-to-tutorials/erc-20.md)
 * [PoP Mining](how-to-tutorials/pop-mining/README.md)
   * [CLI PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
   * [Web PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
   * [Add tHEMI to MetaMask](how-to-tutorials/pop-mining/add-themi-to-metamask.md)
-* [Capsules](how-to-tutorials/capsules/README.md)
+* [Capsule](how-to-tutorials/capsules/README.md)
   * [Claim a Capsule](how-to-tutorials/capsules/tutorial.md)
 
 ## ⚙️ Building Bitcoin Apps
@@ -67,6 +49,27 @@
   * [Retroactive Funding](governance/incentives/retroactive-funding.md)
   * [One-Off Spends](governance/incentives/one-off-spends.md)
 * [Hemi Pilot Program](governance/hemi-pilot-program.md)
+
+## ⛰️ Foundational Topics
+
+* [The Architecture](foundational-topics/the-architecture/README.md)
+  * [Consensus and Security Protocols](foundational-topics/the-architecture/consensus-and-security-protocols.md)
+* [Sequencer Consensus](foundational-topics/sequencer-consensus/README.md)
+  * [PoS-Only Pitfalls](foundational-topics/sequencer-consensus/pos-only-pitfalls.md)
+  * [PoS Solutions](foundational-topics/sequencer-consensus/pos-solutions.md)
+* [Ethereum Rollups](foundational-topics/ethereum-rollups/README.md)
+  * [Pros & Cons](foundational-topics/ethereum-rollups/pros-and-cons.md)
+  * [Decentralized Rollups](foundational-topics/ethereum-rollups/decentralized-rollups.md)
+* [Proof-of-Proof](foundational-topics/proof-of-proof/README.md)
+  * [PoP Consensus & Bitcoin Finality](foundational-topics/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
+  * [Proof-of-Proof vs. Merged Mining](foundational-topics/proof-of-proof/proof-of-proof.md)
+* [Transactions](foundational-topics/transactions.md)
+* [Blocks](foundational-topics/blocks.md)
+* [Ethereum Virtual Machine (EVM)](foundational-topics/ethereum-virtual-machine-evm.md)
+* [Gas](foundational-topics/gas.md)
+* [Nodes & Clients](foundational-topics/nodes-and-clients.md)
+* [Tunneling](foundational-topics/tunneling.md)
+* [Staking](foundational-topics/staking.md)
 
 ## ⚡ Additional Resources
 
