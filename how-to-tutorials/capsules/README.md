@@ -30,7 +30,7 @@ To streamline the process of obtaining required assets to jumpstart exploration 
 * **Ready-to-Use Resources:** Each Capsule includes ETH (Sepolia), ETH (Hemi Sepolia), tBTC, and tHEMI, enabling you to seamlessly onboard to testnet in one click.
 * **Gasless Transaction:** Capsule is delivered through a gasless transaction, meaning you can explore and build without incurring transaction fees.
 
-Your onboarding Capsule contains:
+🎁 Your onboarding Capsule contains:
 
 * **0.2 ETH (Sepolia Ether):**
   * Sepolia ether acquired from your Capsule can be tunneled (bridged) and used to interact with and build dApps on Hemi by paying transaction fees.
@@ -47,7 +47,7 @@ Your onboarding Capsule contains:
 All users are eligible to claim an onboarding Capsule, **limit one-per-user**. To claim your onboarding Capsule, view our [guide](tutorial.md).
 {% endhint %}
 
-
+***
 
 **🥚 Easter Egg**
 

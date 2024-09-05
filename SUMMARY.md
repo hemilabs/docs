@@ -68,7 +68,7 @@
 * [Ethereum Virtual Machine (EVM)](foundational-topics/ethereum-virtual-machine-evm.md)
 * [Gas](foundational-topics/gas.md)
 * [Nodes & Clients](foundational-topics/nodes-and-clients.md)
-* [Tunneling](foundational-topics/tunneling.md)
+* [Tunnels](foundational-topics/tunneling.md)
 * [Staking](foundational-topics/staking.md)
 
 ## ⚡ Additional Resources
