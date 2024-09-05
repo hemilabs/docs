@@ -6,7 +6,7 @@
 * This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading **pre-built binaries** or by **building from source**.
 * Ensure you have your development environment ready and follow the steps below to join the mining network.
 * Basic CLI skills are required.
-* To start mining, claim tBTC provided by your [Hemi onboarding Capsule](https://app.hemi.xyz/en/get-started) or send at least `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
+* To start mining, claim tBTC via the Hemi [Discord faucet](https://discord.gg/hemixyz) or send at least `0.002 tBTC` to your provided Bitcoin testnet address and run the miner with your private key.
 {% endhint %}
 
 ***
@@ -15,7 +15,7 @@
 
 1. Basic CLI Knowledge
 2. [metamask-wallet-setup.md](../metamask-wallet-setup.md "mention")
-3. [tBTC](https://coinfaucet.eu/en/btc-testnet)
+3. [tBTC](https://discord.gg/hemixyz)
 
 ***
 
@@ -28,13 +28,14 @@
 
     <figure><img src="../../.gitbook/assets/pop-miner-binaries-v0.2.8 (1).png" alt=""><figcaption><p>Note: the version numbers may be different.</p></figcaption></figure>
 
-    * Which package you need to download depends on your OS and architecture:
+    * The package you will need to download depends on your OS and architecture:
       * **Windows (Intel/AMD CPU):** heminetwork\_v0.2.8\_windows\_amd64.zip
       * **Mac (Intel CPU):** heminetwork\_v0.2.8\_darwin\_amd64.tar.gz
       * **Mac (Apple Silicon "M" CPU):** heminetwork\_v0.2.8\_darwin\_arm64.tar.gz
       * **Linux (Intel/AMD CPU):** heminetwork\_v0.2.8\_linux\_amd64.tar.gz
       * **Linux (ARM CPU):** heminetwork\_v0.2.8\_linux\_arm64.tar.gz
-* After downloading the necessary files, you must extract them from their compressed format before you can use or access the software. On most operating systems, you can right-click on the downloaded archive and choose "Extract" or similar. On Linux/macOS, you can also use the command `tar xvf heminetwork_v0.2.8_linux_amd64.tar.gz`; see instructions below for how to open the Terminal and run commands.
+* After downloading the necessary files, you must extract them from their compressed format before you can use or access the software. On most operating systems, you can right-click on the downloaded archive and choose "Extract" or similar.&#x20;
+  * On Linux/macOS, you can also use the command `tar xvf heminetwork_v0.2.8_linux_amd64.tar.gz`; see instructions below for how to open the Terminal and run commands.
 
 {% hint style="info" %}
 **Linux/macOS Tip**: Run the  `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub. Depending on the output:\
@@ -46,26 +47,21 @@
 
 ### 2. Open your CLI and navigate to the extracted folder
 
-* Launch your CLI:
-  * **Windows**:
-    * Press `⊞ Win` + `R` together to open the "Run Program Or File" Window
-    * Type "cmd" and press `Enter`
-  * &#x20;**macOS**:
-    * Press `⌘` + `Space` together to open Spotlight Search
-    * Type "terminal" and press Enter
-  * **Linux**:
-    * Depends on OS. On Ubuntu (Gnome): `Ctrl` + `Alt` + `T`
-    * For most other distros, you can press `Super` (Windows Key) and search for Terminal.&#x20;
-* Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press `Enter`.
-  * For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:
-  * ```
-    cd '/home/user/Downloads/heminetwork_v0.2.8_linux_amd64'
-    ```
-* List the files:
-  * **Windows**: &#x20;
-    * `dir`  (and press `Enter`)
-  * **Linux/macOS**:&#x20;
-    * `ls`  (and press `Enter`)
+Launch your CLI:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p><strong>Windows:</strong></p><ul><li>Press <code>⊞ Win</code> + <code>R</code> together to open the "Run Program Or File" Window</li></ul><ul><li>Type "cmd" and press <code>Enter</code></li></ul></td><td></td></tr><tr><td></td><td></td><td><p><strong>macOS:</strong></p><ul><li>Press <code>⌘</code> + <code>Space</code> together to open Spotlight Search</li><li>Type "terminal" and press Enter</li></ul></td></tr><tr><td><strong>Linux:</strong></td><td></td><td><ul><li>Depends on OS. On Ubuntu (Gnome): <code>Ctrl</code> + <code>Alt</code> + <code>T</code></li></ul><ul><li>For most other distros, you can press <code>Super</code> (Windows Key) and search for Terminal. </li></ul></td></tr></tbody></table>
+
+Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press `Enter`.
+
+* For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:\
+  \
+  `cd '/home/user/Downloads/heminetwork_v0.2.8_linux_amd64'`
+
+List the files:
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Windows:</strong></td><td><ul><li><code>dir</code>  (and press <code>Enter</code>)</li></ul></td><td></td></tr><tr><td><strong>Linux/macOS:</strong></td><td><ul><li><code>ls</code>  (and press <code>Enter</code>)</li></ul></td><td></td></tr></tbody></table>
 
 Your output should be:
 

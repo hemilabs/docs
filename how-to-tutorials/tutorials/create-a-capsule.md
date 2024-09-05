@@ -37,9 +37,9 @@ Connect your MetaMask wallet by clicking the button in the top-right corner.&#x2
 
 Click `'Add Asset'` to select the Hemi assets you would like to add to the Capsule. You may add any quantity and any combination of any Hemi assets as desired.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Optional_: You may change the name of the Capsule generated in the text box below the `'Add Asset'` button.
 
@@ -56,7 +56,7 @@ Capsule comes with a variety of optional features, including:
 * **Password Protection:** A password is required to redeem the assets (a unique and random password is provided by Capsule).
 * **Asset Key Verification:** The asset cannot be redeemed unless the recipient holds a designated NFT in their wallet (specific ID optional).
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 After selecting and adjusting any preferred features, click  `'Continue'`.
 
