@@ -11,14 +11,14 @@
 
 ## 📖 How-to Tutorials
 
+* [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup.md)
+* [Tunnel ETH to Hemi](how-to-tutorials/tunnel-eth-to-hemi.md)
 * [Tutorials](how-to-tutorials/tutorials/README.md)
   * [Deploy a Smart Contract](how-to-tutorials/tutorials/using-remix-ide.md)
   * [Deploy an ERC-20 Token](how-to-tutorials/tutorials/erc-20.md)
   * [Mint a Hemi Hatchling NFT](how-to-tutorials/tutorials/mint-a-hemi-hatchling-nft.md)
   * [Create a Capsule](how-to-tutorials/tutorials/create-a-capsule.md)
   * [Set Up a Safe Wallet](how-to-tutorials/tutorials/set-up-a-safe-wallet.md)
-* [MetaMask Wallet Setup](how-to-tutorials/metamask-wallet-setup.md)
-* [Tunnel ETH to Hemi](how-to-tutorials/tunnel-eth-to-hemi.md)
 * [PoP Mining](how-to-tutorials/pop-mining/README.md)
   * [CLI PoP Miner](how-to-tutorials/pop-mining/setup-part-1.md)
   * [Web PoP Miner](how-to-tutorials/pop-mining/web-based-pop-miner.md)
