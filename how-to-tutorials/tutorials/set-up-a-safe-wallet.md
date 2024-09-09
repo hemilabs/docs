@@ -21,7 +21,7 @@
 
 ***
 
-### 2. Connet your wallet
+### 2. Connect your wallet
 
 To get started, connect your wallet to the Safe site. For this tutorial, we will be using MetaMask.
 
@@ -36,7 +36,7 @@ To get started, connect your wallet to the Safe site. For this tutorial, we will
 After connecting your wallet, you will be prompted to name your Safe account.&#x20;
 
 {% hint style="info" %}
-Before proceeding, it is helpful to **doublecheck the wallet and network provided** in the right-hand screen. Confirm that the wallet connected is the wallet you would like to use to create your Safe wallet, and that the network is set to Hemi Sepolia.&#x20;
+**Doublecheck the wallet and network provided** in the right-hand screen. Confirm that the wallet connected is the wallet you would like to use to create your Safe wallet, and that the network is set to Hemi Sepolia.&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
