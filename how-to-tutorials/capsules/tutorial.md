@@ -1,7 +1,9 @@
-# Claim a Capsule
+# Claim an Onboarding Capsule
+
+
 
 {% hint style="info" %}
-📜 **TL;DR:**
+## 📜 **TL;DR:**
 
 * This tutorial walks you through claiming your onboarding Capsule.
 * There are NO prerequisites to claim a Capsule. If you do not have an EVM or BTC address, Capsule can create one for you!
