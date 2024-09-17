@@ -1,3 +1,9 @@
+---
+hidden: true
+noIndex: true
+noRobotsIndex: true
+---
+
 # Capsule
 
 {% hint style="info" %}
@@ -44,7 +50,7 @@ To streamline the process of obtaining required assets to jumpstart exploration 
   * tHEMI tokens are used for payouts to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
 
 {% hint style="info" %}
-All users are eligible to claim an onboarding Capsule, **limit one-per-user**. To claim your onboarding Capsule, view our [guide](tutorial.md).
+All users are eligible to claim an onboarding Capsule, **limit one-per-user**. To claim your onboarding Capsule, view our [guide](tutorials/tutorial.md).
 {% endhint %}
 
 ***
@@ -54,4 +60,4 @@ All users are eligible to claim an onboarding Capsule, **limit one-per-user**. T
 If you happened to join Hemi testnet in the first month of participation and claimed your onboarding Capsule, you might have discovered an easter egg -- a limited "Air" Hemi Hatchling NFT!&#x20;
 
 * These limited NFTs were only available through the onboarding Capsule. As of August 20, 2024, we have suspended the minting of these limited NFTs to provide the community with a special NFT honoring their initial participation in Hemi. Will there be more/different NFTs? Stay tuned.
-* **Collect Other Hatchlings:** Although we are no longer minting the limited Air Hemi Hatchling NFT, you can[ collect other elemental hatchlings](../tutorials/mint-a-hemi-hatchling-nft.md) and learn more about how it works.
+* **Collect Other Hatchlings:** Although we are no longer minting the limited Air Hemi Hatchling NFT, you can[ collect other elemental hatchlings](tutorials/mint-a-hemi-hatchling-nft.md) and learn more about how it works.

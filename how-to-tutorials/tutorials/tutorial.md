@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Claim an Onboarding Capsule
 
 
@@ -13,7 +18,7 @@
 
 ## 🏁 Prerequisites
 
-**NONE!**
+NONE!
 
 ***
 
@@ -54,7 +59,7 @@ You will be directed to the Capsule onboarding page. Click `Redeem.`
 Enter the receiving Hemi Sepolia address or connect your preferred EVM wallet.
 
 {% hint style="danger" %}
-**Note:** You will receive an error when trying to claim your Capsule if you have not switched to the **Hemi Sepolia Network.**
+**Note:** You will receive an error when trying to claim your Capsule if you have not switched to the **Hemi Sepolia** network**.**
 {% endhint %}
 
 ***

@@ -14,7 +14,7 @@
 ## 🏁 Prerequisites
 
 1. Basic CLI Knowledge
-2. [metamask-wallet-setup.md](../metamask-wallet-setup.md "mention")
+2. [metamask-wallet-setup.md](metamask-wallet-setup.md "mention")
 3. [tBTC](https://discord.gg/hemixyz)
 
 ***
@@ -49,7 +49,25 @@
 
 Launch your CLI:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p><strong>Windows:</strong></p><ul><li>Press <code>⊞ Win</code> + <code>R</code> together to open the "Run Program Or File" Window</li></ul><ul><li>Type "cmd" and press <code>Enter</code></li></ul></td><td></td></tr><tr><td></td><td></td><td><p><strong>macOS:</strong></p><ul><li>Press <code>⌘</code> + <code>Space</code> together to open Spotlight Search</li><li>Type "terminal" and press Enter</li></ul></td></tr><tr><td><strong>Linux:</strong></td><td></td><td><ul><li>Depends on OS. On Ubuntu (Gnome): <code>Ctrl</code> + <code>Alt</code> + <code>T</code></li></ul><ul><li>For most other distros, you can press <code>Super</code> (Windows Key) and search for Terminal. </li></ul></td></tr></tbody></table>
+{% hint style="info" %}
+**For Windows:**
+
+* Press `⊞ Win` + `R` together to open the "Run Program Or File" Window
+* Type "cmd" and press `Enter`
+
+
+
+**For macOS:**
+
+* Press `⌘` + `Space` together to open Spotlight Search
+* Type "terminal" and press Enter
+
+\
+**For Linux:**
+
+* Depends on OS. On Ubuntu (Gnome): `Ctrl` + `Alt` + `T`
+* For most other distros, you can press `Super` (Windows Key) and search for Terminal.&#x20;
+{% endhint %}
 
 Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press `Enter`.
 
@@ -57,11 +75,21 @@ Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t
   \
   `cd '/home/user/Downloads/heminetwork_v0.2.8_linux_amd64'`
 
+***
+
 List the files:
 
+{% hint style="info" %}
+**For Windows:**
+
+* `dir`  (and press `Enter`)Type "cmd" and press `Enter`
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Windows:</strong></td><td><ul><li><code>dir</code>  (and press <code>Enter</code>)</li></ul></td><td></td></tr><tr><td><strong>Linux/macOS:</strong></td><td><ul><li><code>ls</code>  (and press <code>Enter</code>)</li></ul></td><td></td></tr></tbody></table>
+
+**For macOS:**
+
+* `ls`  (and press `Enter`)
+{% endhint %}
 
 Your output should be:
 
@@ -168,7 +196,7 @@ To transfer at least `0.002 tBTC` to your testnet Bitcoin wallet address:
 
 * **Find Your Wallet Address**: Check the JSON from **Step 5** for your `pubkey_hash`, which is your testnet Bitcoin address.
   * `"pubkey_hash": "m12345678P2xVWwVCWxq7tHJLGcJz2h6XYZ"`
-* **Fund Your Wallet**: Claim tBTC provided by your [Hemi Network Welcome Capsule](../capsules/tutorial.md) or use a testnet wallet to send at least`0.002 tBTC` to your `pubkey_hash` address.
+* **Fund Your Wallet**: Claim tBTC provided by your [Hemi Network Welcome Capsule](tutorial.md) or use a testnet wallet to send at least`0.002 tBTC` to your `pubkey_hash` address.
 
 👉 You can also get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/). However these faucets often don't provide enough tBTC to do much PoP mining. We are in the process of adding a tBTC faucet to Discord where you can regularly request sufficient tBTC to perform PoP Mining.
 

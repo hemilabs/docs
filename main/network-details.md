@@ -2,28 +2,19 @@
 
 ## Hemi Testnet&#x20;
 
-|                               |                                                                              |
-| ----------------------------- | ---------------------------------------------------------------------------- |
-| **Gas Token/Currency Symbol** | ETH                                                                          |
-| **ChainID**                   | 743111                                                                       |
-| **RPC API endpoint**          | [https://testnet.rpc.hemi.network/rpc](https://testnet.rpc.hemi.network/rpc) |
-| **Explorer**                  | [https://testnet.explorer.hemi.xyz](https://testnet.explorer.hemi.xyz)       |
-| **Tunnel**                    | [https://app.hemi.xyz](https://app.hemi.xyz)                                 |
-| **Faucet**                    | [https://discord.gg/hemixyz](https://discord.gg/hemixyz)                     |
-| **PoP Miner Endpoint**        | wss://testnet.rpc.hemi.network/v1/ws/public                                  |
+<table><thead><tr><th width="289"></th><th></th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>743111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td><a href="https://testnet.rpc.hemi.network/rpc">https://testnet.rpc.hemi.network/rpc</a></td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://testnet.explorer.hemi.xyz">https://testnet.explorer.hemi.xyz</a></td></tr></tbody></table>
+
+### Additional Testnet Public RPC Endpoints
+
+* PoP Miner: `wss://testnet.rpc.hemi.network/v1/ws/public`
+* Explorer: [`https://testnet.explorer.hemi.xyz/api/v2/`](https://testnet.explorer.hemi.xyz/api/v2/)
+  * Documentation: [`https://testnet.explorer.hemi.xyz/api-docs`](https://testnet.explorer.hemi.xyz/api-docs)
 
 ***
 
 ## Hemi Mainnet&#x20;
 
-|                               |     |
-| ----------------------------- | --- |
-| **Gas Token/Currency Symbol** | TBD |
-| **ChainID**                   | TBD |
-| **RPC API endpoint**          | TBD |
-| **Explorer**                  | TBD |
-| **Tunnel**                    | TBD |
-| **PoP Miner Endpoint**        | TBD |
+<table><thead><tr><th width="293"></th><th></th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>TBD</td></tr><tr><td><strong>ChainID</strong></td><td>TBD</td></tr><tr><td><strong>RPC API endpoint</strong></td><td>TBD</td></tr><tr><td><strong>Explorer</strong></td><td>TBD</td></tr></tbody></table>
 
 ***
 

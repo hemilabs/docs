@@ -1,35 +1,84 @@
-# Quickstart: Developers
+# Developer Quickstart
 
-## 🟢 Beginner Resources
+{% hint style="info" %}
+## 📜 **TL;DR:**
 
-If you're a beginner, these resources are a great starting point! The tutorials are very thorough and designed for anyone without experience, whether you're an artist, a gamer, or a crypto enthusiast.&#x20;
-
-1. [metamask-wallet-setup.md](../../how-to-tutorials/metamask-wallet-setup.md "mention")
-2. [**Claim an onboarding Capsule**](../../how-to-tutorials/capsules/tutorial.md)
-3. Join the [hemi-pilot-program.md](../../governance/hemi-pilot-program.md "mention")
-4. [**Use the Web PoP Miner**](https://pop-miner.hemi.xyz)
-5. [**Mint a Hemi Hatchling NFT**](https://hemihatchlings-test.hemi.xyz)
-6. [**Explore the Hemi Demo Apps**](https://app.hemi.xyz/en/demos/)
-7. [using-remix-ide.md](../../how-to-tutorials/tutorials/using-remix-ide.md "mention")&#x20;
-8. [erc-20.md](../../how-to-tutorials/tutorials/erc-20.md "mention")
-9. [**Refer a friend**](https://points.absinthe.network/hemi)
+* What is the [Hemi Virtual Machine (hVM)](../../building-bitcoin-apps/hemi-virtual-machine-hvm/)?
+* [Set up an EVM and BTC wallet](../../foundational-topics/wallet-support.md) and connect to Hemi Network.
+* Tunnel [ETH](../../how-to-tutorials/tutorials/tunnel-eth-to-hemi.md) to Hemi.
+* Discover the [Hemi Bitcoin Kit (hBK).](../../building-bitcoin-apps/hemi-bitcoin-kit-hbk/)
+* View our [Github](https://github.com/hemilabs), join our [Discord](https://discord.gg/hemixyz), and [refer a friend](https://points.absinthe.network/hemi/start)!
+{% endhint %}
 
 ***
 
-## 🟡 Intermediate/Advanced Resources
+## 🌐 **Welcome to the Hemi Developer Quickstart Guide!**&#x20;
 
-For intermediate to advanced users, these resources provide in-depth tutorials to help you get started on Hemi.
+This guide provides an overview of the essential steps and resources to get you started with building on Hemi. Whether you’re new to blockchain development or an experienced web3 developer, this guide will help you navigate Hemi’s ecosystem and leverage its full potential.
 
-{% file src="../../.gitbook/assets/Hemi Network Whitepaper.pdf" %}
+***
 
-1. Learn about[the-architecture](../../foundational-topics/the-architecture/ "mention")
-2. Configure specific [network-details.md](../network-details.md "mention")
-3. [**Run a CLI PoP Miner**](../../how-to-tutorials/pop-mining/setup-part-1.md)
-4. [**Learn about developer incentives**](../../governance/incentives/)
+### 1️⃣ Explore the Hemi Network
+
+Begin by familiarizing yourself with the Hemi network’s architecture, key features, and its unique approach to interoperability and scalability.&#x20;
+
+* Learn about Hemi's [Architecture](../../foundational-topics/the-architecture/)
+* What are Hemi [Tunnels](../../foundational-topics/the-architecture/tunneling.md)?
+* How does [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md) secure Hemi?
+* What is the [Hemi Virtual Machine (hVM)](../../building-bitcoin-apps/hemi-virtual-machine-hvm/)?
+* Which [ETH and BTC wallets](../../foundational-topics/wallet-support.md) does Hemi currently support?
+* Read the [Hemi Whitepaper](https://hemi.xyz/whitepaper)
+
+***
+
+### 2️⃣ Set Up Your Development Environment
+
+Prepare your development environment to start building on Hemi by setting up the necessary tools and configurations. This step ensures you have everything in place to interact with the Hemi network effectively.
+
+* [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
+* [Set up a BTC wallet](../../how-to-tutorials/tutorials/btc-wallet-setup/) (UniSat)
+* Join our [Discord](https://discord.gg/hemixyz), access Hemi testnet faucets, and collaborate with the community
+
+***
+
+### 3️⃣ Interact with Hemi Apps
+
+Dive into the Hemi ecosystem by exploring and interacting with decentralized applications (dApps) built on the network. This hands-on approach helps you understand Hemi’s functionality and how dApps operate within the blockchain environment.
+
+* Visit [Crypto Chords](https://cryptochords.hemi.xyz) and see how we interact with Hemi network endpoints
+* Start PoP mining using the [CLI](../../how-to-tutorials/tutorials/setup-part-1.md) or [Web application](../../how-to-tutorials/tutorials/web-based-pop-miner.md)
+* Tunnel [ETH](../../how-to-tutorials/tutorials/tunnel-eth-to-hemi.md) to Hemi
+
+***
+
+### 4️⃣ Build on Hemi!
+
+Start developing your own decentralized applications (dApps) on Hemi using its powerful suite of developer tools and resources. This section will guide you through the process of creating, testing, and deploying your projects on the Hemi network.
+
+* [Deploy a smart contract on Hemi](../../how-to-tutorials/tutorials/using-remix-ide.md)
+* [Deploy an ERC-20 token on Hemi](../../how-to-tutorials/tutorials/erc-20.md)
+* Learn about developing with [Viem](../../tools/viem.md)
+* Discover the [Hemi Bitcoin Kit (hBK)](../../building-bitcoin-apps/hemi-bitcoin-kit-hbk/) and [build Bitcoin apps](broken-reference)
+* [Dive into our Github](https://github.com/hemilabs)
+
+***
+
+## ❓ What Now?
+
+Congratulations on getting started with Hemi! 🎉 Now that you’ve set up your environment, explored dApps, and begun building on the network, here are the next steps to deepen your engagement and maximize the potential of your development journey on Hemi.
+
+* Join the [Hemi Pilot Program](../../governance/hemi-pilot-program.md)
+* Learn about[ incentives](../../governance/incentives/) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
+* [Create a Capsule](../../how-to-tutorials/tutorials/create-a-capsule.md) with Hemi assets
+* [Set up a Safe Wallet](../../how-to-tutorials/tutorials/set-up-a-safe-wallet.md) on Hemi
+* [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
+* Follow us on [X](https://x.com/hemi\_xyz)
 
 ***
 
 ## 📐Troubleshooting
 
-1. [**Discord Channel**](https://discord.com/channels/1202677849887080508/1217860733820469298)
-2. Email [**support@hemi.xyz**](mailto:support@hemi.xyz)
+If you encounter any issues or need assistance at any step, the following resources are available to help:
+
+* [**Discord Channel**](https://discord.com/channels/1202677849887080508/1217860733820469298)
+* Email [**support@hemi.xyz**](mailto:support@hemi.xyz)

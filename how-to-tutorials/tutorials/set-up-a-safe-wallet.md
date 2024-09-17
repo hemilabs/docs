@@ -11,7 +11,7 @@
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../metamask-wallet-setup.md)
+1. [MetaMask Wallet Setup](metamask-wallet-setup.md)
 
 ***
 

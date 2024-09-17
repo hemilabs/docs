@@ -1,19 +1,24 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Mint a Hemi Hatchling NFT
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
 * Hemi Hatchlings offers an immersive introduction to the Hemi Network's approach to scaling the Ethereum and Bitcoin networks, merging elemental lore with blockchain finality principles.
+* The initial Hemi Hatchlings collection has been **SOLD OUT!** Stay tuned for any future collections!
+* You can use the Hemi Block Explorer to add your Hemi Hatchling NFTs to your MetaMask wallet.
 {% endhint %}
-
-
 
 ***
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi](../tunnel-eth-to-hemi.md)
+1. [MetaMask Wallet Setup](metamask-wallet-setup.md)
+2. [Tunnel ETH to Hemi](tunnel-eth-to-hemi.md)
 
 ***
 
@@ -27,7 +32,7 @@
 
 Kick off your journey by selecting an egg: (🔥 Fire,💧 Water, 🌍 Earth)
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -57,7 +62,7 @@ After connecting your wallet, you will be asked to confirm the transaction to mi
 
 Navigate to the [Hemi Explorer](https://testnet.explorer.hemi.xyz/) and type in your address. On the `Address details` page, click `NFTs` and locate the NFT and NFT ID.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -65,7 +70,7 @@ Navigate to the [Hemi Explorer](https://testnet.explorer.hemi.xyz/) and type in 
 
 In the image above, click `'View in collection'` to view the NFT token collection in the explorer. Locate the token contract address and keep it handy for Step 4.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

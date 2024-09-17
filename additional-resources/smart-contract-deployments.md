@@ -32,7 +32,7 @@ Check out [incentives](../governance/incentives/ "mention") for the most recent 
 
 *   Check the `Raw trace` tab
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 **👀 Common Culprits**
 
@@ -124,54 +124,7 @@ Hemi’s Bitcoin and Ethereum Tunnels improve security while decentralizing asse
 
 <summary>What is Capsule?</summary>
 
-Capsule is an asset transfer protocol that allows anyone to batch and transfer multiple assets in a single package on Hemi. Additionally, it provides users and developers with advanced functionality like gasless transactions, re-routing/recalling, and configurable security.
-
-</details>
-
-<details>
-
-<summary>How are Capsules used for Hemi onboarding?</summary>
-
-The Hemi Onboarding Capsule contains all the testnet tokens (tBTC, ETH, and tHEMI) you need to start building / interacting on Hemi in one gasless transaction! Once you claim your onboarding capsule, you’ll have everything you need to try out PoP mining, pay transaction fees, and use Hemi’s tunnels.&#x20;
-
-</details>
-
-<details>
-
-<summary>How many onboarding Capsules can be claimed?</summary>
-
-Only one onboarding Capsule may be claimed per user.
-
-</details>
-
-<details>
-
-<summary>What is included in my Capsule?</summary>
-
-tBTC (testnet Bitcoin), ETH (Sepolia ether), tHEMI (testnet HEMI) and a special testnet NFT.
-
-</details>
-
-<details>
-
-<summary>How can I use the assets I redeem?</summary>
-
-* **ETH**: Ether acquired from your Capsule can be tunneled (bridged) and used to interact with and build dapps on Hemi by paying transaction fees.
-* **tBTC**: tBTC is essential to run a PoP miner. In the future, you will be able to tunnel your tBTC (and other Bitcoin assets) to Hemi for use in Bitcoin DeFi deployed on Hemi.
-
-<!---->
-
-* **tHemi:** tHEMI is the governance token for the Hemi Network's testnet phase. **tHEMI tokens are used for payouts** to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
-
-</details>
-
-<details>
-
-<summary>What’s the benefit of claiming a Capsule on Hemi testnet?</summary>
-
-* **Comprehensive Toolkit**: Receive all the essential assets needed to begin building on the Hemi testnet in a single, easy-to-access package.
-* **Ready-to-Use Resources**: Each Capsule includes ETH (Sepolia), tBTC, tHEMI, and a special testnet NFT, enabling you to seamlessly onboard for Testnet in one 1-click.
-* **Gasless**: A Capsule is delivered through a gasless transaction, meaning you can explore and build without incurring transaction fees.
+Capsule is an asset transfer protocol that allows anyone to batch and transfer multiple assets in a single package on Hemi. Additionally, it provides users and developers with advanced functionality like gasless transactions, re-routing/recalling, and configurable security. Learn more about Capusle Labs by visiting the Capsule [site](https://capsulelabs.xyz).&#x20;
 
 </details>
 

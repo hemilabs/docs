@@ -1,4 +1,4 @@
-# Tunneling
+# Tunnels
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
@@ -6,6 +6,8 @@
 * Bridging i.e. Tunneling allows the transfer of assets between disparate blockchains (such as between distinct L1s or between an L1 and an L2).
 * While bridging addresses the siloed nature common to most blockchains, it typically suffers from centralization because most blockchains do not maintain state awareness of other networks.
 * Because the **Hemi Network maintains protocol-level state awareness of both Bitcoin and Ethereum**, it enables sophisticated asset transfer and decentralization.
+  * Hemi supports the [MetaMask](../../how-to-tutorials/tutorials/metamask-wallet-setup.md) EVM wallet for tunneling Ethereum assets.&#x20;
+  * Hemi supports the [UniSat](../../how-to-tutorials/tutorials/btc-wallet-setup/) BTC wallet for tunneling Bitcoin assets.&#x20;
 {% endhint %}
 
 ***

@@ -2,7 +2,7 @@
 description: 🟩 This is a beginner track.
 ---
 
-# Deploy a Smart Contract
+# HelloWorld.sol
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
@@ -16,8 +16,8 @@ description: 🟩 This is a beginner track.
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi](../tunnel-eth-to-hemi.md)
+1. [MetaMask Wallet Setup](metamask-wallet-setup.md)
+2. [Tunnel ETH to Hemi](tunnel-eth-to-hemi.md)
 
 ***
 
@@ -67,7 +67,7 @@ Select `Compile HelloWorld.sol` button to use the Remix IDE's Solidity compiler.
 ### 4. Connect Remix To MetaMask&#x20;
 
 {% hint style="warning" %}
-The address you choose to connect **MUST** have some ETH (recommended at least 0.01 ETH) to pay for contract deployment fees. Refer back to earlier documentation to[ fund your Hemi address ](../tunnel-eth-to-hemi.md)with ETH.&#x20;
+The address you choose to connect **MUST** have some ETH (recommended at least 0.01 ETH) to pay for contract deployment fees. Refer back to earlier documentation to [fund your Hemi address](tunnel-eth-to-hemi.md) with ETH.&#x20;
 {% endhint %}
 
 Choose `Injected Provider - MetaMask` under "Environment".
