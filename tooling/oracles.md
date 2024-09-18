@@ -19,8 +19,8 @@ The most common applications of oracles include:
 
 Oracles operate using two primary models:
 
-* **Push Model:** In this traditional approach, the oracle regularly pushes data to an on-chain contract, which dApps can access as needed. While this ensures data is readily available, it can be inefficient since updates occur even when not immediately required.
-* **Pull Model:** This newer model involves oracles signing data and keeping it on an external network. When dApps need updated data, users pull the signed data and submit it on-chain with their transaction. This method keeps data current and is more efficient, as data is submitted only when necessary.
+* **Push Model:** In this traditional approach, the oracle regularly pushes data to an on-chain contract, which dApps can access as needed.
+* **Pull Model:** This newer model involves oracles signing data and keeping it on an external network. When dApps need updated data, users pull the signed data and submit it on-chain with their transaction.
 
 ***
 
