@@ -49,8 +49,8 @@ Dive into the Hemi ecosystem by exploring and interacting with decentralized app
 
 Congratulations on getting started with Hemi! 🎉 Now that you’re familiar with things, here are some next steps to deepen your engagement and maximize the potential of your journey on Hemi.
 
-* Join the [Hemi Pilot Program](../../governance/hemi-pilot-program.md)
-* Learn about[ incentives](../../governance/incentives/) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
+* Join the [Hemi Pilot Program](../../incentives/hemi-pilot-program.md)
+* Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
 * Follow us on [X](https://x.com/hemi\_xyz)
 * **Become a** [**Hemi Developer**](developers.md)

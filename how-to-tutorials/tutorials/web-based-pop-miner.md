@@ -6,7 +6,6 @@
 * In this tutorial, we will run a [web-based PoP Miner](https://pop-miner.hemi.xyz)**.**
 * The web PoP miner is designed for ease of use, allowing users of all experience levels to test and run their own PoP miner.&#x20;
 * We recommend storing only a **limited amount of working funds** in the wallet associated with the webminer.&#x20;
-* To start mining, claim tBTC provided by your [Hemi onboarding Capsule](https://app.hemi.xyz/en/get-started).
 * The web PoP miner includes a helpful dashboard for viewing the latest transactions/publications, including their status and cost.
 {% endhint %}
 
@@ -30,7 +29,7 @@
 
 ## 🏁 Prerequisites
 
-1. [tBTC](https://app.hemi.xyz/en/get-started)
+* **tBTC** - Join the Hemi [Discord](https://discord.gg/hemixyz) and visit our `#faucet` channel to acquire tBTC.
 
 ***
 

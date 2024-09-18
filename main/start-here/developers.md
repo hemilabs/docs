@@ -57,7 +57,7 @@ Start developing your own decentralized applications (dApps) on Hemi using its p
 
 * [Deploy a smart contract on Hemi](../../how-to-tutorials/tutorials/using-remix-ide.md)
 * [Deploy an ERC-20 token on Hemi](../../how-to-tutorials/tutorials/erc-20.md)
-* Learn about developing with [Viem](../../tools/viem.md)
+* Learn about developing with [Viem](../../tooling/viem.md)
 * Discover the [Hemi Bitcoin Kit (hBK)](../../building-bitcoin-apps/hemi-bitcoin-kit-hbk/) and [build Bitcoin apps](broken-reference)
 * [Dive into our Github](https://github.com/hemilabs)
 
@@ -67,8 +67,8 @@ Start developing your own decentralized applications (dApps) on Hemi using its p
 
 Congratulations on getting started with Hemi! 🎉 Now that you’ve set up your environment, explored dApps, and begun building on the network, here are the next steps to deepen your engagement and maximize the potential of your development journey on Hemi.
 
-* Join the [Hemi Pilot Program](../../governance/hemi-pilot-program.md)
-* Learn about[ incentives](../../governance/incentives/) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
+* Join the [Hemi Pilot Program](../../incentives/hemi-pilot-program.md)
+* Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
 * [Create a Capsule](../../how-to-tutorials/tutorials/create-a-capsule.md) with Hemi assets
 * [Set up a Safe Wallet](../../how-to-tutorials/tutorials/set-up-a-safe-wallet.md) on Hemi
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!

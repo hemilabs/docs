@@ -1,4 +1,4 @@
-# Using Remix IDE
+# Get Bitcoin Balance with Remix
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
@@ -11,9 +11,10 @@
 
 ## 🏁 Prerequisites
 
-* To follow along, you’ll need:
-  * **Metamask** (or another Remix-supported web wallet) connected to Hemi testnet as a custom network;
-  * **A nonzero ETH balance** tunneled over to a Hemi address in your wallet you want to deploy the demo contract with to pay deployment gas fees.
+To follow along, you’ll need:
+
+* **Metamask** (or another Remix-supported web wallet) connected to Hemi testnet as a custom network;
+* **A nonzero ETH balance** tunneled over to a Hemi address in your wallet you want to deploy the demo contract with to pay deployment gas fees.
 
 ***
 

@@ -49,8 +49,8 @@ There are two primary methods to run a PoP miner within the Hemi Network:
 Congratulations 🎉 Now that you’re PoP miner is running, here are some next steps to deepen your engagement and maximize the potential of your journey on Hemi.
 
 * [Tunnel ETH to Hemi](../../how-to-tutorials/tutorials/tunnel-eth-to-hemi.md)
-* Join the [Hemi Pilot Program](../../governance/hemi-pilot-program.md)
-* Learn about[ incentives](../../governance/incentives/) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
+* Join the [Hemi Pilot Program](../../incentives/hemi-pilot-program.md)
+* Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
 * Follow us on [X](https://x.com/hemi\_xyz)
 * **Become a** [**Hemi Developer**](developers.md)

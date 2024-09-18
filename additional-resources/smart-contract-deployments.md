@@ -14,7 +14,7 @@ You can learn more about Hemi by reading our documentation, visiting our website
 
 <summary>How do I earn points, and how does incentivized testnet work?</summary>
 
-Check out [incentives](../governance/incentives/ "mention") for the most recent info.
+Check out [incentives.md](../incentives/incentives.md "mention") for the most recent info.
 
 </details>
 

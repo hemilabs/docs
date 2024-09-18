@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Hemi Pilot Program
 
 {% hint style="info" %}

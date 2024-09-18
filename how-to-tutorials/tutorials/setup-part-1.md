@@ -13,9 +13,8 @@
 
 ## 🏁 Prerequisites
 
-1. Basic CLI Knowledge
-2. [metamask-wallet-setup.md](metamask-wallet-setup.md "mention")
-3. [tBTC](https://discord.gg/hemixyz)
+* Basic CLI Knowledge
+* **tBTC** - Join the Hemi [Discord](https://discord.gg/hemixyz) and visit our `#faucet` channel to acquire tBTC.
 
 ***
 

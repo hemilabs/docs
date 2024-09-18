@@ -32,7 +32,7 @@
   * [Decentralized Rollups](foundational-topics/ethereum-rollups/decentralized-rollups.md)
 * [Wallet Support](foundational-topics/wallet-support.md)
 
-## 📖 How-to Tutorials
+## 📖 How-To Tutorials
 
 * [Tutorials](how-to-tutorials/tutorials/README.md)
   * [EVM Wallet Setup](how-to-tutorials/tutorials/metamask-wallet-setup.md)
@@ -42,6 +42,7 @@
   * [HelloWorld.sol](how-to-tutorials/tutorials/using-remix-ide.md)
   * [Deploy an ERC-20 Token](how-to-tutorials/tutorials/erc-20.md)
   * [Mint a Hemi Hatchling NFT](how-to-tutorials/tutorials/mint-a-hemi-hatchling-nft.md)
+  * [Get Bitcoin Balance with Remix](how-to-tutorials/tutorials/using-remix-ide-1.md)
   * [Create a Capsule](how-to-tutorials/tutorials/create-a-capsule.md)
   * [Set Up a Safe Wallet](how-to-tutorials/tutorials/set-up-a-safe-wallet.md)
   * [Get Bitcoin Balance with Remix](how-to-tutorials/tutorials/get-bitcoin-balance-with-remix.md)
@@ -58,22 +59,22 @@
   * [Motivation](building-bitcoin-apps/hemi-virtual-machine-hvm/motivation.md)
   * [Feature Summary](building-bitcoin-apps/hemi-virtual-machine-hvm/feature-summary.md)
   * [Deploy on hVM](building-bitcoin-apps/hemi-virtual-machine-hvm/deploy-on-hvm.md)
-  * [Get Bitcoin Balance with Remix](building-bitcoin-apps/hemi-virtual-machine-hvm/using-remix-ide.md)
 * [Hemi Bitcoin Kit (hBK)](building-bitcoin-apps/hemi-bitcoin-kit-hbk/README.md)
   * [hBK Smart Contract](building-bitcoin-apps/hemi-bitcoin-kit-hbk/hbk-smart-contract.md)
 
-## ⚙️ Tools
+## ⚙️ Tooling
 
-* [viem](tools/viem.md)
+* [viem](tooling/viem.md)
+* [Oracles](tooling/oracles.md)
 
-## 📝 Governance
+## 📝 Incentives
 
-* [Incentives](governance/incentives/README.md)
-  * [Points](governance/incentives/points.md)
-  * [Grants](additional-resources/grants.md)
-  * [Retroactive Funding](governance/incentives/retroactive-funding.md)
-  * [One-Off Spends](governance/incentives/one-off-spends.md)
-* [Hemi Pilot Program](governance/hemi-pilot-program.md)
+* [Incentives](incentives/incentives.md)
+* [Points](incentives/points.md)
+* [Grants](incentives/grants.md)
+* [Retroactive Funding](incentives/retroactive-funding.md)
+* [One-Off Spends](incentives/one-off-spends.md)
+* [Hemi Pilot Program](incentives/hemi-pilot-program.md)
 
 ## ⚡ Additional Resources
 
