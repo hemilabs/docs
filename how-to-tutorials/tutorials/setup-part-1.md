@@ -195,9 +195,9 @@ To transfer at least `0.002 tBTC` to your testnet Bitcoin wallet address:
 
 * **Find Your Wallet Address**: Check the JSON from **Step 5** for your `pubkey_hash`, which is your testnet Bitcoin address.
   * `"pubkey_hash": "m12345678P2xVWwVCWxq7tHJLGcJz2h6XYZ"`
-* **Fund Your Wallet**: Claim tBTC provided by your [Hemi Network Welcome Capsule](tutorial.md) or use a testnet wallet to send at least`0.002 tBTC` to your `pubkey_hash` address.
+* **Fund Your Wallet**: Claim tBTC in the [Hemi Discord faucet](https://discord.gg/hemixyz) to send at least`0.002 tBTC` to your `pubkey_hash` address.
 
-👉 You can also get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/). However these faucets often don't provide enough tBTC to do much PoP mining. We are in the process of adding a tBTC faucet to Discord where you can regularly request sufficient tBTC to perform PoP Mining.
+👉 You can also get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/). However these faucets often don't provide enough tBTC to do much PoP mining.&#x20;
 
 ***
 
