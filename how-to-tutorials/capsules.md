@@ -50,7 +50,7 @@ To streamline the process of obtaining required assets to jumpstart exploration 
   * tHEMI tokens are used for payouts to PoP miners as a means of acknowledging their contribution to the network's security and functionality. In the future, these incentives will expand to individuals running Sequencers, Publishers, and Challengers.
 
 {% hint style="info" %}
-All users are eligible to claim an onboarding Capsule, **limit one-per-user**. To claim your onboarding Capsule, view our [guide](tutorials/tutorial.md).
+All users are eligible to claim an onboarding Capsule, **limit one-per-user**. To claim your onboarding Capsule, view our [guide](broken-reference).
 {% endhint %}
 
 ***
