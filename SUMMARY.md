@@ -64,6 +64,8 @@
 ## ⚙️ Tooling
 
 * [viem](tooling/viem.md)
+* [Contract Addresses](tooling/contract-addresses.md)
+* [Contract Verification](tooling/contract-verification.md)
 * [Oracles](tooling/oracles.md)
 
 ## 📝 Incentives
