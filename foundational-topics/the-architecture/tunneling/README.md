@@ -33,6 +33,15 @@
 
 ***
 
+## 🔒 Security and Efficiency
+
+* The security model behind Hemi’s Ethereum Tunnels leverages the strengths of both Ethereum and Bitcoin. By integrating Bitcoin finality, Hemi ensures that cross-chain transactions achieve a level of finality backed by Bitcoin’s Proof-of-Work consensus, widely considered the most secure consensus mechanism in blockchain technology.&#x20;
+* This significantly reduces the time it takes to finalize cross-chain transactions and provides strong protection against censorship or fraud attempts during the tunneling process.
+* The decentralized Challenger role also strengthens Hemi’s security. Rather than relying on a centralized entity to raise disputes, any participant in the Hemi ecosystem can act as a Challenger, further decentralizing the network and increasing its resistance to fraud.&#x20;
+* This approach contrasts with centralized bridges, which can be vulnerable to manipulation or collusion by a single entity overseeing the dispute process.
+
+***
+
 {% hint style="success" %}
 ## 👀 Sneak Peek WIP
 
