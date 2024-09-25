@@ -20,7 +20,7 @@ This guide provides an overview of the essential steps and resources to get you 
 
 Begin by familiarizing yourself with some of the key Hemi network terms and features, such as Tunnels and PoP mining.
 
-* What are Hemi [Tunnels](../../foundational-topics/the-architecture/tunneling.md)?
+* What are Hemi [Tunnels](../../foundational-topics/the-architecture/tunneling/)?
 * What is [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md)?
 
 ***

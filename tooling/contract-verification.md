@@ -60,7 +60,7 @@ module.exports = {
     customChains: [
       {
         network: "Hemi Sepolia",
-        chainId: 43111, // Hemi Sepolia Chain ID
+        chainId: 743111, // Hemi Sepolia Chain ID
         urls: {
           apiURL: "API_URL",
           browserURL: "https://testnet.explorer.hemi.xyz"
@@ -141,7 +141,7 @@ forge create --rpc-url <URL> --private-key $PRIVATE_KEY src/MyContract.sol:MyCon
 Use the following command to verify the contract using the Blockscout API:
 
 ```
-forge verify-contract --chain-id 12345 --etherscan-api-key YOUR_BLOCKSCOUT_API_KEY --watch CONTRACT_ADDRESS src/MyContract.sol:MyContract
+forge verify-contract --chain-id 743111 --etherscan-api-key YOUR_BLOCKSCOUT_API_KEY --watch CONTRACT_ADDRESS src/MyContract.sol:MyContract
 ```
 
 {% hint style="info" %}

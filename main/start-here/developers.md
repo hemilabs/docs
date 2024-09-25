@@ -23,7 +23,7 @@ This guide provides an overview of the essential steps and resources to get you 
 Begin by familiarizing yourself with the Hemi network’s architecture, key features, and its unique approach to interoperability and scalability.&#x20;
 
 * Learn about Hemi's [Architecture](../../foundational-topics/the-architecture/)
-* What are Hemi [Tunnels](../../foundational-topics/the-architecture/tunneling.md)?
+* What are Hemi [Tunnels](../../foundational-topics/the-architecture/tunneling/)?
 * How does [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md) secure Hemi?
 * What is the [Hemi Virtual Machine (hVM)](../../building-bitcoin-apps/hemi-virtual-machine-hvm/)?
 * Which [ETH and BTC wallets](../../foundational-topics/wallet-support.md) does Hemi currently support?

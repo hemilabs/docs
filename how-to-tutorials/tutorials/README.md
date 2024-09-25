@@ -8,7 +8,7 @@ Follow along with some of the tutorials to help you get a head start when buildi
 
 ### Wallet Setup & Asset Handling
 
-<table><thead><tr><th width="194">Tutorial</th><th width="397">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="../../main/start-here/developers.md">Set Up an EVM Wallet</a></td><td>Learn how to set up and get started with an EVM (<a href="https://metamask.io">MetaMask</a>) wallet.</td><td>🟢 Easy</td></tr><tr><td><a href="btc-wallet-setup/">Set Up a BTC Wallet</a></td><td>Learn how to set up and get started with a BTC (<a href="https://unisat.io">UniSat</a>) wallet.</td><td>🟢 Easy</td></tr><tr><td><a href="tunnel-eth-to-hemi.md">Tunnel ETH to Hemi</a></td><td>Learn how to <a href="../../foundational-topics/the-architecture/tunneling.md">tunnel</a> (bridge) your ETH assets to and from Hemi.</td><td>🟢 Easy</td></tr></tbody></table>
+<table><thead><tr><th width="194">Tutorial</th><th width="397">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="../../main/start-here/developers.md">Set Up an EVM Wallet</a></td><td>Learn how to set up and get started with an EVM (<a href="https://metamask.io">MetaMask</a>) wallet.</td><td>🟢 Easy</td></tr><tr><td><a href="btc-wallet-setup/">Set Up a BTC Wallet</a></td><td>Learn how to set up and get started with a BTC (<a href="https://unisat.io">UniSat</a>) wallet.</td><td>🟢 Easy</td></tr><tr><td><a href="tunnel-eth-to-hemi.md">Tunnel ETH to Hemi</a></td><td>Learn how to <a href="../../foundational-topics/the-architecture/tunneling/">tunnel</a> (bridge) your ETH assets to and from Hemi.</td><td>🟢 Easy</td></tr></tbody></table>
 
 ***
 
