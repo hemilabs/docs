@@ -209,20 +209,21 @@ Read the [**"Bitcoin fee/vB"**](setup-part-1.md#bitcoin-fee-vb) section below if
 
 **Linux & macOS**
 
-* ```none
-  export POPM_BTC_PRIVKEY=<private_key>
-  export POPM_STATIC_FEE=<fee_per_vB_integer>
-  export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
-  ./popmd
-  ```
-*   **Windows**
+```
+export POPM_BTC_PRIVKEY=<private_key>
+export POPM_STATIC_FEE=<fee_per_vB_integer>
+export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
+./popmd
+```
 
-    ```
-    set POPM_BTC_PRIVKEY=<private_key>
-    set POPM_STATIC_FEE=<fee_per_vB_integer>
-    set POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public 
-    popmd.exe
-    ```
+**Windows**
+
+```
+set POPM_BTC_PRIVKEY=<private_key>
+set POPM_STATIC_FEE=<fee_per_vB_integer>
+set POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public 
+popmd.exe
+```
 
 ***
 
