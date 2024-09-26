@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Oracles
 
 ## 🌐 Overview <a href="#redstone" id="redstone"></a>
