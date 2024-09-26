@@ -24,13 +24,26 @@ Oracles operate using two primary models:
 
 ***
 
+## Pyth <a href="#redstone" id="redstone"></a>
+
+Pyth offers push-based price feeds for Hemi.&#x20;
+
+**Supported Networks**
+
+* Hemi mainnet
+* Hemi Sepolia
+
+{% embed url="https://docs.pyth.network/home" %}
+
+***
+
 ## Redstone <a href="#redstone" id="redstone"></a>
 
 Redstone offers push-based price feeds for Hemi.&#x20;
 
 **Supported Networks**
 
-* Hemi Mainnet
+* Hemi mainnet
 * Hemi Sepolia
 
 {% embed url="https://docs.redstone.finance/docs/introduction" %}
