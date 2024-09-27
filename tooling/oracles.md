@@ -24,7 +24,7 @@ Oracles operate using two primary models:
 
 Pyth offers push-based price feeds for Hemi.&#x20;
 
-**Supported Networks**
+#### **Supported Networks:**
 
 * Hemi mainnet
 * Hemi Sepolia
@@ -39,12 +39,7 @@ Redstone offers push-based price feeds for Hemi.&#x20;
 
 #### Supported Networks:
 
-**Hemi mainnet**
-
-<table><thead><tr><th width="131">Symbol</th><th>Contract Address</th></tr></thead><tbody><tr><td>TBD</td><td>TBD</td></tr></tbody></table>
-
-**Hemi Sepolia**
-
-<table><thead><tr><th width="130">Symbol</th><th>Contract Address</th></tr></thead><tbody><tr><td>BTC</td><td><code>0x0d7697a15bce933cE8671Ba3D60ab062dA216C60</code></td></tr><tr><td>ETH</td><td><code>0x89F48f6671Ec1B1C4f6abE964EBdd21F4eb7076f</code></td></tr><tr><td>USDC</td><td><code>0x42Ea045b70856c8cc20784A5B45EA35a80C8aDd9</code></td></tr><tr><td>USDT</td><td><code>0x2C787Db499BD7BF1f592D8DDd79ead9a72420763</code></td></tr></tbody></table>
+* Hemi mainnet
+* Hemi Sepolia
 
 {% embed url="https://docs.redstone.finance/docs/introduction" %}
