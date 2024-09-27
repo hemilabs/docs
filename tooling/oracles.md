@@ -45,10 +45,6 @@ Redstone offers push-based price feeds for Hemi.&#x20;
 
 **Hemi Sepolia**
 
-<table><thead><tr><th width="130">Symbol</th><th>Contract Address</th></tr></thead><tbody><tr><td>BTC</td><td><pre><code>0x0d7697a15bce933cE8671Ba3D60ab062dA216C60
-</code></pre></td></tr><tr><td>ETH</td><td><pre><code><strong>0x89F48f6671Ec1B1C4f6abE964EBdd21F4eb7076f
-</strong></code></pre></td></tr><tr><td>USDC</td><td><pre><code>0x42Ea045b70856c8cc20784A5B45EA35a80C8aDd9
-</code></pre></td></tr><tr><td>USDT</td><td><pre><code>0x2C787Db499BD7BF1f592D8DDd79ead9a72420763
-</code></pre></td></tr></tbody></table>
+<table><thead><tr><th width="130">Symbol</th><th>Contract Address</th></tr></thead><tbody><tr><td>BTC</td><td><code>0x0d7697a15bce933cE8671Ba3D60ab062dA216C60</code></td></tr><tr><td>ETH</td><td><code>0x89F48f6671Ec1B1C4f6abE964EBdd21F4eb7076f</code></td></tr><tr><td>USDC</td><td><code>0x42Ea045b70856c8cc20784A5B45EA35a80C8aDd9</code></td></tr><tr><td>USDT</td><td><code>0x2C787Db499BD7BF1f592D8DDd79ead9a72420763</code></td></tr></tbody></table>
 
 {% embed url="https://docs.redstone.finance/docs/introduction" %}
