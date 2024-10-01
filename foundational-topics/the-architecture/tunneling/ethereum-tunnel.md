@@ -7,9 +7,8 @@ hidden: true
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Hemi’s Ethereum Tunnels provide a bridge-like system for moving assets between Ethereum and the Hemi Layer 2 (L2) network.&#x20;
-* They serve as a critical component in ensuring cross-chain asset portability, allowing users to move Ethereum-native and Hemi-native assets across these chains securely and efficiently.&#x20;
-* While the underlying principles share similarities with other optimistic rollup-based bridges, Hemi Tunnels stand out due to their integration with Bitcoin’s Proof-of-Work finality model and decentralized dispute mechanisms, which result in faster settlement times and enhanced security.
+* Hemi’s Ethereum Tunnels facilitate secure and efficient asset transfers between Ethereum and the Hemi network.&#x20;
+* While similar to other “lock-and-mint” cross-chain mechanisms, Hemi’s Tunnels are distinguished by their integration with Bitcoin’s Proof-of-Work finality model and decentralized dispute mechanisms, offering faster settlement times and enhanced security.
 * By integrating these features, Hemi’s Ethereum Tunnels offer a more efficient and secure mechanism for cross-chain asset transfers, benefiting from both Ethereum’s smart contract capabilities and Bitcoin’s unrivaled security.
 {% endhint %}
 
@@ -17,7 +16,9 @@ hidden: true
 
 ## 🚊 How Ethereum Tunnels Work
 
-The Tunnels function by locking Ethereum assets on the Ethereum network, while minting corresponding representative tokens on Hemi. For Hemi-native and Bitcoin-native assets, the process involves minting tokens on Ethereum based on the native assets locked on Hemi. This allows seamless asset transfers across chains, enabling developers to leverage the strengths of both networks while minimizing the friction of cross-chain operations.
+The Ethereum Tunnel process involves locking assets on one network while minting corresponding representative tokens on the other network. For Ethereum-native assets, tokens are minted on Hemi once the assets are locked in a Hemi validation contract on Ethereum.
+
+This allows seamless asset transfers across chains, enabling users to leverage the strengths of both networks while minimizing the friction of cross-chain operations.
 
 #### **Deposit to Hemi**
 
@@ -37,7 +38,7 @@ The Tunnels function by locking Ethereum assets on the Ethereum network, while m
 
 ## 🔄 Tunneling Hemi-Native and Bitcoin-Native Assets to Ethereum
 
-Hemi’s tunneling process is not limited to Ethereum-native assets. It also supports Hemi-native and Bitcoin-native assets, extending the functionality of the tunnels to a broader range of assets. This capability is crucial for enabling the use of Bitcoin within Ethereum’s extensive decentralized finance (DeFi) ecosystem, which traditionally lacks native Bitcoin interoperability.
+Hemi’s tunneling process is not limited to Ethereum-native assets. Phase 2 of Hemi's Ethereum Tunnel will support Hemi-native and Bitcoin-native assets, extending the functionality of the tunnels to a broader range of assets. This capability is crucial for enabling the use of Bitcoin within Ethereum’s extensive decentralized finance (DeFi) ecosystem, which traditionally lacks native Bitcoin interoperability.&#x20;
 
 #### **Withdrawal to Ethereum**
 
@@ -59,7 +60,6 @@ One of the core advantages of this system is its flexibility. It allows Bitcoin-
 
 While Hemi’s Ethereum Tunnels share the foundational principles of traditional bridges like the  Standard Bridge, there are several critical distinctions:
 
-* The Standard Bridge relies on a “lock-and-mint” mechanism whereby tokens are locked on Ethereum, and a corresponding bridged representation is minted on the selected L2. Similarly, tokens locked on the L2 are represented on Ethereum by an equivalent bridged token.&#x20;
 * The primary distinction between Hemi’s Tunnels and standard bridges lies in the finality model and security architecture. Standard bridges depend on an optimistic model with a delayed dispute window. The withdrawal process on these bridges typically takes **a week or longer**, as they await the potential for fraud proofs before finalizing the transaction.
 * Hemi Tunnels enhance this process by incorporating Bitcoin finality. Instead of relying solely on an Ethereum-based dispute window, Hemi uses Bitcoin’s Proof-of-Work consensus as an additional layer of security. This allows Hemi to finalize transactions more quickly, as the Bitcoin network’s finality period is shorter and more secure than the traditional dispute windows of optimistic rollups.
-* Hemi decentralizes the dispute process by distributing the Challenger role across a wider set of participants. This decentralization mitigates the risk of collusion or centralization of power within the bridging system, offering a more secure alternative to centralized or semi-centralized dispute mechanisms found in standard bridges.
+* Hemi will decentralize the dispute process by distributing the Challenger role across a wider set of participants. This decentralization mitigates the risk of collusion or centralization of power within the bridging system, offering a more secure alternative to centralized or semi-centralized dispute mechanisms found in standard bridges.
