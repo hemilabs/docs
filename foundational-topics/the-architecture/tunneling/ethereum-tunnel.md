@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Ethereum Tunnel
 
 {% hint style="info" %}

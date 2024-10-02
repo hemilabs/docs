@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Bitcoin Tunnel
 
 {% hint style="info" %}
