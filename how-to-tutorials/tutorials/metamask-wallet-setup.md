@@ -5,7 +5,7 @@
 
 * [MetaMask](https://metamask.io/download/), available as a browser extension and mobile app, is designed to let users easily manage their cryptocurrencies and interact with dApps.
 * This guide walks you through adding the Hemi network to MetaMask, including setting up network details like RPC URL, Chain ID, and Block Explorer URL.
-* **ETH**, the native token of the Hemi Network, is used to pay for gas fees.
+* For a step-by-step guide on connecting MetaMask with a hardware wallet, please refer to [this guide from Ledger Academy](https://www.ledger.com/academy/security/the-safest-way-to-use-metamask).
 {% endhint %}
 
 ***

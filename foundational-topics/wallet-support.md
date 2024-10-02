@@ -88,3 +88,9 @@ The Bitcoin network currently comprises a variety of networks with varying funct
 {% hint style="success" %}
 If you are ready to get started with Bitcoin, you can learn how to [**set up a BTC wallet**](../how-to-tutorials/tutorials/btc-wallet-setup/) and interact with Bitcoin on Hemi.
 {% endhint %}
+
+***
+
+## 💼 Hardware Wallets
+
+If you use a hardware wallet and want to interact with Hemi, you can connect it through MetaMask to manage your assets securely. This approach allows you to maintain control of your private keys while accessing the Hemi network. For a step-by-step guide on connecting MetaMask with a hardware wallet, please refer to [this guide from Ledger Academy](https://www.ledger.com/academy/security/the-safest-way-to-use-metamask).
