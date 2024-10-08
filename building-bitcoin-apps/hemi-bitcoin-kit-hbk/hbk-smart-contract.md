@@ -5,8 +5,7 @@
 * The Hemi Bitcoin Kit smart contract provides utilities for interacting with Bitcoin data on the Hemi blockchain.&#x20;
 * It includes methods to retrieve Bitcoin address balances, UTXOs, transaction details, and block headers.&#x20;
 * The contract leverages hVM's new precompiles to perform Bitcoin-related queries.
-* **Latest hBK release on Hemi testnet:**\
-  [0x181dBA19ce25bbD6d884347d2471FE5E5C0fcA4c](https://testnet.explorer.hemi.xyz/address/0x181dBA19ce25bbD6d884347d2471FE5E5C0fcA4c?tab=contract)
+* **Latest hBK release on Hemi testnet:** [0xeC9fa5daC1118963933e1A675a4EEA0009b7f215](https://testnet.explorer.hemi.xyz/address/0xeC9fa5daC1118963933e1A675a4EEA0009b7f215)
 
 ***
 

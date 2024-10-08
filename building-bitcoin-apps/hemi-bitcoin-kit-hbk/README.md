@@ -6,8 +6,7 @@
 * The Hemi Bitcoin Kit (hBK) is a library of smart contracts for developers to use to build Bitcoin-aware smart contracts.
 * The hBK abstracts away the complications of interacting directly with the hVM Precompiles; parsing query results into data structures that are easy to understand and use.
 * The level of deep Bitcoin introspection and programmability that hBK enables will allow developers to create Bitcoin dApps and interoperability infrastructure that would have previously been impossible or impractical to build with other interoperability solutions.
-* **Latest hBK release on Hemi testnet:**\
-  [0x181dBA19ce25bbD6d884347d2471FE5E5C0fcA4c](https://testnet.explorer.hemi.xyz/address/0x181dBA19ce25bbD6d884347d2471FE5E5C0fcA4c?tab=contract)
+* **Latest hBK release on Hemi testnet:** [0xeC9fa5daC1118963933e1A675a4EEA0009b7f215](https://testnet.explorer.hemi.xyz/address/0xeC9fa5daC1118963933e1A675a4EEA0009b7f215)
 {% endhint %}
 
 ***
