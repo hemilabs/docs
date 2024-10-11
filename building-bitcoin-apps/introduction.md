@@ -35,5 +35,6 @@
 * Because new versions of hBK are being developed and tested, this document will always contain the latest “stable” contract available on Hemi’s testnet.&#x20;
 * In Mainnet, Bitcoin Kit contracts will be deployed as predeploys with special addresses like 0x8400000000000000000000000000000000000001, with new versions offering additional features being deployed at incremented addresses.
 
-> **Latest Bitcoin Kit release on Hemi Testnet:**\
-> [0x181dBA19ce25bbD6d884347d2471FE5E5C0fcA4c](https://testnet.explorer.hemi.xyz/address/0x181dBA19ce25bbD6d884347d2471FE5E5C0fcA4c?tab=contract) (Updated May 8th 2024)
+> **Latest Bitcoin Kit release on Hemi Testnet:**
+>
+> [0xeC9fa5daC1118963933e1A675a4EEA0009b7f215](https://testnet.explorer.hemi.xyz/address/0xeC9fa5daC1118963933e1A675a4EEA0009b7f215) (Updated October 11th, 2024)
