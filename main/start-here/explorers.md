@@ -29,7 +29,7 @@ Begin by familiarizing yourself with some of the key Hemi network terms and feat
 
 Prepare your various wallets to start exploring Hemi by setting up an EVM and BTC wallet. This step ensures you have everything in place to interact with the Hemi network effectively.
 
-* [Set up an EVM wallet ](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
+* [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
 * [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/) (UniSat)
 * Join our [Discord](https://discord.gg/hemixyz), access Hemi testnet faucets, and chat with the community
 

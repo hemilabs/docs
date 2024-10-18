@@ -38,7 +38,7 @@ The Ethereum network currently comprises a variety of networks with varying func
 * **Sepolia Testnet:** A testing environment for Ethereum that mimics the Mainnet but uses testnet ETH with no real value. It allows developers and users to test applications, transactions, and upgrades without risking real funds, providing a stable and efficient testing ground for Ethereum-based projects.
 
 {% hint style="success" %}
-If you are ready to get started with Ethereum, you can learn how to [**set up an EVM wallet** ](../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)and interact with Ethereum on Hemi.
+If you are ready to get started with Ethereum, you can learn how to [**set up an EVM wallet** ](../how-to-tutorials/tutorials/metamask-wallet-setup.md)and interact with Ethereum on Hemi.
 {% endhint %}
 
 

@@ -36,15 +36,17 @@
 
 ## 📖 How-To Tutorials
 
+* [Tutorials](how-to-tutorials/tutorials/README.md)
+  * [Get Bitcoin Balance with Remix](how-to-tutorials/tutorials/get-bitcoin-balance-with-remix.md)
 * [Using Hemi](how-to-tutorials/using-hemi/README.md)
   * [Tunneling](how-to-tutorials/using-hemi/tunneling/README.md)
     * [Tunnel ETH to Hemi](how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
   * [Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/README.md)
-    * [EVM Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)
+    * [EVM Wallet Setup](how-to-tutorials/tutorials/metamask-wallet-setup.md)
     * [BTC Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/README.md)
       * [Switch Bitcoin Network](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/switch-bitcoin-network.md)
   * [Developer Tooling](how-to-tutorials/using-hemi/developer-tooling/README.md)
-    * [Set Up a Safe Wallet](how-to-tutorials/using-hemi/developer-tooling/set-up-a-safe-wallet.md)
+    * [Set Up a Safe Wallet](how-to-tutorials/tutorials/set-up-a-safe-wallet.md)
     * [Create a Capsule](how-to-tutorials/using-hemi/developer-tooling/create-a-capsule.md)
     * [Mint a Hemi Hatchling NFT](how-to-tutorials/using-hemi/developer-tooling/mint-a-hemi-hatchling-nft.md)
   * [PoP Mining](how-to-tutorials/using-hemi/pop-mining/README.md)
@@ -54,7 +56,7 @@
 * [Developing on Hemi](how-to-tutorials/developing-on-hemi/README.md)
   * [General](how-to-tutorials/developing-on-hemi/general/README.md)
     * [HelloWorld.sol](how-to-tutorials/developing-on-hemi/general/using-remix-ide.md)
-    * [Deploy an ERC-20 Token](how-to-tutorials/developing-on-hemi/general/erc-20.md)
+    * [Deploy an ERC-20 Token](how-to-tutorials/tutorials/erc-20.md)
   * [hVM & hBK](how-to-tutorials/developing-on-hemi/hvm-and-hbk/README.md)
     * [Get Bitcoin Balance with Remix](how-to-tutorials/developing-on-hemi/hvm-and-hbk/using-remix-ide.md)
 

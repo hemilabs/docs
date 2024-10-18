@@ -17,7 +17,7 @@ noIndex: true
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../wallet-setup/metamask-wallet-setup.md)
+1. [MetaMask Wallet Setup](../../tutorials/metamask-wallet-setup.md)
 2. [Tunnel ETH to Hemi](../tunneling/tunnel-eth-to-hemi.md)
 
 ***

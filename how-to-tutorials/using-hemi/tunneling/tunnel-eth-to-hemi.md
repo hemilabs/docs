@@ -12,7 +12,7 @@
 ## 🏁 Prerequisites
 
 * **Acquire ETH** - ETH can be purchased on any number of exchanges and on-ramps. Hemi is currently integrated with [MetaMask](https://metamask.io) and we recommend MetaMask to purchase your ETH for the quickest onboarding. You may also visit other exchanges, such as Coinbase, to purchase and send your ETH to MetaMask.
-* [**EVM (MetaMask) Wallet Setup**](../wallet-setup/metamask-wallet-setup.md) **-** Set up your EVM wallet and add the Hemi Network before interacting with any Hemi application.
+* [**EVM (MetaMask) Wallet Setup**](../../tutorials/metamask-wallet-setup.md) **-** Set up your EVM wallet and add the Hemi Network before interacting with any Hemi application.
 
 {% hint style="info" %}
 **TESTNET ONLY**\

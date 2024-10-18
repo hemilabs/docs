@@ -11,11 +11,15 @@
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../wallet-setup/metamask-wallet-setup.md)
+1. [MetaMask Wallet Setup](metamask-wallet-setup.md)
 
 ***
 
 ## 📚 Tutorial
+
+## Video
+
+{% embed url="https://youtu.be/3A32yuX5NgM" %}
 
 ### 1. Visit the Hemi Safe [website](https://safe.hemi.xyz/)
 
@@ -25,9 +29,9 @@
 
 To get started, connect your wallet to the Safe site. For this tutorial, we will be using MetaMask.
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -39,7 +43,7 @@ After connecting your wallet, you will be prompted to name your Safe account.&#x
 **Doublecheck the wallet and network provided** in the right-hand screen. Confirm that the wallet connected is the wallet you would like to use to create your Safe wallet, and that the network is set to Hemi Sepolia.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 When you are ready to proceed, click `'Next'`.
 
@@ -49,12 +53,12 @@ When you are ready to proceed, click `'Next'`.
 
 A Safe Wallet can be set up as a multi-sig wallet, whitelisting addresses who may sign transactions on behalf of the wallet. You may assign a name to each address you intend to add to the wallet.  &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 After adding additional signers, you may specify how many signers are required to sign any given transaction. This variable is referred to as the Threshold. \
 
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 After finalizing the verified signers and threshold requirements, click `'Next'` to proceed.
 
@@ -64,7 +68,7 @@ After finalizing the verified signers and threshold requirements, click `'Next'`
 
 Review and verify the network, name, signers, threshold, and estimated network fee to create your Safe account.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 After confirming all given information, click `'Create'` to proceed.&#x20;
 
@@ -74,7 +78,7 @@ After confirming all given information, click `'Create'` to proceed.&#x20;
 
 Confirm the recent transaction via your MetaMask wallet.
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -82,4 +86,4 @@ Confirm the recent transaction via your MetaMask wallet.
 
 Your Safe Wallet is ready for use! You may add funds to your wallet and explore sending and receiving assets.
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>

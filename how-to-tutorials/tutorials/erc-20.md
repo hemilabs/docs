@@ -16,12 +16,14 @@
 
 1. Download [VSCode ](https://code.visualstudio.com/download)(or any other IDE)
 2. Install [Node.js](https://nodejs.org/en/download/) or update it to [current version](https://blog.hubspot.com/website/update-node-js)
-3. [MetaMask Wallet Setup](../../using-hemi/wallet-setup/metamask-wallet-setup.md)
-4. [Tunnel ETH to Hemi](../../using-hemi/tunneling/tunnel-eth-to-hemi.md)
+3. [MetaMask Wallet Setup](metamask-wallet-setup.md)
+4. [Tunnel ETH to Hemi](../using-hemi/tunneling/tunnel-eth-to-hemi.md)
 
 ***
 
 ## 📚 Tutorial
+
+
 
 ### 1. Create A Project Directory
 
@@ -60,7 +62,7 @@ npx hardhat init
 
 b) Select `Create an empty hardhat.config.js`
 
-![](../../../.gitbook/assets/1d.png)
+![](../../.gitbook/assets/1d.png)
 
 ***
 
@@ -76,7 +78,7 @@ mkdir contracts && mkdir scripts
 
 ### 6. Write Your Contract
 
-![](../../../.gitbook/assets/2d.png)
+![](../../.gitbook/assets/2d.png)
 
 * In the `contracts` folder, create a file named `MyToken.sol` . This will be your ERC-20 token contract. Here's a basic example:
 
@@ -111,7 +113,7 @@ a) Export your Private Key from MetaMask:
 
 * Open MetaMask, select your account icon, and go to `Account Details`
 
-![](../../../.gitbook/assets/3d.png)
+![](../../.gitbook/assets/3d.png)
 
 * Select `Show private key`
 * Enter your password.
@@ -189,7 +191,7 @@ module.exports = {
 
 ### 10. Write a Deployment Script
 
-![](../../../.gitbook/assets/4d.png)
+![](../../.gitbook/assets/4d.png)
 
 In the `scripts` folder, create a file named `deploy.js` to write a script for deploying your contract.
 
@@ -234,4 +236,4 @@ To view the details of your deployed contract, enter the contract address from y
 
 Contract details we just deployed:
 
-![](../../../.gitbook/assets/5d.png)
+![](../../.gitbook/assets/5d.png)

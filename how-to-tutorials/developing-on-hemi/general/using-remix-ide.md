@@ -16,7 +16,7 @@ description: 🟩 This is a beginner track.
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../../using-hemi/wallet-setup/metamask-wallet-setup.md)
+1. [MetaMask Wallet Setup](../../tutorials/metamask-wallet-setup.md)
 2. [Tunnel ETH to Hemi](../../using-hemi/tunneling/tunnel-eth-to-hemi.md)
 
 ***

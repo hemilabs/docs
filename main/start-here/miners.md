@@ -29,7 +29,7 @@ Begin by familiarizing yourself with some of the key Hemi network terms and feat
 
 Prepare your various wallets to start PoP mining on Hemi by setting up an EVM and BTC wallet.&#x20;
 
-* \[_Optional_] [Set up an EVM wallet ](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
+* \[_Optional_] [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
 * \[_Optional_] [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/) (UniSat)
 * Join our [Discord](https://discord.gg/hemixyz) and chat with the community
 
