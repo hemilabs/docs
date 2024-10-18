@@ -19,7 +19,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/3A32yuX5NgM" %}
+{% embed url="https://youtu.be/Ny_FcGUPVjM" %}
 
 ### 1. Visit the Hemi Safe [website](https://safe.hemi.xyz/)
 
