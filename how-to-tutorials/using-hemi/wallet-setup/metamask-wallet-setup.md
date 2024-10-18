@@ -20,7 +20,7 @@
 
 ### 1. Open the MetaMask Extension
 
-<figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
@@ -28,19 +28,19 @@
 
 Click on the network-selection dropdown, which is found at the top left of the MetaMask window.
 
-<figure><img src="../../.gitbook/assets/2.png" alt="" width="359"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.png" alt="" width="359"><figcaption></figcaption></figure>
 
 ***
 
 ### 3. Select "Add Network"
 
-<figure><img src="../../.gitbook/assets/3.png" alt="" width="348"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.png" alt="" width="348"><figcaption></figcaption></figure>
 
 ***
 
 ### 4. Add a Network Manually
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -76,7 +76,7 @@ To ensure visibility of your `ETH` on the Sepolia testnet, toggle the `Show test
 
 
 
-<figure><img src="../../.gitbook/assets/1b.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1b.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

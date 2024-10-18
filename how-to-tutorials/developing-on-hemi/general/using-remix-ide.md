@@ -16,8 +16,8 @@ description: 🟩 This is a beginner track.
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi](tunnel-eth-to-hemi.md)
+1. [MetaMask Wallet Setup](../../using-hemi/wallet-setup/metamask-wallet-setup.md)
+2. [Tunnel ETH to Hemi](../../using-hemi/tunneling/tunnel-eth-to-hemi.md)
 
 ***
 
@@ -33,7 +33,7 @@ Remix IDE is a powerful, open-source web application for developing, compiling, 
 
 In Remix IDE, start by creating a new file named `HelloWorld.sol`.
 
-![](../../.gitbook/assets/1c.png)
+![](../../../.gitbook/assets/1c.png)
 
 * The following contract is a basic example designed for interaction. Copy the code below and paste it into the file `HelloWorld.sol`.
 
@@ -60,19 +60,19 @@ contract HelloWorld {
 
 Select `Compile HelloWorld.sol` button to use the Remix IDE's Solidity compiler. Check for any compilation errors and fix them.
 
-![](../../.gitbook/assets/2c.png)
+![](../../../.gitbook/assets/2c.png)
 
 ***
 
 ### 4. Connect Remix To MetaMask&#x20;
 
 {% hint style="warning" %}
-The address you choose to connect **MUST** have some ETH (recommended at least 0.01 ETH) to pay for contract deployment fees. Refer back to earlier documentation to [fund your Hemi address](tunnel-eth-to-hemi.md) with ETH.&#x20;
+The address you choose to connect **MUST** have some ETH (recommended at least 0.01 ETH) to pay for contract deployment fees. Refer back to earlier documentation to [fund your Hemi address](../../using-hemi/tunneling/tunnel-eth-to-hemi.md) with ETH.&#x20;
 {% endhint %}
 
 Choose `Injected Provider - MetaMask` under "Environment".
 
-![](../../.gitbook/assets/3c.png)
+![](../../../.gitbook/assets/3c.png)
 
 ***
 
@@ -80,11 +80,11 @@ Choose `Injected Provider - MetaMask` under "Environment".
 
 * A pop-up from MetaMask will appear to confirm the connection. Select `Next`.
 
-![](../../.gitbook/assets/4c.png)
+![](../../../.gitbook/assets/4c.png)
 
 * Select `Connect`
 
-![](../../.gitbook/assets/5c.png)
+![](../../../.gitbook/assets/5c.png)
 
 ***
 
@@ -92,7 +92,7 @@ Choose `Injected Provider - MetaMask` under "Environment".
 
 * Link to the relevant Hemi account in the "Account" drop-down.
 
-![](../../.gitbook/assets/6c.png)
+![](../../../.gitbook/assets/6c.png)
 
 ***
 
@@ -106,14 +106,14 @@ Uncheck `Publish to IPFS.`Note: if you get a warning about Gas Limit, you may ig
 
 * Select `Deploy`
 
-![](../../.gitbook/assets/7c.png)
+![](../../../.gitbook/assets/7c.png)
 
 * Your MetaMask will pop-up to confirm the deployment of your smart contract. Select `Confirm`
 
-![](../../.gitbook/assets/8c.png)
+![](../../../.gitbook/assets/8c.png)
 
 🥳 Whoooo! If successful you should see a ✅ in the console.
 
 ⚠️ If it fails, double check that the Solidity version in the compiler is the correct version.
 
-![](../../.gitbook/assets/9c.png)
+![](../../../.gitbook/assets/9c.png)

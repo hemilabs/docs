@@ -15,7 +15,7 @@
 
 Navigate to the [UniSat extension download](https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo) and click `'Add to Chrome.'`
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 Click `'Add extension.'`
 
@@ -27,13 +27,13 @@ Click `'Add extension.'`
 
 Open the UniSat extension and click `'Create new wallet.'`
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 2. Create a password
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -46,7 +46,7 @@ Open the UniSat extension and click `'Create new wallet.'`
 * Do not share it with anyone.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 After you have saved your private key in a secure area, click `'Continue.'`
 
@@ -63,7 +63,7 @@ Hemi currently uses two primary address types:
 We recommend creating a **Native SegWit** wallet to jumpstart in the Bitcoin ecosystem. New wallets and other address types can be created in the future.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 After you have selected your address type, click `'Continue.'`
 
@@ -71,6 +71,6 @@ After you have selected your address type, click `'Continue.'`
 
 ### 5. Your UniSat wallet setup is complete! 🎉
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***

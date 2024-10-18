@@ -24,7 +24,7 @@
 
 [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source). Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
 
-<figure><img src="../../.gitbook/assets/pop-miner-binaries-v0.2.8 (1).png" alt=""><figcaption><p>Note: the version numbers may be different.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pop-miner-binaries-v0.2.8 (1).png" alt=""><figcaption><p>Note: the version numbers may be different.</p></figcaption></figure>
 
 The package you will need to download depends on your OS and architecture:
 
@@ -187,7 +187,7 @@ Find your wallet address:&#x20;
 
 * **New Address:** If you generated a new public key in Step 6a, check the JSON file from Step 6b for your `pubkey_hash`.&#x20;
 * **Existing BTC Address:** If you are importing a private key from an existing BTC address, change your wallet type to P2PKH (Legacy) and locate the public key.
-* **Existing EVM Address:** If you are importing a private key from an existing EVM address, [import your private key into UniSat](btc-wallet-setup/) and select P2PKH (Legacy) as your wallet type.
+* **Existing EVM Address:** If you are importing a private key from an existing EVM address, [import your private key into UniSat](../wallet-setup/btc-wallet-setup/) and select P2PKH (Legacy) as your wallet type.
 
 Fund your wallet:&#x20;
 

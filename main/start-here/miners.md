@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Learn about [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md), run a [CLI](../../how-to-tutorials/tutorials/setup-part-1.md) or [Web](../../how-to-tutorials/tutorials/web-based-pop-miner.md) miner.
+* Learn about [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md), run a [CLI](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md) or [Web](../../how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md) miner.
 * View our [Github](https://github.com/hemilabs), join our [Discord](https://discord.gg/hemixyz), and [refer a friend](https://points.absinthe.network/hemi/start)!
 {% endhint %}
 
@@ -29,8 +29,8 @@ Begin by familiarizing yourself with some of the key Hemi network terms and feat
 
 Prepare your various wallets to start PoP mining on Hemi by setting up an EVM and BTC wallet.&#x20;
 
-* \[_Optional_] [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
-* \[_Optional_] [Set up a BTC wallet](../../how-to-tutorials/tutorials/btc-wallet-setup/) (UniSat)
+* \[_Optional_] [Set up an EVM wallet ](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
+* \[_Optional_] [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/) (UniSat)
 * Join our [Discord](https://discord.gg/hemixyz) and chat with the community
 
 ***
@@ -40,7 +40,7 @@ Prepare your various wallets to start PoP mining on Hemi by setting up an EVM an
 There are two primary methods to run a PoP miner within the Hemi Network:
 
 * [**CLI Version:**](https://docs.hemi.xyz/how-to-tutorials/pop-mining/setup-part-1) The CLI (Command Line Interface) version is designed for long-term, continuous operation, requires some technical knowledge but provides robust security and operational efficiency.&#x20;
-* [**Web-based Miner:**](../../how-to-tutorials/tutorials/web-based-pop-miner.md) The web-based PoP miner is lightweight, user-friendly, and requires no special hardware, ideal for users of all experience levels to test and run their own PoP miner.
+* [**Web-based Miner:**](../../how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md) The web-based PoP miner is lightweight, user-friendly, and requires no special hardware, ideal for users of all experience levels to test and run their own PoP miner.
 
 ***
 
@@ -48,7 +48,7 @@ There are two primary methods to run a PoP miner within the Hemi Network:
 
 Congratulations 🎉 Now that you’re PoP miner is running, here are some next steps to deepen your engagement and maximize the potential of your journey on Hemi.
 
-* [Tunnel ETH to Hemi](../../how-to-tutorials/tutorials/tunnel-eth-to-hemi.md)
+* [Tunnel ETH to Hemi](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
 * Join the [Hemi Pilot Program](../../incentives/hemi-pilot-program.md)
 * Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!

@@ -46,7 +46,7 @@
 * **Generate a Private Key:** Click on the option to generate a new private key. This key will be used for your PoP mining activities.
 * **Input Existing Private Key:** If you already have a private key, select this option and input your key to proceed.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. Fund your Bitcoin Address**
 
@@ -56,7 +56,7 @@
 Please ensure you transfer at least `0.002 tBTC` to the provided address to start PoP mining.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-18 at 12.13.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-18 at 12.13.59.png" alt=""><figcaption></figcaption></figure>
 
 ### **4. Confirm Key and Begin Mining!**
 
@@ -66,7 +66,7 @@ Please ensure you transfer at least `0.002 tBTC` to the provided address to star
 To ensure your PoP miner stays active, keep the browser tab open. If you close the tab, your miner will shut down and you will need to import the private key assigned in Step 2 to restart it.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ To ensure your PoP miner stays active, keep the browser tab open. If you close t
 
 
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2024-07-22 às 17.59.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de Tela 2024-07-22 às 17.59.34.png" alt=""><figcaption></figcaption></figure>
 
 
 

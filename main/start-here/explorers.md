@@ -4,7 +4,7 @@
 ## 📜 **TL;DR:**
 
 * [Set up an EVM and BTC wallet](../../foundational-topics/wallet-support.md) and connect to Hemi Network.
-* Tunnel [ETH](../../how-to-tutorials/tutorials/tunnel-eth-to-hemi.md) to Hemi.
+* Tunnel [ETH](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md) to Hemi.
 * View our [Github](https://github.com/hemilabs), join our [Discord](https://discord.gg/hemixyz), and [refer a friend](https://points.absinthe.network/hemi/start)!
 {% endhint %}
 
@@ -29,8 +29,8 @@ Begin by familiarizing yourself with some of the key Hemi network terms and feat
 
 Prepare your various wallets to start exploring Hemi by setting up an EVM and BTC wallet. This step ensures you have everything in place to interact with the Hemi network effectively.
 
-* [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
-* [Set up a BTC wallet](../../how-to-tutorials/tutorials/btc-wallet-setup/) (UniSat)
+* [Set up an EVM wallet ](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
+* [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/) (UniSat)
 * Join our [Discord](https://discord.gg/hemixyz), access Hemi testnet faucets, and chat with the community
 
 ***
@@ -40,8 +40,8 @@ Prepare your various wallets to start exploring Hemi by setting up an EVM and BT
 Dive into the Hemi ecosystem by exploring and interacting with decentralized applications (dApps) built on the network.&#x20;
 
 * Visit [Crypto Chords](https://cryptochords.hemi.xyz) and the unique visualization of interactions on Hemi
-* Start PoP mining using the [CLI](../../how-to-tutorials/tutorials/setup-part-1.md) or [Web application](../../how-to-tutorials/tutorials/web-based-pop-miner.md)
-* Tunnel [ETH](../../how-to-tutorials/tutorials/tunnel-eth-to-hemi.md) to Hemi
+* Start PoP mining using the [CLI](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md) or [Web application](../../how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md)
+* Tunnel [ETH](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md) to Hemi
 
 ***
 

@@ -18,24 +18,24 @@
 
 ## 📚 Tutorial
 
-### 1. Open the UniSat browser extension ![](<../../../.gitbook/assets/image (7).png>)
+### 1. Open the UniSat browser extension ![](<../../../../.gitbook/assets/image (7).png>)
 
 ***
 
 ### 2. Select the network dropdown
 
 Click the network dropdown in the top-right corner to view all Bitcoin networks. \
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../../.gitbook/assets/image (9).png>)
 
 ***
 
 ### 3. Select Bitcoin Testnet
 
 Select `'Bitcoin Testnet'` from the list of networks. \
-&#x20;![](<../../../.gitbook/assets/image (10).png>)\
+&#x20;![](<../../../../.gitbook/assets/image (10).png>)\
 \
 From here, the dropdown should expand and you can click on `'Bitcoin Testnet'.`\
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../../.gitbook/assets/image (11).png>)
 
 ***
 
