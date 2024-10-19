@@ -36,8 +36,6 @@
 
 ## 📖 How-To Tutorials
 
-* [Tutorials](how-to-tutorials/tutorials/README.md)
-  * [Get Bitcoin Balance with Remix](how-to-tutorials/tutorials/get-bitcoin-balance-with-remix.md)
 * [Using Hemi](how-to-tutorials/using-hemi/README.md)
   * [Tunneling](how-to-tutorials/using-hemi/tunneling/README.md)
     * [Tunnel ETH to Hemi](how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
