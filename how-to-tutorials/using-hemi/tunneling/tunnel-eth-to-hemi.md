@@ -30,6 +30,10 @@ If you plan on developing on or interacting with Hemi testnet, alternative prere
 
 ## 📚 Tutorial
 
+## Video
+
+{% embed url="https://youtu.be/bOdo_iC3jHM" %}
+
 ### 1. Visit the Hemi Portal&#x20;
 
 Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunnel your ETH from Ethereum to the Hemi network.
