@@ -42,23 +42,23 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 
 ### 2. Connect wallet
 
-Click `'Connect Wallet'` in the top-right corner of the Hemi Portal.
+Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
-<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.13.48 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 3. Connect to your preferred wallet
+### 3. Connect to your preferred EVM wallet
 
-Currently, MetaMask is the only EVM wallet Hemi supports. Our team is working to add additional  support for wallets such as Rabby, Phantom, and others.
+Currently, MetaMask is the only EVM wallet Hemi supports. Our team is working to add additional  support for wallets such as Rabby, Phantom, and more.
 
-<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.16.52.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.18.05.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 4. Click confirm
-
-
 
 <figure><img src="../../../.gitbook/assets/4b.png" alt="" width="261"><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ Currently, MetaMask is the only EVM wallet Hemi supports. Our team is working to
 
 Ensure that you are connected to the Ethereum Network (mainnet or Sepolia). If you are not connected, the Portal will prompt you to connect.
 
-<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.38.00.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -76,7 +76,7 @@ Ensure that you are connected to the Ethereum Network (mainnet or Sepolia). If y
 
 Input the amount of ETH you wish to tunnel to Hemi.
 
-<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.41.43.png" alt=""><figcaption></figcaption></figure>
 
 After you have confirmed the gas fee and wish to proceed with the deposit, click `'Deposit.'`
 
@@ -86,7 +86,7 @@ After you have confirmed the gas fee and wish to proceed with the deposit, click
 
 Confirm your ETH deposit in the MetaMask browser extension.
 
-<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.42.16.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -94,7 +94,9 @@ Confirm your ETH deposit in the MetaMask browser extension.
 
 Your transaction should now be complete! You can check the status and view the transaction in the `'Transaction History'` tab.
 
-<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.43.05.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-24 at 12.44.26.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: You can also confirm your transaction was successful in the `Activity` tab of your MetaMask wallet.

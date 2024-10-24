@@ -18,7 +18,7 @@ hidden: true
 
 Core Hemi contracts deployed on **Ethereum Mainnet**.
 
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="275">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td>TBD</td><td>TBD</td></tr></tbody></table>
 
 ***
 
@@ -26,23 +26,7 @@ Core Hemi contracts deployed on **Ethereum Mainnet**.
 
 Core Hemi contracts deployed on **Hemi**.
 
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
-
-***
-
-### Token Contracts
-
-Token contracts deployed on **Hemi**.
-
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
-
-***
-
-### Utility Contracts
-
-Commonly used utility contracts deployed on **Hemi**.
-
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="275">Name</th><th>Contract Address</th></tr></thead><tbody><tr><td>TBD</td><td>TBD</td></tr></tbody></table>
 
 ***
 
@@ -52,7 +36,7 @@ Commonly used utility contracts deployed on **Hemi**.
 
 Core Hemi contracts deployed on **Sepolia**.
 
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="275">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ***
 
@@ -60,22 +44,4 @@ Core Hemi contracts deployed on **Sepolia**.
 
 Core Hemi contracts deployed on **Hemi Sepolia**.
 
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
-
-***
-
-### Token Contracts
-
-Token contracts deployed on **Hemi Sepolia**.
-
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
-
-***
-
-### Utility Contracts
-
-Commonly used utility contracts deployed on **Hemi Sepolia**.
-
-<table><thead><tr><th width="275">Name</th><th>Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
-
-***
+<table><thead><tr><th width="275">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
