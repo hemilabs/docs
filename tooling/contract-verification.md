@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Contract Verification
 
 {% hint style="info" %}
