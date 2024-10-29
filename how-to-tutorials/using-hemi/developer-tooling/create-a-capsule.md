@@ -45,7 +45,7 @@ Connect your MetaMask wallet by clicking the button in the top-right corner.&#x2
 
 Click `'Add Asset'` to select the Hemi assets you would like to add to the Capsule. You may add any quantity and any combination of any Hemi assets as desired.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

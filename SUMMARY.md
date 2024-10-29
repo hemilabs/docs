@@ -66,6 +66,7 @@
   * [Feature Summary](building-bitcoin-apps/hemi-virtual-machine-hvm/feature-summary.md)
   * [Deploy on hVM](building-bitcoin-apps/hemi-virtual-machine-hvm/deploy-on-hvm.md)
 * [Hemi Bitcoin Kit (hBK)](building-bitcoin-apps/hemi-bitcoin-kit-hbk/README.md)
+  * [Overview](building-bitcoin-apps/hemi-bitcoin-kit-hbk/overview.md)
   * [hBK Smart Contract](building-bitcoin-apps/hemi-bitcoin-kit-hbk/hbk-smart-contract.md)
 
 ## ⚙️ Tooling

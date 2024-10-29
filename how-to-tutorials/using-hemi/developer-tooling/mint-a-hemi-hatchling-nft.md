@@ -62,7 +62,7 @@ After connecting your wallet, you will be asked to confirm the transaction to mi
 
 Navigate to the [Hemi Explorer](https://testnet.explorer.hemi.xyz/) and type in your address. On the `Address details` page, click `NFTs` and locate the NFT and NFT ID.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

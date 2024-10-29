@@ -148,15 +148,6 @@ PRIVATE_KEY=your_exported_private_key
 Ensure this file is never shared or committed to version control.
 {% endhint %}
 
-* Sample `.gitignore` code below
-
-<pre class="language-markup"><code class="lang-markup"><strong>// Sample .gitignore code
-</strong><strong>node_modules/
-</strong>.env
-artifacts/
-cache/
-</code></pre>
-
 ***
 
 ### 9. Configure Hardhat for the Testnet
