@@ -93,7 +93,7 @@ List the files:
 {% hint style="info" %}
 **For Windows:**
 
-* `dir`  (and press `Enter`)Type "cmd" and press `Enter`
+* `dir`  (and press `Enter`) Type "cmd" and press `Enter`
 
 
 
@@ -145,7 +145,7 @@ Environment:
 ### 6a. Generate public key
 
 {% hint style="warning" %}
-If you prefer to PoP mine using a preexisting private key, you may skip this step. **You may import a private key from either an EVM or BTC address.**
+If you prefer to PoP mine using a preexisting private key, you may skip this step. **You may import a private key from either an EVM or BTC address. For your BTC wallet (Unisat for example), use the HEX private key and not the WIF private key.**
 {% endhint %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p><strong>Run the following command:</strong></p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json -net="testnet" > ~/popm-address.json
@@ -186,7 +186,7 @@ You should see a result like:
 Find your wallet address:&#x20;
 
 * **New Address:** If you generated a new public key in Step 6a, check the JSON file from Step 6b for your `pubkey_hash`.&#x20;
-* **Existing BTC Address:** If you are importing a private key from an existing BTC address, change your wallet type to P2PKH (Legacy) and locate the public key.
+* **Existing BTC Address:** If you are importing a private key from an existing BTC address, change your wallet type to P2PKH (Legacy) and locate the private key.
 * **Existing EVM Address:** If you are importing a private key from an existing EVM address, [import your private key into UniSat](../wallet-setup/btc-wallet-setup/) and select P2PKH (Legacy) as your wallet type.
 
 Fund your wallet:&#x20;
