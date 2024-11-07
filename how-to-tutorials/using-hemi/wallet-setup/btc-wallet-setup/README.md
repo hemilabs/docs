@@ -21,11 +21,11 @@ Click `'Add extension.'`
 
 ***
 
-## 🎥 Video
+## 📚 Tutorial
+
+## Video
 
 {% embed url="https://youtu.be/l-fDEN4CSp8" %}
-
-## 📚 Tutorial
 
 ### 1. Open the UniSat Chrome extension
 

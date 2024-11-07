@@ -43,6 +43,7 @@
     * [EVM Wallet Setup](how-to-tutorials/tutorials/metamask-wallet-setup.md)
     * [BTC Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/README.md)
       * [Switch Bitcoin Network](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/switch-bitcoin-network.md)
+    * [Page](how-to-tutorials/using-hemi/wallet-setup/page.md)
   * [Developer Tooling](how-to-tutorials/using-hemi/developer-tooling/README.md)
     * [Set Up a Safe Wallet](how-to-tutorials/tutorials/set-up-a-safe-wallet.md)
     * [Create a Capsule](how-to-tutorials/using-hemi/developer-tooling/create-a-capsule.md)
