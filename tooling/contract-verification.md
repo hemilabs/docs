@@ -5,7 +5,7 @@
 
 * This guide explains how to verify smart contracts deployed on the Hemi blockchain using two methods:
   1. Manual UI-based verification via Blockscout.
-  2. API-based verification using tools like Hardhat and Foundry/Forge.
+  2. API-based verification using Hardhat.
 {% endhint %}
 
 ***
@@ -154,55 +154,3 @@ The block explorer's API responded that the contract contracts/MyToken.sol:MyTok
 This can happen if you used the '--force' flag. However, re-verification of contracts might not be supported
 by the explorer (e.g., Etherscan), or the contract may have already been verified with a full match.
 ```
-
-***
-
-## 🏗️ Foundry / Forge Verification
-
-#### 1. Install Foundry
-
-If you haven’t installed Foundry, you can do so by running:
-
-```
-curl -L https://foundry.paradigm.xyz | bash
-foundryup
-```
-
-***
-
-#### 2. Set Up Forge Project
-
-To set up a Forge project, initialize the project:
-
-```javascript
-mkdir my-foundry-project
-cd my-foundry-project
-forge init
-```
-
-***
-
-#### 3. Deploy your contract
-
-Deploy your contract to Hemi using Forge:
-
-```
-forge create --rpc-url <URL> --private-key $PRIVATE_KEY src/MyContract.sol:MyContract
-```
-
-***
-
-#### 4. Verify the contract 🎉
-
-Use the following command to verify the contract using the Blockscout API:
-
-```
-forge verify-contract --chain-id 743111 --etherscan-api-key YOUR_BLOCKSCOUT_API_KEY --watch CONTRACT_ADDRESS src/MyContract.sol:MyContract
-```
-
-{% hint style="info" %}
-Make sure to replace `YOUR_BLOCKSCOUT_API_KEY` and `CONTRACT_ADDRESS` with your actual values.
-{% endhint %}
-
-***
-
