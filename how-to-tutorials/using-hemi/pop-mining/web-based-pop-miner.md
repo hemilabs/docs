@@ -37,6 +37,10 @@
 
 ## 📚 Tutorial
 
+## Video
+
+{% embed url="https://youtu.be/kO1nqwlqRvI" %}
+
 ### **1. Access the Web Miner**
 
 * Navigate to the [PoP miner web interface](https://pop-miner.hemi.xyz).
