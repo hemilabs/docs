@@ -19,6 +19,10 @@ Looking ahead, **tHEMI will play a broader role in rewarding other network parti
 
 ***
 
+## 🎥 Video
+
+{% embed url="https://youtu.be/Jlar2x5sROk" %}
+
 ## 📚 Tutorial
 
 ### 1. Open MetaMask
