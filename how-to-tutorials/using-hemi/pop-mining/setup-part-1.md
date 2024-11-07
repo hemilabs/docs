@@ -20,6 +20,10 @@
 
 ## 📚 Tutorial
 
+## Video
+
+{% embed url="https://youtu.be/mCsmJ5dWE7c" %}
+
 ### 1. Binaries
 
 [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source). Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
