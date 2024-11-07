@@ -27,6 +27,10 @@
 
 ## 📚 Tutorial
 
+## Video
+
+{% embed url="https://youtu.be/HXb8bFen0-I" %}
+
 ### 1. Visit the Hemi Capsule [website](https://app.capsulelabs.xyz/)
 
 ***
