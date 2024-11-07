@@ -23,7 +23,9 @@
 
 ## 📚 Tutorial
 
+## Video
 
+{% embed url="https://youtu.be/lYRPxZvrzYo" %}
 
 ### 1. Create A Project Directory
 
