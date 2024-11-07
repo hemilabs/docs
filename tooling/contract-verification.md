@@ -3,9 +3,10 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* This guide explains how to verify smart contracts deployed on the Hemi blockchain using two methods:
-  1. Manual UI-based verification via Blockscout.
-  2. API-based verification using Hardhat.
+This guide explains how to verify smart contracts deployed on the Hemi blockchain using two methods:
+
+1. Manual UI-based verification via Blockscout.
+2. API-based verification using Hardhat.
 {% endhint %}
 
 ***
