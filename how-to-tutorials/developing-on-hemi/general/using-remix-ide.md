@@ -23,6 +23,10 @@ description: 🟩 This is a beginner track.
 
 ## 📚 Tutorial
 
+## Video
+
+{% embed url="https://youtu.be/_caHuFniL48" %}
+
 ### 1. Go to [Remix IDE](https://remix.ethereum.org/)
 
 Remix IDE is a powerful, open-source web application for developing, compiling, and deploying Ethereum smart contracts with ease.
