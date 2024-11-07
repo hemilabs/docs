@@ -1,7 +1,7 @@
 # BTC Wallet Setup
 
 {% hint style="info" %}
-## 📜 **TL;DR:**
+📜 **TL;DR:**
 
 * [UniSat](https://unisat.io), available as a browser extension and mobile app, is designed to let users easily manage their Bitcoin assets and interact with dApps.
 * This guide walks you through setting up your UniSat wallet.
@@ -20,6 +20,10 @@ Navigate to the [UniSat extension download](https://chromewebstore.google.com/de
 Click `'Add extension.'`
 
 ***
+
+## 🎥 Video
+
+{% embed url="https://youtu.be/l-fDEN4CSp8" %}
 
 ## 📚 Tutorial
 
