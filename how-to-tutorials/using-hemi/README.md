@@ -3,7 +3,7 @@
 Follow along with some of the tutorials to help you get a head start when building your first Hemi project.&#x20;
 
 {% hint style="info" %}
-**Note:** You may be eligible to earn Hemi Miles by completing tutorials. Visit our [dashboard](https://points.absinthe.network/hemi/start) for more information on active quests.
+**Note:** You may be eligible to earn Hemi points by completing tutorials. Visit our [dashboard](https://points.absinthe.network/hemi/start) for more information on active quests.
 {% endhint %}
 
 ### Wallet Setup
