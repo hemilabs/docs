@@ -17,7 +17,7 @@
     * [PoS-Only Pitfalls](foundational-topics/the-architecture/sequencer-consensus/pos-only-pitfalls.md)
     * [PoS Solutions](foundational-topics/the-architecture/sequencer-consensus/pos-solutions.md)
   * [Proof-of-Proof](foundational-topics/the-architecture/proof-of-proof/README.md)
-    * [PoP Consensus & Bitcoin Finality](foundational-topics/the-architecture/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
+    * [Proof-of-Proof Consensus & Bitcoin Finality](foundational-topics/the-architecture/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
     * [Proof-of-Proof vs. Merged Mining](foundational-topics/the-architecture/proof-of-proof/proof-of-proof.md)
     * [PoP Mining](foundational-topics/the-architecture/proof-of-proof/pop-mining.md)
   * [Tunnels](foundational-topics/the-architecture/tunneling/README.md)
