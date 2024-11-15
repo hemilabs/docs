@@ -29,7 +29,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/HXb8bFen0-I" %}
+{% embed url="https://vimeo.com/1030135231?share=copy" %}
 
 ### 1. Visit the Hemi Capsule [website](https://app.capsulelabs.xyz/)
 
