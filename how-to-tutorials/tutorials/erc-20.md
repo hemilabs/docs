@@ -25,7 +25,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/lYRPxZvrzYo" %}
+{% embed url="https://vimeo.com/1027100635?share=copy" %}
 
 ### 1. Create A Project Directory
 
