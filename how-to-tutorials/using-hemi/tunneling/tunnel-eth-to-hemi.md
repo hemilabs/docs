@@ -32,7 +32,7 @@ If you plan on developing on or interacting with Hemi testnet, alternative prere
 
 ## Video
 
-{% embed url="https://youtu.be/bOdo_iC3jHM" %}
+{% embed url="https://vimeo.com/1027101057?share=copy" %}
 
 ### 1. Visit the Hemi Portal&#x20;
 
