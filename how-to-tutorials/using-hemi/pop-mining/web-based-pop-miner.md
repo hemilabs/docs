@@ -39,7 +39,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/kO1nqwlqRvI" %}
+{% embed url="https://vimeo.com/1030131777?share=copy" %}
 
 ### **1. Access the Web Miner**
 
