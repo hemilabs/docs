@@ -25,7 +25,7 @@ description: 🟩 This is a beginner track.
 
 ## Video
 
-{% embed url="https://youtu.be/_caHuFniL48" %}
+{% embed url="https://vimeo.com/1027100865?share=copy" %}
 
 ### 1. Go to [Remix IDE](https://remix.ethereum.org/)
 
