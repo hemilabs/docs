@@ -20,7 +20,7 @@
 
 ### Video
 
-{% embed url="https://youtu.be/NHOaB6NoJQQ" %}
+{% embed url="https://vimeo.com/1027100796?share=copy" %}
 
 ### 1. Open the MetaMask Extension
 
