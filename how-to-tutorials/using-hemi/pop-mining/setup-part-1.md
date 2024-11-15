@@ -22,7 +22,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/mCsmJ5dWE7c" %}
+{% embed url="https://vimeo.com/1027100409?share=copy" %}
 
 ### 1. Binaries
 
