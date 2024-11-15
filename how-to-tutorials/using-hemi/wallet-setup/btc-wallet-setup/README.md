@@ -25,7 +25,7 @@ Click `'Add extension.'`
 
 ## Video
 
-{% embed url="https://youtu.be/l-fDEN4CSp8" %}
+{% embed url="https://vimeo.com/1027100341?share=copy" %}
 
 ### 1. Open the UniSat Chrome extension
 
