@@ -11,7 +11,7 @@
 
 ***
 
-## ⛔️ The Trouble Mith Merged Mining
+## ⛔️ The Trouble with Merged Mining
 
 * Bitcoin miners must choose to participate by running nodes for the sidechain, which can curtail decentralization.
 * This makes the sidechain more susceptible to attack, as Bitcoin miners can collude to attack the sidechain at no cost while reaping Bitcoin block rewards.
