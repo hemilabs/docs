@@ -4,7 +4,7 @@
 ## 📜 **TL;DR:**
 
 * Safe is a smart contract wallet that requires a minimum number of people to approve a transaction before it can occur (M-of-N).
-* Earn and track Hemi [Miles](https://points.absinthe.network/hemi/start) for completing this tutorial!
+* Earn and track Hemi [points](https://points.absinthe.network/hemi/start) for completing this tutorial!
 {% endhint %}
 
 ***

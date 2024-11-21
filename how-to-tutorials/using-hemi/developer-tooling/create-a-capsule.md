@@ -5,7 +5,7 @@
 
 * Capsule is an asset transfer protocol that allows anyone to batch and transfer multiple assets in a single package on Hemi.
 * Additionally, Capsule provides users and developers with advanced functionality like gasless transactions, re-routing/recalling, and configurable security.
-* Earn and track Hemi [Miles](https://points.absinthe.network/hemi/start) for completing this tutorial!
+* Earn and track Hemi [points](https://points.absinthe.network/hemi/start) for completing this tutorial!
 {% endhint %}
 
 ***
