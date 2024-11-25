@@ -1,9 +1,9 @@
-# Proof-of-Proof
+# Proof-of-Proof (PoP)
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* The **Hemi Network** utilizes Proof-of-Proof (PoP) to leverage Bitcoin's renowned security.
+* The Hemi Network utilizes **Proof-of-Proof (PoP)** to leverage Bitcoin's renowned security.
 * **PoP Miners** enhance security by publishing Hemi's network data on Bitcoin's blockchain.
 * Bitcoin confirmations further bolster Hemi's defenses, ensuring a robust and secure network.
 {% endhint %}

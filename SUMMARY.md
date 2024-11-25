@@ -16,7 +16,7 @@
   * [Sequencer Consensus](foundational-topics/the-architecture/sequencer-consensus/README.md)
     * [PoS-Only Pitfalls](foundational-topics/the-architecture/sequencer-consensus/pos-only-pitfalls.md)
     * [PoS Solutions](foundational-topics/the-architecture/sequencer-consensus/pos-solutions.md)
-  * [Proof-of-Proof](foundational-topics/the-architecture/proof-of-proof/README.md)
+  * [Proof-of-Proof (PoP)](foundational-topics/the-architecture/proof-of-proof/README.md)
     * [Proof-of-Proof Consensus & Bitcoin Finality](foundational-topics/the-architecture/proof-of-proof/pop-consensus-and-bitcoin-finality.md)
     * [Proof-of-Proof vs. Merged Mining](foundational-topics/the-architecture/proof-of-proof/proof-of-proof.md)
     * [PoP Mining](foundational-topics/the-architecture/proof-of-proof/pop-mining.md)
@@ -56,6 +56,7 @@
     * [HelloWorld.sol](how-to-tutorials/developing-on-hemi/general/using-remix-ide.md)
     * [Deploy an ERC-20 Token](how-to-tutorials/tutorials/erc-20.md)
   * [hVM & hBK](how-to-tutorials/developing-on-hemi/hvm-and-hbk/README.md)
+    * [Using the hBK Demo App](how-to-tutorials/developing-on-hemi/hvm-and-hbk/using-the-hbk-demo-app.md)
     * [Get Bitcoin Balance with Remix](how-to-tutorials/developing-on-hemi/hvm-and-hbk/using-remix-ide.md)
 
 ## ⚙️ Building Bitcoin Apps

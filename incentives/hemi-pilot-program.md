@@ -56,7 +56,7 @@ You can earn miles from all sorts of activities, from deploying smart contracts 
 6. Lieutenant
 7. Captain
 
-**🔓 **_**Captain is the rank you want to aim for!**_&#x20;
+**🔓&#x20;**_**Captain is the rank you want to aim for!**_&#x20;
 
 {% hint style="info" %}
 The tier threshold for each rank will be announced in mid-August.&#x20;
