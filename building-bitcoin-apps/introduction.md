@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* The **Hemi Virtual Machine (hVM)** and **Hemi Bitcoin Kit (hBK)** power Hemi’s Bitcoin Interoperability.
+* The **Hemi Virtual Machine (hVM)** and **Hemi Bitcoin Kit (hBK)** power Hemi’s Bitcoin interoperability.
 * **hVM** is an indexed Bitcoin full node directly accessible inside the EVM.
 * **hBK** is a smart contract library running on Hemi that utilizes hVM and makes Hemi’s Bitcoin awareness easier to use.
 * hVM’s precompile calls and hBK's functions are subject to change in future versions of the Hemi testnet.&#x20;
