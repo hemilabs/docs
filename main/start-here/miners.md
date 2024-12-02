@@ -31,6 +31,7 @@ Prepare your various wallets to start PoP mining on Hemi by setting up an EVM an
 
 * \[_Optional_] [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)(MetaMask) and [connect to Hemi](../network-details.md)
 * \[_Optional_] [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/) (UniSat)
+* \[_Optional_] Mint an OnlyMeID via [DEMOS](https://app.demos.global) on Hemi
 * Join our [Discord](https://discord.gg/hemixyz) and chat with the community
 
 ***
@@ -52,7 +53,7 @@ Congratulations 🎉 Now that you’re PoP miner is running, here are some next 
 * Join the [Hemi Pilot Program](../../incentives/hemi-pilot-program.md)
 * Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start)
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
-* Follow us on [X](https://x.com/hemi\_xyz)
+* Follow us on [X](https://x.com/hemi_xyz)
 * **Become a** [**Hemi Developer**](developers.md)
 
 ***

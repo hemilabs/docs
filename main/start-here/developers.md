@@ -48,6 +48,7 @@ Dive into the Hemi ecosystem by exploring and interacting with decentralized app
 * Visit [Crypto Chords](https://cryptochords.hemi.xyz) and see how we interact with Hemi network endpoints
 * Start PoP mining using the [CLI](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md) or [Web application](../../how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md)
 * Tunnel [ETH](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md) to Hemi
+* Mint an OnlyMeID via [DEMOS](https://app.demos.global) on Hemi
 
 ***
 
@@ -72,7 +73,7 @@ Congratulations on getting started with Hemi! 🎉 Now that you’ve set up your
 * [Create a Capsule](../../how-to-tutorials/using-hemi/developer-tooling/create-a-capsule.md) with Hemi assets
 * [Set up a Safe Wallet](../../how-to-tutorials/tutorials/set-up-a-safe-wallet.md) on Hemi
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
-* Follow us on [X](https://x.com/hemi\_xyz)
+* Follow us on [X](https://x.com/hemi_xyz)
 
 ***
 
