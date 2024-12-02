@@ -172,7 +172,7 @@ module.exports = {
   solidity: "0.8.20",
   networks: {
     hemi: {
-      url: "https://testnet.rpc.hemi.network/rpc",
+      url: "<RPC_URL>",
       chainId: 743111,
       accounts: [`0x${process.env.PRIVATE_KEY}`],
     },
