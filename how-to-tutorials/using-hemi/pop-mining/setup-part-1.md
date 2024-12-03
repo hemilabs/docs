@@ -203,7 +203,7 @@ Find your wallet address:&#x20;
 {% hint style="danger" %}
 **Best Practices for BTC Allocation**
 
-We recommend avoiding sending large amounts of Bitcoin to any program connected to the internet. To run the miner, only \~0.001 BTC is required per day. As a safety practice, consider sending enough BTC for a week or a month at a time and refilling periodically.\
+We advise against sending large amounts of Bitcoin to the private key connected to your PoP miner. To run the miner, `~0.001 BTC` is required per day. As a safety practice, consider sending only enough BTC for a week or a month at a time and refilling periodically.\
 \
 To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](setup-part-1.md#bitcoin-fee-vb "mention").
 {% endhint %}
