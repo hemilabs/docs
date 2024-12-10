@@ -39,6 +39,7 @@
 * [Using Hemi](how-to-tutorials/using-hemi/README.md)
   * [Tunneling](how-to-tutorials/using-hemi/tunneling/README.md)
     * [Tunnel ETH to Hemi](how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
+    * [Tunnel BTC to Hemi](how-to-tutorials/using-hemi/tunneling/tunnel-btc-to-hemi.md)
   * [Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/README.md)
     * [EVM Wallet Setup](how-to-tutorials/tutorials/metamask-wallet-setup.md)
     * [BTC Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/README.md)
