@@ -33,27 +33,46 @@ To follow along, you’ll need:
 
 Retrieves the current balance (in satoshis) of a specified Bitcoin address.
 
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+
+```
+// Sample output
+514853116
+```
+
+**Verifying our Output**
+
+Navigate to [https://blockstream.info](https://blockstream.info) and input the Bitcoin address to confirm the above output.
+
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 2. Get Latest Block Header
 
 Returns the latest Bitcoin block header containing metadata like hash, height, and timestamp.
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output
 {
-  "height": 0,
-  "blockHash": "0x000000000933ea01ad0ee984209779baaec3ced90fa3f408719526f8d77f4943",
-  "version": 1,
-  "previousBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "merkleRoot": "0x4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b",
-  "timestamp": 1296688602,
+  "height": 3520643,
+  "blockHash": "0x00000000002be0cd198317218f374a484bd0b3c5fe4eaf098bb5dfc97d0fb8a7",
+  "version": 536870912,
+  "previousBlockHash": "0x00000000000000019bebcf5e1d1dc6baf664c5859f82add17f5543b3018c82de",
+  "merkleRoot": "0xcc50e3a3ca39e37a7ccd5867a7f2a82192c98861f28a50d94f558305672d65de",
+  "timestamp": 1733342457,
   "bits": 486604799,
-  "nonce": 414098458
+  "nonce": 1100503385
 }
 ```
+
+**Verifying our Output**
+
+Navigate to [https://blockstream.info](https://blockstream.info) and input the Block header to confirm the above output.
+
+<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -61,11 +80,42 @@ Returns the latest Bitcoin block header containing metadata like hash, height, a
 
 Fetches the block header for a specific block height.
 
+<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+```
+// Sample output
+{
+  "height": 1321358,
+  "blockHash": "0x000000000000023bf34cd847acfcd73ad3b010f9a9434069e9bc5941cf61a1bf",
+  "version": 536870912,
+  "previousBlockHash": "0x00000000000002d213e95ae971060d49f93d51c3ce0ac84c452f76a45c962036",
+  "merkleRoot": "0xd0f34249cd9b3929b56a418ab6fe965e685f1765f2dcd605ed08a1382199e506",
+  "timestamp": 1527980035,
+  "bits": 436539705,
+  "nonce": 3252632758
+}
+```
+
+**Verifying our Output**
+
+Navigate to [https://blockstream.info](https://blockstream.info) and input the Block header height to confirm the above output.
+
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 4. Get Transaction Details
 
 Fetches the details of a Bitcoin transaction using its transaction ID, including all of its inputs and outputs.
+
+```
+// Sample output
+
+```
+
+**Verifying our Output**
+
+Navigate to [https://blockstream.info](https://blockstream.info) and input the transaction ID to confirm the above output.
 
 ***
 
@@ -73,8 +123,42 @@ Fetches the details of a Bitcoin transaction using its transaction ID, including
 
 Retrieves the number of confirmations for a specific transaction based on its transaction ID.
 
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
+```
+// Sample output
+653358
+```
+
+**Verifying our Output**
+
+Navigate to [https://blockstream.info](https://blockstream.info) and input the transaction ID to confirm the above output.
+
 ***
 
 ## 6. List Address UTXOs
 
 Returns the UTXOs (Unspent Transaction Outputs) of a Bitcoin address, with pagination support.
+
+<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+
+```
+// Sample output
+[
+  {
+    "txId": "0xbd7b64df58115ca4e9c273b0bae477de3607154412a517dc31fdf5cd9f46e048",
+    "index": "0",
+    "value": "197506250"
+  },
+  {
+    "txId": "0x452142a3dc4c9231ef8fd26674fa31ad55dfac5e880183d4b9d7452dd84e8b4f",
+    "index": "0",
+    "value": "199244750"
+  },
+  ...
+]
+```
+
+**Verifying our Output**
+
+Navigate to [https://blockstream.info](https://blockstream.info) and input the Bitcoin address to confirm the above output.
