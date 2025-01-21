@@ -3,7 +3,13 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-*
+* The [Hemi Bitcoin Kit (hBK) Demo App](https://bitcoin-kit.hemi.xyz/code-editor) enables seamless interaction with Bitcoin data in an Ethereum-compatible environment.
+* Key features include:
+  * Query [Bitcoin address balances](using-the-hbk-demo-app.md#id-1.-get-address-balance).
+  * Retrieve the [latest block header](using-the-hbk-demo-app.md#id-2.-get-latest-block-header) or specific [block headers by height](using-the-hbk-demo-app.md#id-3.-get-block-header-by-height).
+  * Fetch [Bitcoin transaction details](using-the-hbk-demo-app.md#id-4.-get-transaction-details) and [confirmation counts.](using-the-hbk-demo-app.md#id-5.-get-transaction-confirmations)
+  * [List UTXOs](using-the-hbk-demo-app.md#id-6.-list-address-utxos) (Unspent Transaction Outputs) for a Bitcoin address.
+* Developers can easily integrate Bitcoin data into dApps without external services, simplifying Bitcoin-aware application development.
 {% endhint %}
 
 ***
