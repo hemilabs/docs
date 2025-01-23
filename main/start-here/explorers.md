@@ -4,7 +4,7 @@
 ## 📜 **TL;DR:**
 
 * [Set up an EVM and BTC wallet](../../foundational-topics/wallet-support.md) and connect to Hemi Network.
-* Tunnel [ETH](../../how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md) to Hemi.
+* Tunnel [ETH](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md) to Hemi.
 * View our [Github](https://github.com/hemilabs), join our [Discord](https://discord.gg/hemixyz), and [refer a friend](https://points.absinthe.network/hemi/start)!
 {% endhint %}
 
@@ -41,7 +41,7 @@ Dive into the Hemi ecosystem by exploring and interacting with decentralized app
 
 * Visit [Crypto Chords](https://cryptochords.hemi.xyz) and the unique visualization of interactions on Hemi
 * Start PoP mining using the [CLI](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md) or [Web application](../../how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md)
-* Tunnel [ETH](../../how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md) to Hemi
+* Tunnel [ETH](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md) to Hemi
 * Mint an OnlyMeID via [DEMOS](https://app.demos.global) on Hemi
 
 ***

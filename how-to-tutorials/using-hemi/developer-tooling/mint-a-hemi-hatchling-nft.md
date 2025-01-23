@@ -18,7 +18,7 @@ noIndex: true
 ## 🏁 Prerequisites
 
 1. [MetaMask Wallet Setup](../../tutorials/metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi](../tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md)
+2. [Tunnel ETH to Hemi](../tunneling/tunnel-eth-to-hemi.md)
 
 ***
 
@@ -62,7 +62,7 @@ After connecting your wallet, you will be asked to confirm the transaction to mi
 
 Navigate to the [Hemi Explorer](https://testnet.explorer.hemi.xyz/) and type in your address. On the `Address details` page, click `NFTs` and locate the NFT and NFT ID.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

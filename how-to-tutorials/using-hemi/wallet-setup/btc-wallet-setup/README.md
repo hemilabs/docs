@@ -75,6 +75,6 @@ After you have selected your address type, click `'Continue.'`
 
 ### 5. Your UniSat wallet setup is complete! 🎉
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
