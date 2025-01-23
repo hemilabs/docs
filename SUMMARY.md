@@ -37,9 +37,10 @@
 ## 📖 How-To Tutorials
 
 * [Using Hemi](how-to-tutorials/using-hemi/README.md)
-  * [Tunneling](how-to-tutorials/using-hemi/tunneling/README.md)
-    * [Tunnel ETH to Hemi](how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
-    * [Tunnel BTC to Hemi](how-to-tutorials/using-hemi/tunneling/tunnel-btc-to-hemi.md)
+  * [Tunnel from Ethereum](how-to-tutorials/using-hemi/tunnel-from-ethereum/README.md)
+    * [Tunnel ERC20s via Native Tunnel](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md)
+  * [Tunnel from Bitcoin](how-to-tutorials/using-hemi/tunnel-from-bitcoin/README.md)
+    * [Tunnel BTC to Hemi](how-to-tutorials/using-hemi/tunnel-from-bitcoin/tunnel-btc-to-hemi.md)
   * [Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/README.md)
     * [EVM Wallet Setup](how-to-tutorials/tutorials/metamask-wallet-setup.md)
     * [BTC Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/README.md)
