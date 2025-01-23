@@ -1,6 +1,6 @@
 # Oracles
 
-## 🌐 Overview <a href="#redstone" id="redstone"></a>
+🌐 Overview
 
 Oracles play a critical role in bridging the gap between blockchain and the external world, enabling smart contracts on Hemi to access trustworthy off-chain data necessary for various use cases.&#x20;
 
@@ -20,26 +20,38 @@ Oracles operate using two primary models:
 
 ***
 
-## Pyth <a href="#redstone" id="redstone"></a>
+### Pyth <a href="#redstone" id="redstone"></a>
 
 Pyth offers push-based price feeds for Hemi.&#x20;
 
 #### **Supported Networks:**
 
-* Hemi mainnet
+* Hemi Mainnet
 * Hemi Sepolia
 
-{% embed url="https://docs.pyth.network/home" %}
+{% embed url="https://docs.pyth.network/price-feeds/contract-addresses/evm" %}
 
 ***
 
-## Redstone <a href="#redstone" id="redstone"></a>
+### Redstone <a href="#redstone" id="redstone"></a>
 
 Redstone offers push-based price feeds for Hemi.&#x20;
 
 #### Supported Networks:
 
-* Hemi mainnet
+* Hemi Mainnet
 * Hemi Sepolia
 
 {% embed url="https://docs.redstone.finance/docs/introduction" %}
+
+***
+
+### Stork <a href="#redstone" id="redstone"></a>
+
+Stork offers pull-based price feeds for Hemi.&#x20;
+
+#### Supported Networks:
+
+* Hemi Mainnet
+
+{% embed url="https://docs.stork.network/resources/contract-addresses/evm#hemi" %}
