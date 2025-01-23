@@ -38,13 +38,17 @@ Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
-### 3. Connect to your preferred EVM wallet
+### 3. Connect your EVM wallet
 
 Currently, MetaMask and Rabby are the only EVM wallets Hemi supports. Our team is working to add support for additional wallets.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -54,6 +58,8 @@ Ensure that you are connected to the Ethereum Network. If you are not connected,
 
 <figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### 5. Select asset and enter the amount to tunnel
@@ -61,6 +67,8 @@ Ensure that you are connected to the Ethereum Network. If you are not connected,
 Use the token dropdown to select the asset you wish to tunnel. After selecting the asset, input the amount of the asset you wish to move to Hemi.
 
 <figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 After you have confirmed the gas fee and wish to proceed with the deposit, click `'Deposit.'`
 
@@ -71,6 +79,8 @@ After you have confirmed the gas fee and wish to proceed with the deposit, click
 Sign and confirm your deposit transaction in your connected wallet.
 
 <figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
