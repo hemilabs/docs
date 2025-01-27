@@ -31,7 +31,7 @@ We offer something for everyone (beginner, intermediate, advanced) for both on-c
 * 🔧 **Technical Activities**: Participating in code reviews, proposing feature improvements, writing tutorials, explanations, or documentation.
 * **🎨 Creative Projects:** Entering contests (TBA), designing new Hemi Hatchlings, suggesting and improving UX (for hApps).
 * **🔗 Community Building:** Hosting in-person events or online education sessions, joining Discord, or participating in AMAs.
-* **🎉 Social Events:** Hosting and attending happy hours and meetups, hosting Twitter Spaces or online discussions with experts.
+* **🎉 Social Events:** Hosting and attending happy hours and meetups, hosting X Spaces or online discussions with experts.
 * **📝 Content Creation:** Writing articles or blogs, researching and writing about blockchain and cryptocurrency trends with Hemi, recording Hemi-related video tutorials, or hosting podcasts with Hemi.
 
 {% hint style="info" %}
@@ -44,7 +44,7 @@ We offer something for everyone (beginner, intermediate, advanced) for both on-c
 
 Ranks are cool badges you earn by collecting miles (points) and reaching specific tier thresholds.
 
-You can earn miles from all sorts of activities, from deploying smart contracts and running PoP miners to hosting Twitter Spaces or IRL events. We've got something for everyone with both on-chain and off-chain activities.&#x20;
+You can earn miles from all sorts of activities, from deploying smart contracts and running PoP miners to hosting X Spaces or IRL events. We've got something for everyone with both on-chain and off-chain activities.&#x20;
 
 **The Ranks Start with:**
 
