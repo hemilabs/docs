@@ -36,7 +36,7 @@ Confirm your network of choice via the network dropdown at the bottom left.&#x20
 
 Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
 Currently, MetaMask and Rabby are the only EVM wallets Hemi supports. Our team is working to add support for additional wallets.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -52,7 +52,7 @@ Currently, MetaMask and Rabby are the only EVM wallets Hemi supports. Our team i
 
 Ensure that you are connected to the Ethereum Network. If you are not connected, the Portal will prompt you to connect.
 
-<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (98) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
