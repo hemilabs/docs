@@ -5,7 +5,7 @@
 * [Welcome to the Hemi Docs](README.md)
 * [Getting Started](main/start-here/README.md)
   * [Developer Quickstart](main/start-here/developers.md)
-  * [Enthusiast Quickstart](main/start-here/explorers.md)
+  * [Enthusiast Quickstart](main/start-here/enthusiasts.md)
   * [Miner Quickstart](main/start-here/miners.md)
 * [Network Details](main/network-details.md)
 
