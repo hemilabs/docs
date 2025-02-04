@@ -54,7 +54,7 @@
     * [Mint a Hemi Hatchling NFT](how-to-tutorials/using-hemi/developer-tooling/mint-a-hemi-hatchling-nft.md)
   * [PoP Mining](how-to-tutorials/using-hemi/pop-mining/README.md)
     * [CLI PoP Miner](how-to-tutorials/using-hemi/pop-mining/setup-part-1.md)
-    * [\[mainnet draft\] of CLI PoP Miner](how-to-tutorials/using-hemi/pop-mining/setup-part-1-1.md)
+    * [draft pop](how-to-tutorials/using-hemi/pop-mining/draft-pop.md)
     * [Web PoP Miner](how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md)
     * [Add tHEMI to MetaMask](how-to-tutorials/using-hemi/pop-mining/add-themi-to-metamask.md)
 * [Developing on Hemi](how-to-tutorials/developing-on-hemi/README.md)

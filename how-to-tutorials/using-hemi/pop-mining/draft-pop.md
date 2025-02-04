@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# \[mainnet draft] of CLI PoP Miner
+# draft pop
 
 {% hint style="info" %}
 ### 📜 **TL;DR:**
@@ -17,7 +17,7 @@ hidden: true
 ## 🏁 Prerequisites
 
 * Basic CLI Knowledge
-* **BTC**  (See [#bitcoin-fee-vb](setup-part-1-1.md#bitcoin-fee-vb "mention") to understand how much BTC is required to PoP mine)
+* **BTC**  (See [#bitcoin-fee-vb](draft-pop.md#bitcoin-fee-vb "mention") to understand how much BTC is required to PoP mine)
 
 ***
 
@@ -210,7 +210,7 @@ Find your wallet address:&#x20;
 
 We advise against sending large amounts of Bitcoin to the private key connected to your PoP miner. To run the miner, `~0.001 BTC` is required per day. As a safety practice, consider sending only enough BTC for a week or a month at a time and refilling periodically.\
 \
-To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](setup-part-1-1.md#bitcoin-fee-vb "mention").
+To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](draft-pop.md#bitcoin-fee-vb "mention").
 {% endhint %}
 
 {% hint style="info" %}
@@ -229,7 +229,7 @@ In your console, execute the following commands while:
 2. replacing `<fee_per_vB_integer>` with the fee in sat/vB you want to pay.&#x20;
 
 {% hint style="info" %}
-Read the [**"Bitcoin fee/vB"**](setup-part-1-1.md#bitcoin-fee-vb) section below if you need help determining what value to set here.&#x20;
+Read the [**"Bitcoin fee/vB"**](draft-pop.md#bitcoin-fee-vb) section below if you need help determining what value to set here.&#x20;
 {% endhint %}
 
 {% include "../../../.gitbook/includes/read-the-bitcoin-fee-vb-s....md" %}
