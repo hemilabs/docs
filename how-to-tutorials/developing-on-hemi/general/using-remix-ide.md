@@ -116,7 +116,7 @@ Uncheck `Publish to IPFS.`Note: if you get a warning about Gas Limit, you may ig
 
 ![](../../../.gitbook/assets/8c.png)
 
-🥳 Whoooo! If successful you should see a ✅ in the console.
+🥳 Wohoooo! If successful you should see a ✅ in the console.
 
 ⚠️ If it fails, double check that the Solidity version in the compiler is the correct version.
 
