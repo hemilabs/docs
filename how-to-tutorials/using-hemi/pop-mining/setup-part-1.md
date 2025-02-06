@@ -279,7 +279,7 @@ Let us know how this process was for you via [Discord](https://discord.gg/hemixy
 
 #### **Bitcoin fee/vB**
 
-The Bitcoin transaction (normally represented in satsoshis per virtual byte or sats/vB) is a fee paid to the Bitcoin miners to include a transaction in a Bitcoin block. It varies with network congestion, typically rising during periods of high transaction volume and decreasing when there is less activity.&#x20;
+The Bitcoin transaction (normally represented in satoshis per virtual byte or sats/vB) is a fee paid to the Bitcoin miners to include a transaction in a Bitcoin block. It varies with network congestion, typically rising during periods of high transaction volume and decreasing when there is less activity.&#x20;
 
 * The PoP Miner consumes BTC to pay the Bitcoin miners to include PoP transactions in Bitcoin blocks.
 * In order to ensure PoP transactions from your PoP miner are included in Bitcoin blocks, ensure the configured fee is set to an appropriate value. The PoP miner can be configured to use a certain fee in sats/vB by changing the `POPM_STATIC_FEE` environment variable when running the PoP miner. In a future version, the PoP miner will automatically calculate the current network fee to guarantee PoP transactions are included in Bitcoin blocks.

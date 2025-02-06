@@ -21,7 +21,7 @@ The Bitcoin Tunnels allow Bitcoin assets to move between Bitcoin and Hemi by loc
 3. Hemi’s Bitcoin Tunnel verifies the successful deposit on the Bitcoin network by monitoring the UTXO table for the corresponding deposit. If the deposit is successfully verified, the system moves to the next step.
 4. Upon verification, Hemi mints representative tokens equivalent to the deposited Bitcoin assets. These tokens are sent to the user’s Hemi address.
 
-#### Withdrawal to Bitcion
+#### Withdrawal to Bitcoin
 
 1. The user on Hemi initiates a withdrawal transaction by selecting the amount of representative tokens they want to convert back to Bitcoin.
 2. These representative tokens are burned on the Hemi network, signaling the system that the user intends to withdraw the corresponding amount of Bitcoin from the custodianship vault.
@@ -33,7 +33,7 @@ The Bitcoin Tunnels allow Bitcoin assets to move between Bitcoin and Hemi by loc
 
 ***
 
-## 🔍 Comparison to Other Bitcoin Interoperabilty Solutions
+## 🔍 Comparison to Other Bitcoin Interoperability Solutions
 
 * Hemi’s Bitcoin Tunnels leverage the power of hVM (Hemi Virtual Machine) to monitor and secure Bitcoin-based asset transfers.&#x20;
 * The Bitcoin Tunnel contract uses hVM to track Bitcoin addresses and outputs tied to custodianship vaults, ensuring efficient and secure asset management.&#x20;
