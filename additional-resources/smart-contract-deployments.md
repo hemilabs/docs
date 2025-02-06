@@ -124,7 +124,7 @@ Hemi’s Bitcoin and Ethereum Tunnels improve security while decentralizing asse
 
 <summary>What is Capsule?</summary>
 
-Capsule is an asset transfer protocol that allows anyone to batch and transfer multiple assets in a single package on Hemi. Additionally, it provides users and developers with advanced functionality like gasless transactions, re-routing/recalling, and configurable security. Learn more about Capusle Labs by visiting the Capsule [site](https://capsulelabs.xyz).&#x20;
+Capsule is an asset transfer protocol that allows anyone to batch and transfer multiple assets in a single package on Hemi. Additionally, it provides users and developers with advanced functionality like gasless transactions, re-routing/recalling, and configurable security. Learn more about Capsule Labs by visiting the Capsule [site](https://capsulelabs.xyz).&#x20;
 
 </details>
 

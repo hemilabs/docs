@@ -15,7 +15,7 @@
 
 _**Overview**_
 
-The Hemi Network's sequencer consensus combines **Proof-of-Stak**e with **Proof-of-Proof** to address weak subjectivity and censorship attacks inherent in traditional PoS systems.&#x20;
+The Hemi Network's sequencer consensus combines **Proof-of-Stake** with **Proof-of-Proof** to address weak subjectivity and censorship attacks inherent in traditional PoS systems.&#x20;
 
 _This hybrid model prevents forged chains through state proofs on the Bitcoin network and allows legitimate sequencers to regain control in adversarial conditions, ensuring the network's resilience and security._
 {% endhint %}
