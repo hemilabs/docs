@@ -2,12 +2,15 @@
 hidden: true
 ---
 
-# Tunnel BTC to Hemi
+# Tunnel BTC via Native Tunnel
+
+
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Move your BTC to Hemi by using the Bitcoin Tunnel, enabling interactions within the Hemi Network ecosystem.
+* Move your BTC to Hemi by using the Bitcoin Tunnel, enabling interactions within the Hemi Network ecosystem with Bitcoin assets.
+* An [EVM](../../tutorials/metamask-wallet-setup.md) and [BTC](../wallet-setup/btc-wallet-setup/) wallet are required to move BTC assets via the Bitcoin Tunnel.
 {% endhint %}
 
 ***
@@ -21,11 +24,7 @@ hidden: true
 {% hint style="info" %}
 **TESTNET ONLY**\
 \
-If you plan on developing on or interacting with Hemi testnet, alternative prerequisites may apply:
-
-* To test out the Bitcoin Tunnel on testnet, you can obtain tBTC (Testnet Bitcoin) with any of the following options:
-  1. [**Hemi Discord Faucet**](https://discord.gg/hemixyz): Join our Discord and tap our Hemi tBTC faucet!
-  2. [**Direct Faucet Access**](https://coinfaucet.eu/en/btc-testnet/): If you prefer a no-account option, though it might be **slower**, use the Sepolia Faucet directly.
+If you plan on developing on or interacting with Hemi testnet, alternative prerequisites may apply. To test out the Bitcoin Tunnel on testnet, you can obtain tBTC (Testnet Bitcoin) via [**Direct Faucet Access**](https://coinfaucet.eu/en/btc-testnet/)**.**
 {% endhint %}
 
 ***
@@ -34,7 +33,13 @@ If you plan on developing on or interacting with Hemi testnet, alternative prere
 
 ### 1. Visit the Hemi Portal&#x20;
 
-Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunnel your BTC from Bitcoin to Hemi.
+Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to access the Hemi Portal.
+
+{% hint style="info" %}
+Select your network of choice using the network dropdown at the bottom left.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,31 +47,37 @@ Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to tunn
 
 Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
-***
-
-### 3. Connect to your preferred EVM wallet
-
-Currently, MetaMask is the only EVM wallet Hemi supports. Our team is working to add additional  support for wallets such as Rabby, Phantom, and more.
+<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 4. Connect your UniSat BTC wallet
+### 3. Connect your EVM wallet
 
-Currently, UniSat is the only BTC wallet Hemi supports.&#x20;
+Currently, MetaMask and Rabby are the only EVM wallets Hemi supports. Our team is working to add  support for additional wallets.
+
+{% hint style="info" %}
+Connecting an EVM wallet is required for the initial version of the Bitcoin Tunnel. The address connected will receive the tunneled Bitcoin assets.&#x20;
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 5. Click confirm via UniSat
+### 4. Connect your BTC wallet
+
+Connect your BTC (currently only UniSat supported) wallet. If you do not have a UniSat wallet set up, you can view our tutorial [here](../wallet-setup/btc-wallet-setup/).&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 6. Connect to the Bitcoin Network
+### 5. Connect to the Bitcoin Network
 
 Ensure that you are connected to the Bitcoin Network. If you are not connected, the Portal will prompt you to connect.
 
 ***
 
-### 7. Enter the amount of BTC to tunnel
+### 6. Enter the amount of BTC to tunnel
 
 Input the amount of BTC you wish to tunnel to Hemi.
 
@@ -74,15 +85,15 @@ After you have confirmed the gas fee and wish to proceed with the deposit, click
 
 ***
 
-### 8. Confirm the deposit in MetaMask
+### 7. Confirm the deposit in MetaMask
 
 Confirm your BTC deposit in the UniSat browser extension.
 
 ***
 
-### 9. You have successfully tunneled BTC to Hemi! 🎉
+### 8. You have successfully tunneled BTC to Hemi! 🎉
 
-Your transaction should now be complete! You can check the status and view the transaction in the `'Transaction History'` tab.
+Your transaction should now be complete! You can check the status and view the transaction in the `'Transaction History'` tab. `hemiBTC` can be tracked and added to your wallet at the following contract address:
 
 {% hint style="info" %}
 **Note**: You can also confirm your transaction was successful in the `Activity` tab of your UniSat wallet.

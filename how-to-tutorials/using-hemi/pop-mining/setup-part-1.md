@@ -27,7 +27,7 @@
 
 [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source). Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
 
 The package you will need to download depends on your OS and architecture:
 

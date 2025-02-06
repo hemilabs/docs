@@ -23,22 +23,24 @@
 
 ### 🌐 Season 2: Mainnet + Token Generation Event (TGE) <a href="#pdf-page-jfwnwievmil2x2lghizb-season-2-mainnet-token-generation-event-tge" id="pdf-page-jfwnwievmil2x2lghizb-season-2-mainnet-token-generation-event-tge"></a>
 
-**🎯 Goal**: To amplify network activity and economic contributions on the mainnet during the critical period following the TGE.
+**🎯 Goal**: To amplify network activity and ecosystem growth on the mainnet during the critical period following the TGE.
 
 #### **Incentive Structure** <a href="#pdf-page-jfwnwievmil2x2lghizb-incentive-structure-1" id="pdf-page-jfwnwievmil2x2lghizb-incentive-structure-1"></a>
 
 * 🔗 **On-chain Engagement**: Intensive rewards for activities that demonstrate substantial economic value, such as **Total Value Locked (TVL)** and transaction volume.
+  * Drive substantial TVL growth through strategic protocol integrations.
+  * Establish sustainable transaction volume via supported LSTs/LRTs on Hemi.
+  * Create network effects through interconnected DeFi activities.
 * 💬 **Off-chain Participation**: Incentives for community engagement and activities that boost the ecosystem’s visibility.
 
 #### **Rewards Focus** <a href="#pdf-page-jfwnwievmil2x2lghizb-rewards-focus-1" id="pdf-page-jfwnwievmil2x2lghizb-rewards-focus-1"></a>
 
-* **Economic Contributions and Ecosystem Growth**: Enhancing the network activity and user base expansion.
-* **Developer Engagement and Support**: Hosting events like hackathons and educational programs to nurture developer interaction.
+* **Economic Contributions**: Maximize network activity through strategic liquidity provision and trading.
+* **Ecosystem Growth**: Onboard protocols to enhance the network activity targeting user base expansion.
 
 #### **Strategic Initiatives** <a href="#pdf-page-jfwnwievmil2x2lghizb-strategic-initiatives-1" id="pdf-page-jfwnwievmil2x2lghizb-strategic-initiatives-1"></a>
 
-* **Push for Hemi-native Ecosystem**: Promoting the development and integration of native applications.
-* **Special Events**: Organizing Learn & Earn initiatives to engage the community actively.
+* **Push for Hemi-native Ecosystem**: Promoting the development and integration of native applications though Hemi grants program.
 * **Support for Strategic Projects**: Providing tailored support to projects that significantly contribute to network growth.
 * **Community-Driven Activities**: Encouraging the community to participate in governance and decision-making processes.
 
@@ -64,4 +66,4 @@
 * **New Inflationary $HEMI for Security**: Introducing new $HEMI tokens specifically allocated to enhance network security and operational robustness.
 * **Governance Transition**: Phasing out direct grant applications and transitioning to a decentralized governance model (DeGov) to manage future grants and investments.
 
-> _**Note:** Points awarded by the Hemi Network are intended to encourage user activities that are beneficial to the network. Points have no intrinsic value. The exchange or conversion of points to rewards, if any, will be undertaken at the sole discretion of Hemi._
+> _**Note:** Points awarded by the Hemi Network are intended to encourage user activities that are beneficial to the network. Points are awarded solely to incentivize beneficial network activities and carry no monetary value, or financial rights. The exchange or conversion of points to rewards, if any, will be undertaken at the sole discretion of Hemi._

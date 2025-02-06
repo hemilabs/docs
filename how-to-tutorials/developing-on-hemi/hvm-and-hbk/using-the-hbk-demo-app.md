@@ -1,20 +1,22 @@
----
-hidden: true
----
-
 # Using the hBK Demo App
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-*
+* The [Hemi Bitcoin Kit (hBK) Demo App](https://bitcoin-kit.hemi.xyz/code-editor) enables seamless interaction with Bitcoin data in an Ethereum-compatible environment.
+* Key features include:
+  * Query [Bitcoin address balances](using-the-hbk-demo-app.md#id-1.-get-address-balance).
+  * Retrieve the [latest block header](using-the-hbk-demo-app.md#id-2.-get-latest-block-header) or specific [block headers by height](using-the-hbk-demo-app.md#id-3.-get-block-header-by-height).
+  * Fetch [Bitcoin transaction details](using-the-hbk-demo-app.md#id-4.-get-transaction-details) and [confirmation counts.](using-the-hbk-demo-app.md#id-5.-get-transaction-confirmations)
+  * [List UTXOs](using-the-hbk-demo-app.md#id-6.-list-address-utxos) (Unspent Transaction Outputs) for a Bitcoin address.
+* Developers can easily integrate Bitcoin data into dApps without external services, simplifying Bitcoin-aware application development.
 {% endhint %}
 
 ***
 
 ## 🌐 Overview
 
-* The Hemi Bitcoin Kit (hBK) Demo App is a tool designed for developers to interact with Bitcoin blockchain data directly from an Ethereum-compatible environment.&#x20;
+* The [Hemi Bitcoin Kit (hBK) Demo App](https://bitcoin-kit.hemi.xyz/code-editor) is a tool designed for developers to interact with Bitcoin blockchain data directly from an Ethereum-compatible environment.&#x20;
 * This demo app provides a user-friendly interface for querying Bitcoin information.
 * By abstracting the complexities of interacting with Bitcoin data, the app allows developers to seamlessly retrieve and use Bitcoin blockchain data in their dApps without needing external services.&#x20;
 * This makes it an effective resource for experimenting with Bitcoin-aware applications and understanding hBK’s capabilities within the Hemi ecosystem.
@@ -108,9 +110,34 @@ Navigate to [https://blockstream.info](https://blockstream.info) and input the B
 
 Fetches the details of a Bitcoin transaction using its transaction ID, including all of its inputs and outputs.
 
+<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+
 ```
 // Sample output
 
+{
+  "containingBlockHash": "0x00000000280425e8f1f2170230b3946bf4bf058d5ef9677a3f361d2fbead994f",
+  "transactionVersion": "2",
+  "size": "116",
+  "vSize": "116",
+  "lockTime": "0",
+  "inputs": [
+    {
+      "inValue": "4834",
+      "inputTxId": "0xe7b262c5ead12343f1c5734b65848fbe19362907fafcd9d07c999c9aa2ec79f0",
+      "sourceIndex": "11689",
+      "scriptSig": "0x",
+      "sequence": "2",
+      "fullScriptSigLength": "0",
+      "containsFullScriptSig": false
+    }
+  ],
+  "outputs": [],
+  "totalInputs": "1",
+  "totalOutputs": "0",
+  "containsAllInputs": true,
+  "containsAllOutputs": true
+}
 ```
 
 **Verifying our Output**
