@@ -23,5 +23,5 @@ If you think you have found a significant bug or vulnerability in any Hemi smart
 HackerOne hosts Hemi's dedicated [Bug Bounty program](https://hackerone.com/hemi_labs_vdp). Contact [HackerOne](https://hackerone.com/hemi_labs_vdp) to get involved and learn more about the information relating to components in scope, reporting, and the payout process.
 
 {% hint style="info" %}
-For all other securities concerns, please contact [security@hemi.xyz](mailto:security@hemi.xyz) or report directly on the [Hemi Labs GitHub](https://github.com/hemilabs/).
+For other security-related questions or concerns, please contact [security@hemi.xyz](mailto:security@hemi.xyz).
 {% endhint %}
