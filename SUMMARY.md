@@ -38,7 +38,7 @@
 
 * [Using Hemi](how-to-tutorials/using-hemi/README.md)
   * [Tunnel from Ethereum](how-to-tutorials/using-hemi/tunnel-from-ethereum/README.md)
-    * [Tunnel ERC20s via Native Tunnel](how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
+    * [Tunnel ERC20s via Native Tunnel](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md)
     * [Tunnel ERC20s via 3rd Party](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-3rd-party/README.md)
       * [Tunnel via Stargate](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-3rd-party/tunnel-via-stargate.md)
   * [Tunnel from Bitcoin](how-to-tutorials/using-hemi/tunnel-from-bitcoin/README.md)
@@ -102,5 +102,5 @@
 
 ## 📨 Send Feedback
 
+* [Bug Bounty](send-feedback/bug-bounty.md)
 * [Contact Us](send-feedback/contact-us.md)
-* [Report a Bug](send-feedback/report-a-bug.md)
