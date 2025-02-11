@@ -30,8 +30,9 @@
   * [Blocks](foundational-topics/the-architecture/blocks.md)
   * [Transactions](foundational-topics/the-architecture/transactions.md)
   * [Gas](foundational-topics/the-architecture/gas.md)
-  * [Nodes & Clients](foundational-topics/the-architecture/nodes-and-clients.md)
   * [Staking](foundational-topics/the-architecture/staking.md)
+* [Nodes & Clients](foundational-topics/nodes-and-clients/README.md)
+  * [Node Guides](foundational-topics/nodes-and-clients/node-guides.md)
 * [Wallet Support](foundational-topics/wallet-support.md)
 
 ## 📖 How-To Tutorials
