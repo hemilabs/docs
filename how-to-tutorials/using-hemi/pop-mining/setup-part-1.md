@@ -1,7 +1,7 @@
 # CLI PoP Miner
 
 {% hint style="info" %}
-### 📜 **TL;DR:**
+#### 📜 **TL;DR:**
 
 * This guide provides straightforward steps to download, set up, and run your PoP Miner, either by downloading **pre-built binaries** or by **building from source**.
 * Ensure you have your development environment ready and follow the steps below to start PoP mining.
@@ -41,14 +41,14 @@ The package you will need to download depends on your OS and architecture:
 
 ### 2. Extract the files
 
-After downloading the necessary files, you must extract them from their compressed format before you can use or access the software. On most operating systems, you can right-click on the downloaded archive and choose "Extract" or similar.&#x20;
+After downloading the necessary files, you must extract them from their compressed format before you can use or access the software. On most operating systems, you can right-click on the downloaded archive and choose "Extract" or similar.
 
 {% hint style="info" %}
-**Linux/macOS tip**:&#x20;
+**Linux/macOS tip**:
 
 You can also use the command `tar xvf heminetwork_v`0.5.0`_linux_amd64.tar.gz`\
 \
-Run the  `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub. \
+Run the `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub.\
 \
 Depending on the output:\
 "**x86\_64**" => Choose the "**amd64**" package corresponding to your OS\
@@ -67,8 +67,6 @@ Launch your CLI:
 * Press `⊞ Win` + `R` together to open the "Run Program Or File" Window
 * Type "cmd" and press `Enter`
 
-
-
 **For macOS:**
 
 * Press `⌘` + `Space` together to open Spotlight Search
@@ -78,7 +76,7 @@ Launch your CLI:
 **For Linux:**
 
 * Depends on OS. On Ubuntu (Gnome): `Ctrl` + `Alt` + `T`
-* For most other distros, you can press `Super` (Windows Key) and search for Terminal.&#x20;
+* For most other distros, you can press `Super` (Windows Key) and search for Terminal.
 {% endhint %}
 
 Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t) and then drag the path of the extracted folder into your CLI, or type the path in manually and then press `Enter`.
@@ -96,13 +94,11 @@ List the files:
 {% hint style="info" %}
 **For Windows:**
 
-* `dir`  (and press `Enter`) Type "cmd" and press `Enter`
-
-
+* `dir` (and press `Enter`) Type "cmd" and press `Enter`
 
 **For macOS:**
 
-* `ls`  (and press `Enter`)
+* `ls` (and press `Enter`)
 {% endhint %}
 
 Your output should be:
@@ -124,7 +120,7 @@ Your output should be:
 
 To ensure you downloaded the correct binaries and are able to run them, execute the command below:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to first remove the quarantine by running the following command in your Terminal:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./popmd</code></mark><br><br><strong>Run</strong></p><p><code>./popmd --help</code></p></td><td></td></tr><tr><td><strong>Windows</strong></td><td><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt (CMD), not PowerShell (which is the default terminal in environments like Visual Studio Code).</mark></td><td><p></p><p><strong>Run</strong></p><p><code>popmd.exe --help</code></p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to first remove the quarantine by running the following command in your Terminal:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./popmd</code></mark><br><br><strong>Run</strong></p><p><code>./popmd --help</code></p></td><td></td></tr><tr><td><strong>Windows</strong></td><td><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt (CMD), not PowerShell (which is the default terminal in environments like Visual Studio Code).</mark></td><td><p><strong>Run</strong></p><p><code>popmd.exe --help</code></p></td></tr></tbody></table>
 
 This will display the help menu for `popmd`, indicating that it's installed and operational.
 
@@ -156,7 +152,7 @@ Environment:
 {% endhint %}
 
 {% hint style="info" %}
-**Note:** The `net`  flag in the **./keygen** command will default to "mainnet". If you are running a PoP miner in testnet, you must change to the command to "testnet".
+**Note:** The `net` flag in the **./keygen** command will default to "mainnet". If you are running a PoP miner in testnet, you must change to the command to "testnet".
 {% endhint %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p><strong>Run the following command:</strong></p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json -net="mainnet" > ~/popm-address.json
@@ -168,7 +164,7 @@ Environment:
 
 ### 6b. Open the JSON
 
-If you chose to generate a new private key in Step 6a, open your JSON to view your file contents.&#x20;
+If you chose to generate a new private key in Step 6a, open your JSON to view your file contents.
 
 {% hint style="info" %}
 **On Windows:** See the above instructions for how to open the file in Notepad.
@@ -194,9 +190,9 @@ You should see a result like:
 
 ### 7. Fund your address
 
-Find your wallet address:&#x20;
+Find your wallet address:
 
-* **New Address:** If you generated a new public key in Step 6a, check the JSON file from Step 6b for your `pubkey_hash`.&#x20;
+* **New Address:** If you generated a new public key in Step 6a, check the JSON file from Step 6b for your `pubkey_hash`.
 * **Existing BTC Address:** If you are importing a private key from an existing BTC address, [change your wallet type](https://docs.unisat.io/unisat-services/unisat-wallet/unisat-wallet-address-type) to P2PKH (Legacy) and locate the pubkey hash.
 * **Existing EVM Address:** If you are importing a private key from an existing EVM address, [import your private key into UniSat](../wallet-setup/btc-wallet-setup/) and select P2PKH (Legacy) as your wallet type.
 
@@ -211,7 +207,7 @@ To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](setup
 {% hint style="info" %}
 **Testnet Mining**
 
-You can get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/).&#x20;
+You can get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/).
 {% endhint %}
 
 ***
@@ -221,10 +217,10 @@ You can get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testn
 In your console, execute the following commands while:
 
 1. replacing `<private_key>` with either the value from your JSON file in Step 5 **OR** your preexisting EVM/BTC private key,
-2. replacing `<fee_per_vB_integer>` with the fee in sat/vB you want to pay.&#x20;
+2. replacing `<fee_per_vB_integer>` with the fee in sat/vB you want to pay.
 
 {% hint style="info" %}
-Read the [**"Bitcoin fee/vB"**](setup-part-1.md#bitcoin-fee-vb) section below if you need help determining what value to set here.&#x20;
+Read the [**"Bitcoin fee/vB"**](setup-part-1.md#bitcoin-fee-vb) section below if you need help determining what value to set here.
 {% endhint %}
 
 {% include "../../../.gitbook/includes/read-the-bitcoin-fee-vb-s....md" %}
@@ -279,17 +275,17 @@ Let us know how this process was for you via [Discord](https://discord.gg/hemixy
 
 #### **Bitcoin fee/vB**
 
-The Bitcoin transaction (normally represented in satoshis per virtual byte or sats/vB) is a fee paid to the Bitcoin miners to include a transaction in a Bitcoin block. It varies with network congestion, typically rising during periods of high transaction volume and decreasing when there is less activity.&#x20;
+The Bitcoin transaction (normally represented in satoshis per virtual byte or sats/vB) is a fee paid to the Bitcoin miners to include a transaction in a Bitcoin block. It varies with network congestion, typically rising during periods of high transaction volume and decreasing when there is less activity.
 
 * The PoP Miner consumes BTC to pay the Bitcoin miners to include PoP transactions in Bitcoin blocks.
 * In order to ensure PoP transactions from your PoP miner are included in Bitcoin blocks, ensure the configured fee is set to an appropriate value. The PoP miner can be configured to use a certain fee in sats/vB by changing the `POPM_STATIC_FEE` environment variable when running the PoP miner. In a future version, the PoP miner will automatically calculate the current network fee to guarantee PoP transactions are included in Bitcoin blocks.
 * The lower you set the fee, the less BTC you will pay per PoP transaction. If your fees are too low, Bitcoin miners may not include your transaction quickly enough for you to successfully PoP mine.
 
-**Beginner and intermediate users:**&#x20;
+**Beginner and intermediate users:**
 
 * We recommend setting the `POPM_STATIC_FEE` environment variable to `50` (50 sats/vB) to ensure PoP transactions are included in Bitcoin blocks.
 
-**Advanced users:**&#x20;
+**Advanced users:**
 
 * Check Current Fee Levels: Visit [mempool.space](https://mempool.space/testnet) to see the current fee levels. Look at the "sat/vB" numbers for the different transaction fee priorities. It is recommended to set the value to the "High Priority" value or slightly higher.
 * Set the Static Fee: Re-run the command to set the `POPM_STATIC_FEE` environment variable from above (`export` on Linux/macOS, `set` on Windows) each time you want to change the fee, and restart the PoP Miner afterwards.

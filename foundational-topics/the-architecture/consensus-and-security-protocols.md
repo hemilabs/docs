@@ -1,26 +1,24 @@
 # Consensus and Security Protocols
 
 {% hint style="info" %}
-## 📜 **TL;DR:**
+### 📜 **TL;DR:**
 
 * Incorporates Bitcoin's security to prevent attacks, with PoP Miners embedding consensus data on the Bitcoin blockchain.
 * **Rewards PoP Miners** in native tokens for strengthening consensus.
-* **Utilizes Bitcoin confirmations** to ensure network integrity, achieving "Bitcoin Finality" for robust defense against reorganizations.&#x20;
+* **Utilizes Bitcoin confirmations** to ensure network integrity, achieving "Bitcoin Finality" for robust defense against reorganizations.
 {% endhint %}
 
 ***
 
 {% hint style="success" %}
-## 👀 Sneak Peek WIP
+### 👀 Sneak Peek WIP
 
 _**Overview**_
 
-The Hemi Network's sequencer consensus combines **Proof-of-Stake** with **Proof-of-Proof** to address weak subjectivity and censorship attacks inherent in traditional PoS systems.&#x20;
+The Hemi Network's sequencer consensus combines **Proof-of-Stake** with **Proof-of-Proof** to address weak subjectivity and censorship attacks inherent in traditional PoS systems.
 
 _This hybrid model prevents forged chains through state proofs on the Bitcoin network and allows legitimate sequencers to regain control in adversarial conditions, ensuring the network's resilience and security._
 {% endhint %}
-
-
 
 ***
 

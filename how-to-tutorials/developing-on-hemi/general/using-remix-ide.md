@@ -5,7 +5,7 @@ description: 🟩 This is a beginner track.
 # HelloWorld.sol
 
 {% hint style="info" %}
-## 📜 **TL;DR:**
+### 📜 **TL;DR:**
 
 * In this tutorial, we will utilize [Remix IDE](https://remix.ethereum.org/), a versatile, open-source web-based platform, to develop and deploy our smart contract onto Hemi testnet.
 * This guide is tested to work with Solidity version **0.8.26.** If you experience any issues, try setting this version explicitly in the Solidity Compiler tab on Remix.
@@ -68,10 +68,10 @@ Select `Compile HelloWorld.sol` button to use the Remix IDE's Solidity compiler.
 
 ***
 
-### 4. Connect Remix To MetaMask&#x20;
+### 4. Connect Remix To MetaMask
 
 {% hint style="warning" %}
-The address you choose to connect **MUST** have some ETH (recommended at least 0.01 ETH) to pay for contract deployment fees. Refer back to earlier documentation to [fund your Hemi address](../../using-hemi/tunneling/tunnel-eth-to-hemi.md) with ETH.&#x20;
+The address you choose to connect **MUST** have some ETH (recommended at least 0.01 ETH) to pay for contract deployment fees. Refer back to earlier documentation to [fund your Hemi address](../../using-hemi/tunneling/tunnel-eth-to-hemi.md) with ETH.
 {% endhint %}
 
 Choose `Injected Provider - MetaMask` under "Environment".
@@ -105,7 +105,7 @@ Choose `Injected Provider - MetaMask` under "Environment".
 Execute the deployment of your smart contract to the Hemi network directly from Remix IDE.
 
 {% hint style="warning" %}
-Uncheck `Publish to IPFS.`Note: if you get a warning about Gas Limit, you may ignore it and proceed.&#x20;
+Uncheck `Publish to IPFS.`Note: if you get a warning about Gas Limit, you may ignore it and proceed.
 {% endhint %}
 
 * Select `Deploy`

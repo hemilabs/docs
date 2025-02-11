@@ -232,8 +232,6 @@ In your console, execute the following commands while:
 Read the [**"Bitcoin fee/vB"**](draft-pop.md#bitcoin-fee-vb) section below if you need help determining what value to set here.&#x20;
 {% endhint %}
 
-{% include "../../../.gitbook/includes/read-the-bitcoin-fee-vb-s....md" %}
-
 **Linux & macOS**
 
 ```

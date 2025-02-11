@@ -13,6 +13,9 @@
 
 * [The Architecture](foundational-topics/the-architecture/README.md)
   * [Consensus and Security Protocols](foundational-topics/the-architecture/consensus-and-security-protocols.md)
+  * [Ethereum Rollups](foundational-topics/the-architecture/ethereum-rollups/README.md)
+    * [Pros & Cons](foundational-topics/the-architecture/ethereum-rollups/pros-and-cons.md)
+    * [Decentralized Rollups](foundational-topics/the-architecture/ethereum-rollups/decentralized-rollups.md)
   * [Sequencer Consensus](foundational-topics/the-architecture/sequencer-consensus/README.md)
     * [PoS-Only Pitfalls](foundational-topics/the-architecture/sequencer-consensus/pos-only-pitfalls.md)
     * [PoS Solutions](foundational-topics/the-architecture/sequencer-consensus/pos-solutions.md)
@@ -29,9 +32,6 @@
   * [Gas](foundational-topics/the-architecture/gas.md)
   * [Nodes & Clients](foundational-topics/the-architecture/nodes-and-clients.md)
   * [Staking](foundational-topics/the-architecture/staking.md)
-* [Ethereum Rollups](foundational-topics/ethereum-rollups/README.md)
-  * [Pros & Cons](foundational-topics/ethereum-rollups/pros-and-cons.md)
-  * [Decentralized Rollups](foundational-topics/ethereum-rollups/decentralized-rollups.md)
 * [Wallet Support](foundational-topics/wallet-support.md)
 
 ## 📖 How-To Tutorials
