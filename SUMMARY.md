@@ -103,5 +103,5 @@
 
 ## 📨 Send Feedback
 
-* [Bug Bounty](send-feedback/bug-bounty.md)
+* [Bug Report](send-feedback/bug-bounty.md)
 * [Contact Us](send-feedback/contact-us.md)
