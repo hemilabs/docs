@@ -28,7 +28,7 @@
 <mark style="color:orange;">**👉**</mark>[ <mark style="color:orange;">**It’s simple: Help create proofs and get tokens.**</mark>](pop-mining.md#run-a-pop-miner)&#x20;
 
 * Each new Hemi block receives a Bitcoin confirmation, making reorganization increasingly unlikely until the block reaches finality.
-* Bitcoin requires about 60 minutes to reach finality; **Hemi takes nine Bitcoin blocks (about 90 minutes)** to reach finality and **achieves** [**Superfinality** (_WIP_)](broken-reference) in just **two hours.**
+* Bitcoin requires about 60 minutes to reach finality; **Hemi takes nine Bitcoin blocks (about 90 minutes)** to reach finality and **achieves** [**Superfinality**](../consensus-and-security-protocols.md) (_WIP_) in just **two hours.**
 
 Thus, in the Proof-of-Proof protocol, unlike with merged mining, Bitcoin miners needn’t be active to benefit; they can’t collude to attack the chain, and superfinality comes fast.
 

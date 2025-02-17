@@ -38,7 +38,7 @@ Prepare your development environment to start building on Hemi by setting up the
 
 * [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)and [connect to the Hemi Network.](../network-details.md)
 * [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/).
-* Join our [Discord](https://discord.gg/hemixyz), access Hemi testnet faucets, and collaborate with the community.
+* Join our [Discord](https://discord.gg/hemixyz) and collaborate with the community.
 
 ***
 
@@ -47,7 +47,7 @@ Prepare your development environment to start building on Hemi by setting up the
 Dive into the Hemi ecosystem by exploring and interacting with decentralized applications (dApps) built on the network. This hands-on approach helps you understand Hemi’s functionality and how dApps operate within the blockchain environment.
 
 * Visit [Crypto Chords](https://cryptochords.hemi.xyz) and see how we interact with Hemi Network endpoints.
-* Start PoP mining using the [CLI](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md) or [Web application](../../how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md).
+* Start PoP mining using the [CLI](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md).
 * [Tunnel ETH and other ERC20s](../../how-to-tutorials/using-hemi/tunnel-from-ethereum/) to Hemi.
 * [Tunnel BTC](../../how-to-tutorials/using-hemi/tunnel-from-bitcoin/) to Hemi.
 * Mint an OnlyMeID via [DEMOS](https://app.demos.global) on Hemi.
