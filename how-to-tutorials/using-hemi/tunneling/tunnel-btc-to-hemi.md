@@ -4,8 +4,6 @@ hidden: true
 
 # Tunnel BTC via Native Tunnel
 
-
-
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
@@ -73,7 +71,9 @@ Connect your BTC (currently only UniSat supported) wallet. If you do not have a 
 
 ### 5. Connect to the Bitcoin Network
 
-Ensure that you are connected to the Bitcoin Network. If you are not connected, the Portal will prompt you to connect.
+Ensure that you are connected to the Bitcoin Network. If you are not connected, the portal will prompt you to connect.
+
+
 
 ***
 
