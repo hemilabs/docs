@@ -22,7 +22,7 @@
   * **Bitcoin Finality Governors**: Ensures transactions achieve finality on the Bitcoin blockchain.
   * **Bitcoin-Secure Sequencers**: Orders transactions in a secure manner, leveraging Bitcoin's security.
   * **Proof-of-Proof Miners:** Validates transactions across blockchains without requiring the entire blockchain data.
-  * **Challengers**: Monitors and verifies the correctness of transactions and state proofs.
   * **Modified Geth Node:** Manages Ethereum transactions and block headers in a way tailored for Hemi’s bridging protocols.
+  * **Challengers**: Monitors and verifies the correctness of transactions and state proofs (Note: running a Challenger node will be enabled in the near future).
 * This segmentation of responsibilities across different node types significantly enhances the Hemi Network's fault tolerance. By isolating specific functions to particular node types, the network ensures that issues within one node type do not compromise the entire network's operations, thereby improving the system's overall reliability.
 * This architecture allows user clients to interact seamlessly with both the Bitcoin and Ethereum networks without the complexity of managing diverse node functions.
