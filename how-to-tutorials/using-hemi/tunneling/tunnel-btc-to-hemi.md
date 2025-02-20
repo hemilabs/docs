@@ -9,6 +9,7 @@ hidden: true
 
 * Move your BTC to Hemi by using the Bitcoin Tunnel, enabling interactions within the Hemi Network ecosystem with Bitcoin assets.
 * An [EVM](../../tutorials/metamask-wallet-setup.md) and [BTC](../wallet-setup/btc-wallet-setup/) wallet are required to move BTC assets via the Bitcoin Tunnel.
+* There is a `0.0001 BTC` minimum deposit requirement.
 {% endhint %}
 
 ***
@@ -16,7 +17,7 @@ hidden: true
 ## 🏁 Prerequisites
 
 * **Acquire BTC** - BTC can be purchased on any number of exchanges and on-ramps.&#x20;
-* [**EVM (MetaMask) Wallet Setup**](../../tutorials/metamask-wallet-setup.md) **-** Set up your EVM wallet and add the Hemi Network.
+* [**EVM (MetaMask) Wallet Setup**](../../tutorials/metamask-wallet-setup.md) **-** Set up your EVM wallet and add Hemi Network.
 * [**BTC Wallet Setup**](../wallet-setup/btc-wallet-setup/) **-** Set up your BTC wallet.
 
 {% hint style="info" %}
@@ -34,7 +35,7 @@ If you plan on developing on or interacting with Hemi testnet, alternative prere
 Go to [https://app.hemi.xyz/en/tunnel/](https://app.hemi.xyz/en/tunnel/) to access the Hemi Portal.
 
 {% hint style="info" %}
-Select your network of choice using the network dropdown at the bottom left.
+Select your network of choice using the network dropdown located at the bottom left.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
@@ -57,23 +58,27 @@ Currently, MetaMask and Rabby are the only EVM wallets Hemi supports. Our team i
 Connecting an EVM wallet is required for the initial version of the Bitcoin Tunnel. The address connected will receive the tunneled Bitcoin assets.&#x20;
 {% endhint %}
 
+
+
 <figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 4. Connect your BTC wallet
 
-Connect your BTC (currently only UniSat supported) wallet. If you do not have a UniSat wallet set up, you can view our tutorial [here](../wallet-setup/btc-wallet-setup/).&#x20;
+Connect your BTC wallet (currently only UniSat supported). If you do not have a UniSat wallet, you can view our [tutorial](../wallet-setup/btc-wallet-setup/) to create and set one up.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-19 at 12.27.22 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 5. Connect to the Bitcoin Network
+### 5. Select 'Bitcoin' as the FROM network
 
-Ensure that you are connected to the Bitcoin Network. If you are not connected, the portal will prompt you to connect.
+Ensure that you are connected to the Bitcoin Network.&#x20;
 
-
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-19 at 12.29.01.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -81,21 +86,37 @@ Ensure that you are connected to the Bitcoin Network. If you are not connected, 
 
 Input the amount of BTC you wish to tunnel to Hemi.
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-20 at 11.25.33.png" alt=""><figcaption></figcaption></figure>
+
 After you have confirmed the gas fee and wish to proceed with the deposit, click `'Deposit.'`
 
 ***
 
-### 7. Confirm the deposit in MetaMask
+### 7. Confirm the deposit in UniSat
 
 Confirm your BTC deposit in the UniSat browser extension.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-02-20 at 11.27.04.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 8. You have successfully tunneled BTC to Hemi! 🎉
 
-Your transaction should now be complete! You can check the status and view the transaction in the `'Transaction History'` tab. `hemiBTC` can be tracked and added to your wallet at the following contract address:
+Your transaction has been initiated and must go through two confirmation periods:
 
-{% hint style="info" %}
-**Note**: You can also confirm your transaction was successful in the `Activity` tab of your UniSat wallet.
+1. Withdrawal from BTC address (\~1hr) - When you initiate a deposit request, a transaction is signed from your BTC address to transfer the specified amount into a secure vault on the Bitcoin network. This deposit requires six block confirmations, which generally takes about one hour to complete.
+2. Deposit into EVM Hemi address - Once the deposit is fully confirmed on the Bitcoin network, the Hemi Network validates the transaction and mints a corresponding token receipt (`hemiBTC`) on the Hemi blockchain, ensuring a seamless transition of assets.
+
+You can check the status and view the transaction in the `'Transaction History'` tab.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+`hemiBTC` can be tracked and added to your wallet at the following contract address: **`0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28`**
 {% endhint %}
 
+#### Manual confirmation of deposit
+
+After six confirmations, Hemi can confirm a successful deposit from the Bitcoin network and deposit the funds to your address. Occasionally, the vault operator will require a manual confirmation in order to complete the deposit.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
