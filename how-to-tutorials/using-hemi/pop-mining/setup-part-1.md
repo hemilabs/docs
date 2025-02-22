@@ -46,7 +46,7 @@ After downloading the necessary files, you must extract them from their compress
 {% hint style="info" %}
 **Linux/macOS tip**:
 
-You can also use the command `tar xvf heminetwork_v`0.5.0`_linux_amd64.tar.gz`\
+You can also use the command `tar xvf heminetwork_v0.5.0_linux_amd64.tar.gz`\
 \
 Run the `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub.\
 \
@@ -83,7 +83,7 @@ Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t
 
 * For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:\
   \
-  `cd '/home/user/Downloads/heminetwork_v`0.5.0`_linux_amd64'`
+  `cd '/home/user/Downloads/heminetwork_v0.5.0_linux_amd64'`
 
 ***
 
