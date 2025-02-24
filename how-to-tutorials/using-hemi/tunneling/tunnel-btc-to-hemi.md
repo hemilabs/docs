@@ -76,7 +76,7 @@ Connect your BTC wallet (currently only UniSat supported). If you do not have a 
 
 ### 5. Select 'Bitcoin' as the FROM network
 
-Ensure that you are connected to the Bitcoin Network.&#x20;
+Ensure that you are connected to the Bitcoin network.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-02-19 at 12.29.01.png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +102,7 @@ Confirm your BTC deposit in the UniSat browser extension.
 
 ### 8. You have successfully tunneled BTC to Hemi! 🎉
 
-Your transaction has been initiated and must go through two confirmation periods:
+Your transaction has been initiated and must go through two confirmation periods to confirm your deposit:
 
 1. Withdrawal from BTC address (\~1hr) - When you initiate a deposit request, a transaction is signed from your BTC address to transfer the specified amount into a secure vault on the Bitcoin network. This deposit requires six block confirmations, which generally takes about one hour to complete.
 2. Deposit into EVM Hemi address - Once the deposit is fully confirmed on the Bitcoin network, the Hemi Network validates the transaction and mints a corresponding token receipt (`hemiBTC`) on the Hemi blockchain, ensuring a seamless transition of assets.
