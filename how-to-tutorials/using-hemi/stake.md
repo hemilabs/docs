@@ -15,7 +15,7 @@ hidden: true
 
 ## 🌐 Overview
 
-**Hemi Stake** provides a seamless way for users to earn rewards by locking up assets within the Hemi ecosystem. Unlike traditional Proof-of-Stake (PoS) mechanisms, staking on Hemi does **not** involve securing the network or slashing risks. Instead, it enables users to **deposit assets into specialized reward contracts** to participate in yield opportunities across partner protocols.
+[**Hemi Stake**](https://app.hemi.xyz/stake) provides a seamless way for users to earn rewards by locking up assets within the Hemi ecosystem. Unlike traditional Proof-of-Stake (PoS) mechanisms, staking on Hemi does **not** involve securing the network or slashing risks. Instead, it enables users to **deposit assets into specialized reward contracts** to participate in yield opportunities across partner protocols.
 
 #### Key Benefits:
 
