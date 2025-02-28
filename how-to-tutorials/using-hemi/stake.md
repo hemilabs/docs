@@ -30,9 +30,9 @@ hidden: true
 
 Hemi’s staking contracts function differently from PoS staking by offering a **reward-based deposit model**:
 
-* **Users deposit assets** into smart contracts designed for staking rewards.
-* **Rewards accumulate** over time, distributed by Hemi and integrated partners.
-* **No lock-up requirements** – Users can unstake at any time.
+* Users deposit assets into smart contracts designed for staking rewards.
+* Rewards accumulate over time, distributed by Hemi and integrated partners.
+* No lock-up requirements – Users can unstake at any time.
 
 ***
 
