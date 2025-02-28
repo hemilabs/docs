@@ -1,11 +1,11 @@
-# Staking
+# Proof-of-Stake (PoS)
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
+* Pure Proof-of-Stake networks rely on social consensus to prevent censorship by majority stakers and long-range attacks using old **PoS keys (weak-subjectivity attacks).**
 * **Staking** is the risking of an asset in return for the chance to construct a block.
 * A user who acts maliciously will have his stake **slashed** (reduced) as punishment for attacking the network.
-* Pure Proof-of-Stake networks rely on social consensus to prevent censorship by majority stakers and long-range attacks using old **PoS keys (weak-subjectivity attacks).**
 * **The Hemi Network** uses a hybrid staking system that incorporates network state proofs published to the Bitcoin network, preventing both censorship attacks and weak-subjectivity attacks.
 {% endhint %}
 

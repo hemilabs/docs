@@ -17,6 +17,7 @@
     * [Pros & Cons](foundational-topics/the-architecture/ethereum-rollups/pros-and-cons.md)
     * [Decentralized Rollups](foundational-topics/the-architecture/ethereum-rollups/decentralized-rollups.md)
   * [Sequencer Consensus](foundational-topics/the-architecture/sequencer-consensus/README.md)
+    * [Proof-of-Stake (PoS)](foundational-topics/the-architecture/sequencer-consensus/staking.md)
     * [PoS-Only Pitfalls](foundational-topics/the-architecture/sequencer-consensus/pos-only-pitfalls.md)
     * [PoS Solutions](foundational-topics/the-architecture/sequencer-consensus/pos-solutions.md)
   * [Proof-of-Proof (PoP)](foundational-topics/the-architecture/proof-of-proof/README.md)
@@ -30,7 +31,6 @@
   * [Blocks](foundational-topics/the-architecture/blocks.md)
   * [Transactions](foundational-topics/the-architecture/transactions.md)
   * [Gas](foundational-topics/the-architecture/gas.md)
-  * [Staking](foundational-topics/the-architecture/staking.md)
 * [Nodes & Clients](foundational-topics/nodes-and-clients/README.md)
   * [Node Guides](foundational-topics/nodes-and-clients/node-guides.md)
 * [Wallet Support](foundational-topics/wallet-support.md)
@@ -38,6 +38,7 @@
 ## 📖 How-To Tutorials
 
 * [Using Hemi](how-to-tutorials/using-hemi/README.md)
+  * [Stake](how-to-tutorials/using-hemi/stake.md)
   * [Tunnel from Ethereum](how-to-tutorials/using-hemi/tunnel-from-ethereum/README.md)
     * [Tunnel ERC20s via Native Tunnel](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md)
     * [Tunnel ERC20s via 3rd Party](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-3rd-party/README.md)
