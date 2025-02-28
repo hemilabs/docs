@@ -46,11 +46,7 @@ Hemi’s staking program supports a variety of assets across Bitcoin, Ethereum, 
 
 #### **Ethereum Assets:**
 
-<table><thead><tr><th width="185">Asset</th><th width="184">Provider</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>WETH</code></strong></td><td>Wrapped ETH</td><td>Wrapped ETH token.</td></tr><tr><td><strong><code>rsETH</code></strong></td><td>Kelp</td><td>Ethereum staking derivative.</td></tr></tbody></table>
-
-#### **Stablecoins:**
-
-<table><thead><tr><th width="190">Asset</th><th width="182">Provider</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>VUSD</code></strong></td><td>Hemi</td><td>USD-pegged stablecoin from Hemi.</td></tr><tr><td><strong><code>USDT</code></strong></td><td>Tether</td><td>Tether's stablecoin.</td></tr><tr><td><strong><code>USDC</code></strong></td><td>Circle</td><td>Circle's stablecoin.</td></tr><tr><td><strong><code>DAI</code></strong></td><td>MakerDAO</td><td>MakerDAO's stablecoin.</td></tr></tbody></table>
+<table><thead><tr><th width="185">Asset</th><th width="184">Provider</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>WETH</code></strong></td><td>Wrapped ETH</td><td>Wrapped ETH token.</td></tr><tr><td><strong><code>rsETH</code></strong></td><td>Kelp</td><td>Ethereum staking derivative.</td></tr><tr><td><strong><code>VUSD</code></strong></td><td>Hemi</td><td>USD-pegged stablecoin from Hemi.</td></tr><tr><td><strong><code>USDT</code></strong></td><td>Tether</td><td>Tether's stablecoin.</td></tr><tr><td><strong><code>USDC</code></strong></td><td>Circle</td><td>Circle's stablecoin.</td></tr><tr><td><strong><code>DAI</code></strong></td><td>MakerDAO</td><td>MakerDAO's stablecoin.</td></tr></tbody></table>
 
 ***
 
