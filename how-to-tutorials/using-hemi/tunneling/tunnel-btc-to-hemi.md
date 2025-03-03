@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Tunnel BTC via Native Tunnel
 
 {% hint style="info" %}
