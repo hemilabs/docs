@@ -9,7 +9,7 @@ hidden: true
 
 * Move your BTC to Hemi by using the Bitcoin Tunnel, enabling interactions within the Hemi Network ecosystem with Bitcoin assets.
 * An [EVM](../../tutorials/metamask-wallet-setup.md) and [BTC](../wallet-setup/btc-wallet-setup/) wallet are required to move BTC assets via the Bitcoin Tunnel.
-* There is a `0.0001 BTC` minimum deposit requirement.
+* A minimum of `0.0001 BTC` is required to deposit and withdrawal using the Native Tunnel.
 {% endhint %}
 
 ***
@@ -23,7 +23,7 @@ hidden: true
 {% hint style="info" %}
 **TESTNET ONLY**\
 \
-If you plan on developing on or interacting with Hemi testnet, alternative prerequisites may apply. To test out the Bitcoin Tunnel on testnet, you can obtain tBTC (Testnet Bitcoin) via [**Direct Faucet Access**](https://coinfaucet.eu/en/btc-testnet/)**.**
+If you plan on developing on or interacting with Hemi testnet, alternative prerequisites may apply. To test out the Bitcoin Tunnel on testnet, you can obtain tBTC (Testnet Bitcoin) via the [**Direct Faucet Access**](https://coinfaucet.eu/en/btc-testnet/)**.**
 {% endhint %}
 
 ***
@@ -74,19 +74,25 @@ Connect your BTC wallet (currently only UniSat supported). If you do not have a 
 
 ***
 
-### 5. Select 'Bitcoin' as the FROM network
+### 5. Select 'Bitcoin' as the 'From Network'
 
 Ensure that you are connected to the Bitcoin network.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-02-19 at 12.29.01.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**Tunneled BTC will be sent to the EVM address connected** (denoted by the '`Receiving Hemi Address`' at the bottom of the screen). In future versions, you will be able to manually input the preferred receiving address.
+{% endhint %}
+
 ***
 
 ### 6. Enter the amount of BTC to tunnel
 
-Input the amount of BTC you wish to tunnel to Hemi.
+Input the amount of BTC you wish to tunnel to Hemi. There is a minimum amount of `0.0001 BTC` to deposit and withdrawal. &#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-02-20 at 11.25.33.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 After you have confirmed the gas fee and wish to proceed with the deposit, click `'Deposit.'`
 
@@ -109,7 +115,7 @@ Your transaction has been initiated and must go through two confirmation periods
 
 You can check the status and view the transaction in the `'Transaction History'` tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 `hemiBTC` can be tracked and added to your wallet at the following contract address: **`0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28`**
@@ -119,4 +125,4 @@ You can check the status and view the transaction in the `'Transaction History'`
 
 After six confirmations, Hemi can confirm a successful deposit from the Bitcoin network and deposit the funds to your address. Occasionally, the vault operator will require a manual confirmation in order to complete the deposit.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
