@@ -25,16 +25,4 @@ Hemi’s native Tunnel supports tunneling BTC, however, some assets (e.g., pumpB
 
 Below is a list of third-party bridges you can use to transfer BTC assets to Hemi. Each bridge has its own UI, fees, and specific token support.&#x20;
 
-### Free.tech
-
-[https://free.tech](https://free.tech/)
-
-Supported Assets:&#x20;
-
-***
-
-### Meson
-
-[https://meson.fi/swap](https://meson.fi/swap)
-
-Supported Assets:&#x20;
+<table><thead><tr><th>Bridge</th><th>Website</th><th data-hidden></th></tr></thead><tbody><tr><td>Free.tech</td><td><a href="https://free.tech/">https://free.tech</a></td><td></td></tr><tr><td>Meson</td><td><a href="https://meson.fi/swap">https://meson.fi/swap</a></td><td></td></tr></tbody></table>
