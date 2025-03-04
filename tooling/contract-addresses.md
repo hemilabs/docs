@@ -8,26 +8,6 @@
 
 ***
 
-## Mainnet
-
-### L1 Hemi Contracts
-
-Core Hemi contracts deployed on **Ethereum Mainnet**.
-
-<table><thead><tr><th width="289">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>AddressManager</code></td><td></td></tr><tr><td><code>L1CrossDomainMessengerProxy</code></td><td></td></tr><tr><td><code>L2OutputOracleProxy</code></td><td></td></tr><tr><td><code>OptimismPortalProxy</code></td><td></td></tr><tr><td><code>ProtocolVersionsProxy</code></td><td></td></tr><tr><td><code>DisputeGameFactoryProxy</code></td><td></td></tr><tr><td><code>L1StandardBridgeProxy</code></td><td></td></tr><tr><td><code>OptimismMintableERC20FactoryProxy</code></td><td></td></tr><tr><td><code>ProxyAdmin</code></td><td></td></tr><tr><td><code>L1StandardBridgeProxy</code></td><td></td></tr><tr><td><code>L1ERC721BridgeProxy</code></td><td></td></tr><tr><td><code>SystemConfigProxy</code></td><td></td></tr></tbody></table>
-
-***
-
-### L2 Hemi Contracts
-
-Core Hemi contracts deployed on **Hemi Mainnet**.
-
-<table><thead><tr><th width="301">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>L2ToL1MessagePasser</code></td><td></td></tr><tr><td><code>L2CrossDomainMessenger</code></td><td></td></tr><tr><td><code>L2StandardBridge</code></td><td></td></tr><tr><td><code>L2ERC721Bridge</code></td><td></td></tr><tr><td><code>SequencerFeeVault</code></td><td></td></tr><tr><td><code>OptimismMintableERC20Factory</code></td><td></td></tr><tr><td><code>OptimismMintableERC721Factory</code></td><td></td></tr><tr><td><code>L1Block</code></td><td></td></tr><tr><td><code>GasPriceOracle</code></td><td></td></tr><tr><td><code>ProxyAdmin</code></td><td></td></tr><tr><td><code>BaseFeeVault</code></td><td></td></tr><tr><td><code>L1FeeVault</code></td><td></td></tr><tr><td><code>GovernanceToken</code></td><td></td></tr><tr><td><code>SchemaRegistry</code></td><td></td></tr><tr><td><code>EAS</code></td><td></td></tr></tbody></table>
-
-***
-
-## Testnet
-
 ## Hemi Mainnet
 
 ### L1 Hemi Contracts
