@@ -1,4 +1,4 @@
-# Switch Bitcoin Network
+# Switch Bitcoin Networks
 
 {% hint style="info" %}
 ## 📜 **TL;DR:**

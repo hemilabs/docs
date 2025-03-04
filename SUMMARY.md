@@ -41,7 +41,7 @@
   * [Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/README.md)
     * [EVM Wallet Setup](how-to-tutorials/tutorials/metamask-wallet-setup.md)
     * [BTC Wallet Setup](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/README.md)
-      * [Switch Bitcoin Networks](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/switch-bitcoin-networks.md)
+      * [Switch Bitcoin Networks](how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/switch-bitcoin-network.md)
   * [Tunnel from Ethereum](how-to-tutorials/using-hemi/tunnel-from-ethereum/README.md)
     * [Tunnel ERC20s via Native Tunnel](how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md)
     * [Tunnel ERC20s via 3rd Party](how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-3rd-party/README.md)

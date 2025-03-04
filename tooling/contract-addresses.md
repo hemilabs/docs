@@ -28,6 +28,46 @@ Core Hemi contracts deployed on **Hemi Mainnet**.
 
 ## Testnet
 
+## Hemi Mainnet
+
+### L1 Hemi Contracts
+
+Core Hemi contracts deployed on **Ethereum Mainnet**.
+
+<table><thead><tr><th width="324">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>AddressManager</code></td><td><code>0xA5F37791378c55941a52B4dCb70Be4D8D09f5e43</code></td></tr><tr><td><code>AnchorStateRegistryProxy</code></td><td><code>0xF44007EAF2faFdD8bA8d3551F23CD2b879F54677</code></td></tr><tr><td><code>DelayedWETHProxy</code></td><td><code>0xc5627348Dbc9179cFb5a24C8199635770Ea575A3</code></td></tr><tr><td><code>DisputeGameFactoryProxy</code></td><td><code>0x5442d0ddB33B396879D2d016A9ad09ad122562C3</code></td></tr><tr><td><code>L1CrossDomainMessengerProxy</code></td><td><code>0xF005dFb08377faD44588Af68d0884D272A6fb050</code></td></tr><tr><td><code>L1ERC721BridgeProxy</code></td><td><code>0xa446331bD28cbe0186A983a27C528f566B6bedE0</code></td></tr><tr><td><code>L1StandardBridgeProxy</code></td><td><code>0x5eaa10F99e7e6D177eF9F74E519E319aa49f191e</code></td></tr><tr><td><code>L2OutputOracleProxy</code></td><td><code>0x6daF3a3497D8abdFE12915aDD9829f83A79C0d51</code></td></tr><tr><td><code>Mips</code></td><td><code>0x42Ff661af011939f699D67bd021d237eBcBA9c2A</code></td></tr><tr><td><code>OptimismMintableERC20FactoryProxy</code></td><td><code>0x0262fEDC4A98f94dDB90CeF0E058644d8409342C</code></td></tr><tr><td><code>OptimismPortalProxy</code></td><td><code>0x39a0005415256B9863aFE2d55Edcf75ECc3A4D7e</code></td></tr><tr><td><code>OptimismPortal2</code></td><td><code>0x04dcfE50e43823A1D8f6e3Fbb8af10BfB7Ebb634</code></td></tr><tr><td><code>PreimageOracle</code></td><td><code>0x613F36BE58Ba712B37474F4B82484D680D24ed20</code></td></tr><tr><td><code>ProtocolVersionsProxy</code></td><td><code>0x13Cb1B6e69Ec8fF6a5C8823d1e8dc78CCCf3Ce48</code></td></tr><tr><td><code>ProxyAdmin</code></td><td><code>0xbE81A9D662422f667F634f3Fc301e2E360FeFB30</code></td></tr><tr><td><code>SafeProxyFactory</code></td><td><code>0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2</code></td></tr><tr><td><code>SafeSingleton</code></td><td><code>0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552</code></td></tr><tr><td><code>SuperchainConfigProxy</code></td><td><code>0x15144FB8621cB3c4ED3DB223c173ffb58C8D2aB8</code></td></tr><tr><td><code>SystemConfigProxy</code></td><td><code>0x5ae68684D9179A8053883f1Df599Ea7Fb35303c3</code></td></tr><tr><td><code>SystemOwnerSafe</code></td><td><code>0x8434dc705e4B729405Dd66C94DfC62bc3825Ea69</code></td></tr></tbody></table>
+
+***
+
+### L2 Hemi Contracts
+
+Core Hemi contracts deployed on **Hemi**.
+
+<table><thead><tr><th width="285">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>WETH9</code> </td><td><a href="https://explorer.hemi.xyz/token/0x4200000000000000000000000000000000000006"><code>0x4200000000000000000000000000000000000006</code></a></td></tr><tr><td><code>OptimismMintableERC20Factory</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000012"><code>0x4200000000000000000000000000000000000012</code></a></td></tr><tr><td><code>OptimismMintableERC721Factory</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000017"><code>0x4200000000000000000000000000000000000017</code></a></td></tr><tr><td><code>L2StandardBridge</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000010"><code>0x4200000000000000000000000000000000000010</code></a></td></tr><tr><td><code>L2ERC721Bridge</code></td><td><code>0x4200000000000000000000000000000000000014</code></td></tr></tbody></table>
+
+***
+
+### Utilities Contracts
+
+Commonly used utility contracts deployed on **Hemi**.
+
+<table><thead><tr><th width="247">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>BitcoinKit v0</code></td><td>TBD</td></tr></tbody></table>
+
+***
+
+### hVM Precompiles
+
+For hVM precompile contract addresses, visit the [hVM Feature Summary](../building-bitcoin-apps/hemi-virtual-machine-hvm/feature-summary.md).
+
+***
+
+### Token Contracts
+
+For a list of all token contract addresses deployed on **Hemi,** visit [`hemilabs/token-list`](https://github.com/hemilabs/token-list/blob/master/src/hemi.tokenlist.json) .
+
+***
+
+## Hemi Sepolia
+
 ### L1 Hemi Contracts
 
 Core Hemi contracts deployed on **Sepolia**.
