@@ -25,8 +25,4 @@ Hemi’s native Tunnel supports a range of popular ERC-20 tokens. However, some 
 
 Below is a list of third-party bridges you can use to transfer assets to Hemi. Each bridge has its own UI, fees, and specific token support.&#x20;
 
-### Stargate
-
-[https://stargate.finance/bridge](https://stargate.finance/bridge)
-
-Supported Assets: USDC, USDT, ETH
+<table><thead><tr><th width="245">Bridge</th><th>Link</th></tr></thead><tbody><tr><td>Stargate</td><td><a href="https://stargate.finance/bridge">https://stargate.finance/bridge</a></td></tr><tr><td>Eigenpie</td><td><a href="https://www.eigenlayer.magpiexyz.io/bridge">https://www.eigenlayer.magpiexyz.io/bridge</a></td></tr></tbody></table>

@@ -25,4 +25,4 @@ Hemi’s native Tunnel supports tunneling BTC, however, some assets (e.g., pumpB
 
 Below is a list of third-party bridges you can use to transfer BTC assets to Hemi. Each bridge has its own UI, fees, and specific token support.&#x20;
 
-<table><thead><tr><th>Bridge</th><th>Website</th><th data-hidden></th></tr></thead><tbody><tr><td>Free.tech</td><td><a href="https://free.tech/">https://free.tech</a></td><td></td></tr><tr><td>Meson</td><td><a href="https://meson.fi/swap">https://meson.fi/swap</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="256">Bridge</th><th>Link</th><th data-hidden></th></tr></thead><tbody><tr><td>Free.tech</td><td><a href="https://free.tech/">https://free.tech</a></td><td></td></tr><tr><td>Meson</td><td><a href="https://meson.fi/swap">https://meson.fi/swap</a></td><td></td></tr><tr><td>Magpie</td><td><a href="https://www.babylon.magpiexyz.io/bridge">https://www.babylon.magpiexyz.io/bridge</a></td><td></td></tr></tbody></table>
