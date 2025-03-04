@@ -21,7 +21,7 @@
 ## 🏁 Prerequisites
 
 1. [MetaMask Wallet Setup](../../tutorials/metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi ](../tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md)(or other Hemi assets)
+2. [Tunnel ETH to Hemi ](../tunneling/tunnel-eth-to-hemi.md)(or other Hemi assets)
 
 ***
 

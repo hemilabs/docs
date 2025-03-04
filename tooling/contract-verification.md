@@ -102,23 +102,23 @@ module.exports = {
   solidity: "0.8.20",
   networks: {
     hemi: {
-      url: "https://testnet.rpc.hemi.network/rpc",
-      chainId: 743111,
+      url: "https://rpc.hemi.network/rpc",
+      chainId: 43111,
       accounts: [`0x${process.env.PRIVATE_KEY}`],
     },
   },
   etherscan: {
     apiKey: {
       // Is not required by blockscout. Can be any non-empty string
-      'hemi-sepolia': "abc"
+      'hemi-mainnet': "abc"
     },
     customChains: [
       {
-        network: "hemi-sepolia",
-        chainId: 743111,
+        network: "hemi-mainnet",
+        chainId: 43111,
         urls: {
-          apiURL: "https://testnet.explorer.hemi.xyz/api",
-          browserURL: "https://testnet.explorer.hemi.xyz",
+          apiURL: "https://explorer.hemi.xyz/api",
+          browserURL: "https://explorer.hemi.xyz",
         }
       }
     ]

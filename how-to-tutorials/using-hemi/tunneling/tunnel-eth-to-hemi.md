@@ -34,7 +34,7 @@ Confirm your network of choice via the network dropdown at the bottom left.&#x20
 
 ### 2. Connect wallet
 
-Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
+Click `'Connect Wallets'`  in the top-right corner of the Hemi Portal.
 
 <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 

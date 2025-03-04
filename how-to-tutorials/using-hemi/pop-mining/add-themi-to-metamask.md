@@ -15,7 +15,7 @@
 
 tHEMI is the testnet governance token for the Hemi Network. Initially, tHEMI tokens are used for payouts to PoP miners to acknowledge their contribution to the network's security and functionality.
 
-Looking ahead, **tHEMI will play a broader role in rewarding other network participants**, including **Sequencers**, **Publishers**, and **Challengers**, who contribute to the network's resilience and growth. tHEMI is set to become the preferred gas token on the network, offering fee discounts and enhancing user transaction efficiency.
+Looking ahead, **tHEMI will play a broader role in rewarding other network participants**, including Sequencers, Publishers, and Challengers, who contribute to the network's resilience and growth. tHEMI is set to become the preferred gas token on the network, offering fee discounts and enhancing user transaction efficiency.
 
 ***
 

@@ -17,7 +17,7 @@
 1. Download [VSCode ](https://code.visualstudio.com/download)(or any other IDE)
 2. Install [Node.js](https://nodejs.org/en/download/) or update it to [current version](https://blog.hubspot.com/website/update-node-js)
 3. [MetaMask Wallet Setup](metamask-wallet-setup.md)
-4. [Tunnel ETH to Hemi](../using-hemi/tunnel-from-ethereum/tunnel-erc20s-via-native-tunnel.md)
+4. [Tunnel ETH to Hemi](../using-hemi/tunneling/tunnel-eth-to-hemi.md)
 
 ***
 
@@ -111,7 +111,11 @@ npx hardhat compile
 
 ### 8. Secure Your Private Key for Deployment
 
-a) Export your Private Key from MetaMask:
+{% hint style="danger" %}
+Your private key provides access to your wallet and your funds. **Never share your private key with anyone.** Ensure this file is never shared or committed to version control.
+{% endhint %}
+
+a) Export your private key from MetaMask:
 
 * Open MetaMask, select your account icon, and go to `Account Details`
 
@@ -146,10 +150,6 @@ e) Add your private key to the `.env` file.
 PRIVATE_KEY=your_exported_private_key
 ```
 
-{% hint style="danger" %}
-Ensure this file is never shared or committed to version control.
-{% endhint %}
-
 ***
 
 ### 9. Configure Hardhat for the Testnet
@@ -172,8 +172,8 @@ module.exports = {
   solidity: "0.8.20",
   networks: {
     hemi: {
-      url: "<RPC_URL>",
-      chainId: 743111,
+      url: "https://rpc.hemi.network/rpc",
+      chainId: 43111,
       accounts: [`0x${process.env.PRIVATE_KEY}`],
     },
   }
