@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Tunnel via Stargate
 
 {% hint style="info" %}
