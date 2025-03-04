@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Tunnel ERC20s via 3rd Party
 
 {% hint style="info" %}
