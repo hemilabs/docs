@@ -55,3 +55,15 @@ Stork offers pull-based price feeds for Hemi.&#x20;
 * Hemi Mainnet
 
 {% embed url="https://docs.stork.network/resources/contract-addresses/evm#hemi" %}
+
+***
+
+### eOracle <a href="#redstone" id="redstone"></a>
+
+eOracle offers pull-based price feeds for Hemi.&#x20;
+
+#### Supported Networks:
+
+* Hemi Mainnet
+
+{% embed url="https://docs.eo.app/docs/eprice/feed-addresses/hemi" %}
