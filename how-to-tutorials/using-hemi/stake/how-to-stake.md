@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Stake
 
 {% hint style="info" %}
