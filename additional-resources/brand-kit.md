@@ -16,15 +16,7 @@ The Hemi Logo is comprised of the Hemi Symbol and the Hemi Wordmark.&#x20;
 
 The Symbol may be used independently of the Wordmark, but the Symbol must always accompany the Wordmark.&#x20;
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Hemi Logo_042224-01.svg" alt=""><figcaption><p>.svg</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Hemi_Symbol.png" alt=""><figcaption><p>.png</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Hemi Logo_042224-01.svg" alt=""><figcaption><p>.svg</p></figcaption></figure> <figure><img src="../.gitbook/assets/Hemi_Symbol.png" alt=""><figcaption><p>.png</p></figcaption></figure></div>
 
 ***
 
@@ -55,6 +47,12 @@ On Hemi Orange or colored backgrounds, use either the fully white or full black 
 {% file src="../.gitbook/assets/Hemi_Logo_white.png" %}
 
 {% file src="../.gitbook/assets/Hemi_Logo_white.svg" %}
+
+#### Token logos
+
+{% file src="../.gitbook/assets/hemiBTC.svg" %}
+
+{% file src="../.gitbook/assets/hemiBTC.png" %}
 
 ***
 

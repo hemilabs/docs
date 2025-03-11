@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Stake
 
 {% hint style="info" %}
