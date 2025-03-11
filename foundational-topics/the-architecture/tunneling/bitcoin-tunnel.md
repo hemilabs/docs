@@ -18,8 +18,8 @@ The Bitcoin Tunnels allow Bitcoin assets to move between Bitcoin and Hemi by loc
 
 1. Users generate a deposit transaction by sending Bitcoin (or Bitcoin-native assets) to the selected custodianship vault’s Bitcoin address, managed by the multisig.
 2. Once sent, the Bitcoin assets are locked in the custodianship vault.
-3. Hemi’s Bitcoin Tunnel verifies the successful deposit on the Bitcoin network by monitoring the UTXO table for the corresponding deposit. If the deposit is successfully verified, the system moves to the next step.
-4. Upon verification, Hemi mints representative tokens equivalent to the deposited Bitcoin assets. These tokens are sent to the user’s Hemi address.
+3. Hemi’s Bitcoin Tunnel verifies the successful deposit on the Bitcoin network by monitoring the UTXO table for the corresponding deposit. If the deposit is successfully verified, the system moves to the next step.&#x20;
+4. Upon verification, Hemi mints representative tokens equivalent to the deposited Bitcoin assets. These tokens are sent to the user’s Hemi address. Hemi mints the representative tokens after 6 Bitcoin confirmations, or approximately **one hour.**
 
 #### Withdrawal to Bitcoin
 
@@ -28,7 +28,7 @@ The Bitcoin Tunnels allow Bitcoin assets to move between Bitcoin and Hemi by loc
 3. Hemi’s Bitcoin Tunnel updates the rollup state root with the details of the withdrawal transaction. This state root is submitted to Bitcoin by a Publisher to ensure that the withdrawal is accurately recorded.
 4. Hemi’s Bitcoin Tunnel verifies the correct burning of tokens and prepares the custodianship system for withdrawal.
 5. The custodianship vault is notified of the withdrawal request. In the case of a multisig vault, the required number of signatures is collected to authorize the withdrawal.
-6. Once verified, the custodianship vault releases the corresponding Bitcoin or Bitcoin-native assets to the user’s Bitcoin address.
+6. Once verified, the custodianship vault releases the corresponding Bitcoin or Bitcoin-native assets to the user’s Bitcoin address. It may take up to **12 hours** to verify and release withdrawn BTC.
 7. The hVM system constantly monitors for any unauthorized withdrawals. In Phase 0, this requires an externally owned account (EOA) to flag any potential issues. In later phases, event notifications will allow automatic detection of unauthorized actions. If any misbehavior is detected during the withdrawal process, the responsible custodian is slashed on Hemi, and corrective measures are taken to prevent unauthorized fund transfers.
 
 ***
