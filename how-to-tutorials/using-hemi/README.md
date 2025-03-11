@@ -14,7 +14,7 @@ Follow along with some of the tutorials to help you get a head start when buildi
 
 ### Tunneling
 
-<table><thead><tr><th width="217">Tutorial</th><th width="384">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="tunneling/tunnel-eth-to-hemi.md">Tunnel ETH to Hemi</a></td><td>Learn how to <a href="../../foundational-topics/the-architecture/tunneling/">tunnel</a> (bridge) your ETH assets to and from Hemi.</td><td>🟢 Easy</td></tr></tbody></table>
+<table><thead><tr><th width="217">Tutorial</th><th width="384">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="tunneling/tunnel-eth-to-hemi.md">Tunnel ETH to Hemi</a></td><td>Learn how to <a href="../../foundational-topics/the-architecture/tunneling/">tunnel</a> (bridge) your ETH assets to and from Hemi.</td><td>🟢 Easy</td></tr><tr><td><a href="tunnel-from-bitcoin/">Tunnel BTC to Hemi</a></td><td>Learn how to <a href="../../foundational-topics/the-architecture/tunneling/">tunnel</a> (bridge) your BTC assets to and from Hemi.</td><td>🟢 Easy</td></tr><tr><td><a href="stake/">Stake on Hemi</a></td><td>Learn about <a href="stake/">staking</a> on Hemi.</td><td>🟢 Easy</td></tr></tbody></table>
 
 ***
 

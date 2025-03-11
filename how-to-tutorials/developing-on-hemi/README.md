@@ -16,4 +16,4 @@ Follow along with some of the tutorials to help you get a head start when buildi
 
 ### hVM & hBK
 
-<table><thead><tr><th width="194">Tutorial</th><th width="397">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="hvm-and-hbk/using-remix-ide.md">Get Bitcoin Balance with Remix</a></td><td>Deploy a small contract in<a href="https://remix.ethereum.org"> Remix IDE</a> with a single method which calls the Bitcoin Balance precompile and returns the balance.</td><td>🟢 Easy</td></tr></tbody></table>
+<table><thead><tr><th width="194">Tutorial</th><th width="397">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="hvm-and-hbk/using-the-hbk-demo-app.md">Use the hBK Demo App</a></td><td>Learn about the <a href="hvm-and-hbk/">Hemi Bitcoin Kit</a> and interact with our precompiles.</td><td>🟢 Easy</td></tr><tr><td><a href="hvm-and-hbk/using-remix-ide.md">Get Bitcoin Balance with Remix</a></td><td>Deploy a small contract in<a href="https://remix.ethereum.org"> Remix IDE</a> with a single method which calls the Bitcoin Balance precompile and returns the balance.</td><td>🟢 Easy</td></tr></tbody></table>
