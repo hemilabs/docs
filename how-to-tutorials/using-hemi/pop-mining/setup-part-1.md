@@ -27,15 +27,15 @@
 
 [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source). Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
 
-<figure><img src="../../../.gitbook/assets/heminetwork-releases-v0.11.5.png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/release-v1.0.0.png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
 
 The package you will need to download depends on your OS and architecture:
 
-* **Windows (Intel/AMD CPU):** heminetwork\_v0.11.5\_windows\_amd64.zip
-* **Mac (Intel CPU):** heminetwork\_v0.11.5\_darwin\_amd64.tar.gz
-* **Mac (Apple Silicon "M" CPU):** heminetwork\_v0.11.5\_darwin\_arm64.tar.gz
-* **Linux (Intel/AMD CPU):** heminetwork\_v0.11.5\_linux\_amd64.tar.gz
-* **Linux (ARM CPU):** heminetwork\_v0.11.5\_linux\_arm64.tar.gz
+* **Windows (Intel/AMD CPU):** heminetwork\_v1.0.0\_windows\_amd64.zip
+* **Mac (Intel CPU):** heminetwork\_v1.0.0\_darwin\_amd64.tar.gz
+* **Mac (Apple Silicon "M" CPU):** heminetwork\_v1.0.0\_darwin\_arm64.tar.gz
+* **Linux (Intel/AMD CPU):** heminetwork\_v1.0.0\_linux\_amd64.tar.gz
+* **Linux (ARM CPU):** heminetwork\_v1.0.0\_linux\_arm64.tar.gz
 
 ***
 
@@ -46,7 +46,7 @@ After downloading the necessary files, you must extract them from their compress
 {% hint style="info" %}
 **Linux/macOS tip**:
 
-You can also use the command `tar xvf heminetwork_v0.11.5_linux_amd64.tar.gz`\
+You can also use the command `tar xvf heminetwork_v1.0.0_linux_amd64.tar.gz`\
 \
 Run the `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub.\
 \
@@ -83,7 +83,7 @@ Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t
 
 * For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:\
   \
-  `cd '/home/<user>/Downloads/heminetwork_v0.11.5_linux_amd64'`
+  `cd '/home/<user>/Downloads/heminetwork_v1.0.0_linux_amd64'`
 
 ***
 
@@ -125,13 +125,13 @@ To ensure you downloaded the correct binaries and are able to run them, execute 
 This will display the help menu for `popmd`, indicating that it's installed and operational.
 
 ```none
-Hemi Proof-of-Proof Miner v0.11.5 (popmd, go1.23.3 linux/amd64)
+Hemi Proof-of-Proof Miner v1.0.0+20630a55c (Hemi Labs, popmd, go1.23.7 linux/amd64)
 Usage:
 	help (this help)
 Environment:
 	POPM_BFG_REQUEST_TIMEOUT: request timeout for BFG (Bitcoin Finality Governor) (default: 15s)
 	POPM_BFG_URL            : url for BFG (Bitcoin Finality Governor) (default: http://localhost:8383/v1/ws/public)
-	POPM_BTC_CHAIN_NAME     : the name of the bitcoin chain to connect to (ex. "mainnet", "testnet3") (default: testnet3)
+	POPM_BTC_CHAIN_NAME     : the name of the bitcoin chain to connect to (ex. "mainnet", "testnet3") (default: mainnet)
 	POPM_BTC_PRIVKEY        : bitcoin private key (required) 
 	POPM_LOG_LEVEL          : loglevel for various packages; INFO, DEBUG and TRACE (default: popmd=INFO;popm=INFO)
 	POPM_PPROF_ADDRESS      : address and port popm pprof listens on (open <address>/debug/pprof to see available profiles) 
@@ -141,7 +141,7 @@ Environment:
 ```
 
 {% hint style="info" %}
-**Note:** You must specify "mainnet" in the `POPM_BTC_CHAIN_NAME` to PoP mine on the Hemi mainnet network.
+**Note:** Starting with v1.0.0, the PoP miner defaults to mainnet. If you want to PoP mine on testnet, you must specify "testnet" in the `POPM_BTC_CHAIN_NAME`.
 {% endhint %}
 
 ***
@@ -200,7 +200,7 @@ Find your wallet address:
 {% hint style="danger" %}
 **Best Practices for BTC Allocation**
 
-We advise against sending large amounts of Bitcoin to the private key connected to your PoP miner. To run the miner, `~0.001 BTC` is required per day. As a safety practice, consider sending only enough BTC for a week or a month at a time and refilling periodically.\
+We advise against sending large amounts of Bitcoin to the private key connected to your PoP miner. To run the miner, `~0.002 BTC` is required per day assuming a Bitcoin fee rate of 2-3 sat/vB. As a safety practice, consider sending only enough BTC for a week or a month at a time and refilling periodically.\
 \
 To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](setup-part-1.md#bitcoin-fee-vb "mention").
 {% endhint %}
@@ -251,7 +251,7 @@ popmd.exe
 ### 9. Expected Console Output
 
 ```none
-2025-03-12 14:24:21 INFO popmd popmd.go:123 Hemi Proof-of-Proof Miner v1.0.0-dev+81756237b (popmd, go1.23.3 linux/amd64)
+2025-03-12 14:24:21 INFO popmd popmd.go:123 Hemi Proof-of-Proof Miner v1.0.0+20630a55c (Hemi Labs, popmd, go1.23.7 linux/amd64)
 2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BFG_REQUEST_TIMEOUT: 15s
 2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BFG_URL            : wss://pop.hemi.network/v1/ws/public
 2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BTC_CHAIN_NAME     : mainnet
