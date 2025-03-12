@@ -27,15 +27,15 @@
 
 [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source). Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/heminetwork-releases-v0.11.5.png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
 
 The package you will need to download depends on your OS and architecture:
 
-* **Windows (Intel/AMD CPU):** heminetwork\_v0.5.0\_windows\_amd64.zip
-* **Mac (Intel CPU):** heminetwork\_v0.5.0\_darwin\_amd64.tar.gz
-* **Mac (Apple Silicon "M" CPU):** heminetwork\_v0.5.0\_darwin\_arm64.tar.gz
-* **Linux (Intel/AMD CPU):** heminetwork\_v0.5.0\_linux\_amd64.tar.gz
-* **Linux (ARM CPU):** heminetwork\_v0.5.0\_linux\_arm64.tar.gz
+* **Windows (Intel/AMD CPU):** heminetwork\_v0.11.5\_windows\_amd64.zip
+* **Mac (Intel CPU):** heminetwork\_v0.11.5\_darwin\_amd64.tar.gz
+* **Mac (Apple Silicon "M" CPU):** heminetwork\_v0.11.5\_darwin\_arm64.tar.gz
+* **Linux (Intel/AMD CPU):** heminetwork\_v0.11.5\_linux\_amd64.tar.gz
+* **Linux (ARM CPU):** heminetwork\_v0.11.5\_linux\_arm64.tar.gz
 
 ***
 
@@ -46,7 +46,7 @@ After downloading the necessary files, you must extract them from their compress
 {% hint style="info" %}
 **Linux/macOS tip**:
 
-You can also use the command `tar xvf heminetwork_v`0.5.0`_linux_amd64.tar.gz`\
+You can also use the command `tar xvf heminetwork_v0.11.5_linux_amd64.tar.gz`\
 \
 Run the `uname -a` command in the Terminal to view all system information, ensuring compatibility with the correct asset on GitHub.\
 \
@@ -83,7 +83,7 @@ Navigate to the folder you extracted by typing `cd` (**don't press `Enter` ye**t
 
 * For example on Linux if you downloaded the package to your Downloads folder and extracted it through the GUI, you might run a command like:\
   \
-  `cd '/home/user/Downloads/heminetwork_v`0.5.0`_linux_amd64'`
+  `cd '/home/<user>/Downloads/heminetwork_v0.11.5_linux_amd64'`
 
 ***
 
@@ -125,22 +125,23 @@ To ensure you downloaded the correct binaries and are able to run them, execute 
 This will display the help menu for `popmd`, indicating that it's installed and operational.
 
 ```none
-Hemi Proof of Proof miner: v0.5.0-pre+f09d4e5ff
+Hemi Proof-of-Proof Miner v0.11.5 (popmd, go1.23.3 linux/amd64)
 Usage:
 	help (this help)
 Environment:
-	POPM_BFG_URL           : url for BFG (Bitcoin Finality Governor) (default: http://localhost:8383/v1/ws/public)
-	POPM_BTC_CHAIN_NAME    : the name of the bitcoin chain to connect to (ex. "mainnet", "testnet3") (default: testnet3)
-	POPM_BTC_PRIVKEY       : bitcoin private key (required) 
-	POPM_LOG_LEVEL         : loglevel for various packages; INFO, DEBUG and TRACE (default: popmd=INFO;popm=INFO)
-	POPM_PPROF_ADDRESS     : address and port popm pprof listens on (open <address>/debug/pprof to see available profiles) 
-	POPM_PROMETHEUS_ADDRESS: address and port popm prometheus listens on 
-	POPM_REMINE_THRESHOLD  : the number of L2 Keystones behind the latest seen that we are willing to remine, this is handy for re-orgs (default: 0)
-	POPM_STATIC_FEE        : specify the number of sats/vB the PoP Miner will pay for fees (default: 1)
+	POPM_BFG_REQUEST_TIMEOUT: request timeout for BFG (Bitcoin Finality Governor) (default: 15s)
+	POPM_BFG_URL            : url for BFG (Bitcoin Finality Governor) (default: http://localhost:8383/v1/ws/public)
+	POPM_BTC_CHAIN_NAME     : the name of the bitcoin chain to connect to (ex. "mainnet", "testnet3") (default: testnet3)
+	POPM_BTC_PRIVKEY        : bitcoin private key (required) 
+	POPM_LOG_LEVEL          : loglevel for various packages; INFO, DEBUG and TRACE (default: popmd=INFO;popm=INFO)
+	POPM_PPROF_ADDRESS      : address and port popm pprof listens on (open <address>/debug/pprof to see available profiles) 
+	POPM_PROMETHEUS_ADDRESS : address and port popm prometheus listens on 
+	POPM_REMINE_THRESHOLD   : the number of L2 Keystones behind the latest seen that we are willing to remine, this is handy for re-orgs (default: 0)
+	POPM_STATIC_FEE         : specify the number of sats/vB the PoP Miner will pay for fees (default: 1)
 ```
 
 {% hint style="info" %}
-**Note:** The `POPM_BFG_URL` and `POPM_BTC_CHAIN_NAME` will default to mainnet variables. If you are interested in testing out PoP mining on Hemi testnet, you must change these variables for the correct network.
+**Note:** You must specify "mainnet" in the `POPM_BTC_CHAIN_NAME` to PoP mine on the Hemi mainnet network.
 {% endhint %}
 
 ***
@@ -152,12 +153,12 @@ Environment:
 {% endhint %}
 
 {% hint style="info" %}
-**Note:** The `net` flag in the **./keygen** command will default to "mainnet". If you are running a PoP miner in testnet, you must change to the command to "testnet".
+**Note:** The `net` flag in the **./keygen** command will default to "mainnet". If you are running a PoP miner in testnet, you must also add the flag `-net="testnet"`.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p><strong>Run the following command:</strong></p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json -net="mainnet" > ~/popm-address.json
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Linux &#x26; macOS</strong></td><td><p><mark style="color:purple;">⚠️ On Mac you will need to remove the quarantine by running:</mark></p><p><mark style="color:purple;"><code>xattr -d com.apple.quarantine ./keygen</code></mark></p></td><td><p><strong>Run the following command:</strong></p><pre data-overflow="wrap"><code>./keygen -secp256k1 -json  > ~/popm-address.json
 </code></pre></td></tr><tr><td><strong>Windows</strong></td><td><p><mark style="color:purple;">⚠️ <strong>Important Note for Windows Users</strong>: To successfully execute this command, you must use the Command Prompt, not PowerShell (which is the default terminal in environments like Visual Studio Code). Follow these steps to open Command Prompt:</mark></p><ol><li><mark style="color:purple;">Click on the <strong>Start Menu</strong> button or press the <strong>Windows</strong> key on your keyboard.</mark></li><li><mark style="color:purple;">Type <strong><code>cmd</code></strong></mark> <mark style="color:purple;">into the search bar and open it.</mark></li><li>Type the following command and press Enter:</li></ol></td><td><pre><code><strong>keygen.exe -secp256k1 -json 
-</strong><strong>-net="mainnet" > 
+</strong><strong> > 
 </strong><strong>%HOMEDRIVE%%HOMEPATH%\popm-address.json
 </strong></code></pre><p><strong>Note:</strong> After running the command, you might not see any immediate feedback in the Command Prompt. This is expected behavior.</p><ol start="4"><li>Open the generated key file</li></ol><p>After generating the key file, you'll want to check its contents. To do this, use the following command in Command Prompt:</p><pre class="language-cmd" data-overflow="wrap"><code class="lang-cmd">%HOMEDRIVE%%HOMEPATH%\popm-address.json
 </code></pre><p>This command opens the <code>popm-address.json</code> file in Notepad, allowing you to view or edit the generated key.</p></td></tr></tbody></table>
@@ -207,7 +208,7 @@ To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](setup
 {% hint style="info" %}
 **Testnet Mining**
 
-You can get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/).
+If you want to test out PoP mining on testnet, you can get tBTC from faucets [like this one](https://coinfaucet.eu/en/btc-testnet/).
 {% endhint %}
 
 ***
@@ -230,7 +231,8 @@ Read the [**"Bitcoin fee/vB"**](setup-part-1.md#bitcoin-fee-vb) section below if
 ```
 export POPM_BTC_PRIVKEY=<private_key>
 export POPM_STATIC_FEE=<fee_per_vB_integer>
-export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
+export POPM_BFG_URL=wss://pop.hemi.network/v1/ws/public
+export POPM_BTC_CHAIN_NAME=mainnet
 ./popmd
 ```
 
@@ -239,7 +241,8 @@ export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
 ```
 set POPM_BTC_PRIVKEY=<private_key>
 set POPM_STATIC_FEE=<fee_per_vB_integer>
-set POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public 
+set POPM_BFG_URL=wss://pop.hemi.network/v1/ws/public 
+set POPM_BTC_CHAIN_NAME=mainnet
 popmd.exe
 ```
 
@@ -247,21 +250,26 @@ popmd.exe
 
 ### 9. Expected Console Output
 
-<pre class="language-none"><code class="lang-none">2024-09-19 23:03:46 INFO popmd popmd.go:111 Hemi Proof-of-Proof Miner v0.4.3+0c53c8654 (Hemi Labs, popmd, go1.23.1 darwin/arm64)
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_BFG_URL           : wss://testnet.rpc.hemi.network/v1/ws/public
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_BTC_CHAIN_NAME    : testnet3
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_BTC_PRIVKEY       : ********
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_LOG_LEVEL         : popmd=INFO;popm=INFO
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_PPROF_ADDRESS     : 
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_PROMETHEUS_ADDRESS: 
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_REMINE_THRESHOLD  : 0
-2024-09-19 23:03:46 INFO popmd popmd.go:115 POPM_STATIC_FEE        : 150
-2024-09-19 23:03:46 INFO popm popm.go:954 Starting PoP miner with BTC address n3vTV2wz5wEqiX1rx4aE2LJ19himfXKxQY (public key 031865e70e33c70a741a00a9b262f4a83947c69c725dc9c14f98117e789ae8673f)
-<strong>2024-09-19 23:03:46 INFO popm popm.go:450 Checking for new keystone headers...
-</strong>2024-09-19 23:03:46 INFO popm popm.go:389 checking keystone received with height 88750 against last keystone 88800
-2024-09-19 23:03:46 INFO popm popm.go:389 checking keystone received with height 88775 against last keystone 88800
-2024-09-19 23:03:46 INFO popm popm.go:389 checking keystone received with height 88800 against last keystone 88800
-</code></pre>
+```none
+2025-03-12 14:24:21 INFO popmd popmd.go:123 Hemi Proof-of-Proof Miner v1.0.0-dev+81756237b (popmd, go1.23.3 linux/amd64)
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BFG_REQUEST_TIMEOUT: 15s
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BFG_URL            : wss://pop.hemi.network/v1/ws/public
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BTC_CHAIN_NAME     : mainnet
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_BTC_PRIVKEY        : ********
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_LOG_LEVEL          : DEBUG
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_PPROF_ADDRESS      : 
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_PROMETHEUS_ADDRESS : 
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_REMINE_THRESHOLD   : 0
+2025-03-12 14:24:21 INFO popmd popmd.go:127 POPM_STATIC_FEE         : 5
+2025-03-12 14:24:21 INFO popm popm.go:933 Starting PoP miner with BTC address 1Gz6cq1pR777GoVeDBcA7UbpnwTygGdknc (public key 02df4b526c0a81c90308cd88af993022782e167e7b25d69006b4649f8a47d545e1)
+2025-03-12 14:24:22 DEBUG popm popm.go:855 Connected to BFG: wss://pop.hemi.network/v1/ws/public
+2025-03-12 14:24:34 DEBUG popm popm.go:609 Received new keystone with block height 1326775
+2025-03-12 14:24:34 DEBUG popm popm.go:602 Checking keystone received with height 1326800 against last keystone 1326775
+2025-03-12 14:24:34 DEBUG popm popm.go:609 Received new keystone with block height 1326800
+2025-03-12 14:24:34 DEBUG popm popm.go:602 Checking keystone received with height 1326825 against last keystone 1326800
+2025-03-12 14:24:34 DEBUG popm popm.go:609 Received new keystone with block height 1326825
+2025-03-12 14:24:34 DEBUG popm popm.go:543 Received keystone for mining with height 1326825...
+```
 
 ***
 
