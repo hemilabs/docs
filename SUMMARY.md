@@ -96,7 +96,6 @@
 * [Grants](incentives/grants.md)
 * [Retroactive Funding](incentives/retroactive-funding.md)
 * [One-Off Spends](incentives/one-off-spends.md)
-* [Hemi Pilot Program](incentives/hemi-pilot-program.md)
 
 ## ⚡ Additional Resources
 
