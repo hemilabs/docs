@@ -5,7 +5,7 @@
 \
 To learn more about how we implemented the application, feel free to view our codebase here: [https://github.com/hemilabs/web-pop-miner](https://github.com/hemilabs/web-pop-miner)\
 \
-Follow our [CLI PoP Miner guide](setup-part-1.md) to run a PoP Miner.
+Follow our [CLI PoP Miner guide](setup-part-1/) to run a PoP Miner.
 {% endhint %}
 
 ***

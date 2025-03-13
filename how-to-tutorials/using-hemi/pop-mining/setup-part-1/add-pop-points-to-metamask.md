@@ -29,7 +29,7 @@ As mainnet evolves, this payout algorithm will be adjusted.
 
 ### 1. Open MetaMask
 
-![](<../../../.gitbook/assets/1 (1).png>)
+![](<../../../../.gitbook/assets/1 (1).png>)
 
 ***
 
@@ -39,7 +39,7 @@ As mainnet evolves, this payout algorithm will be adjusted.
 * Click on the three vertical dots on the right of the token menu
 * `Import tokens`
 
-![](../../../.gitbook/assets/mm-add-tokens.png)
+![](../../../../.gitbook/assets/mm-add-tokens.png)
 
 ***
 
@@ -47,16 +47,15 @@ As mainnet evolves, this payout algorithm will be adjusted.
 
 * Type in the tHEMI token contract address `0xC5D2E164601c59c2cD760669e849BFe498003e21` into the `Token Contract Address` field.
 
-<figure><img src="../../../.gitbook/assets/mm-enter-address.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/mm-enter-address.png" alt=""><figcaption></figcaption></figure>
 
 * If the address is recognized, MetaMask will automatically populate the `Token Symbol` and `Token Decimal` fields. For PoPPoints, you should see a symbol `POP`and 18 decimals.
-*
 
 ### 4. Import
 
 * Confirm the accuracy of the provided information, and then click on `Next`.
 * If successful, you should see your PoPPoints tokens in your wallet's token list:
 
-<figure><img src="../../../.gitbook/assets/contract-add-success (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/contract-add-success (1).png" alt=""><figcaption></figcaption></figure>
 
 For now, these tokens are non-transferrable.

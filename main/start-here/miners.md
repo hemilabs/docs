@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* Learn about [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md) and run a [PoP Miner](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md).
+* Learn about [PoP mining](../../foundational-topics/the-architecture/proof-of-proof/pop-mining.md) and run a [PoP Miner](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1/).
 * View our [Github](https://github.com/hemilabs), join our [Discord](https://discord.gg/hemixyz), and [refer a friend](https://points.absinthe.network/hemi/start)!
 {% endhint %}
 
@@ -38,7 +38,7 @@ Prepare your various wallets to start PoP mining on Hemi by setting up an EVM an
 
 ### 3️⃣ Start Mining
 
-The [CLI (Command Line Interface) PoP Miner](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md) is designed for long-term, continuous operation, requiring some technical knowledge but provides robust security and operational efficiency.&#x20;
+The [CLI (Command Line Interface) PoP Miner](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1/) is designed for long-term, continuous operation, requiring some technical knowledge but provides robust security and operational efficiency.&#x20;
 
 ***
 

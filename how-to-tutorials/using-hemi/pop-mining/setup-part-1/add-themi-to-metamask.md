@@ -1,4 +1,4 @@
-# Add tHEMI to MetaMask
+# (Testnet) Add tHEMI to MetaMask
 
 {% hint style="info" %}
 📜 **TL;DR:**
@@ -27,7 +27,7 @@ Looking ahead, **tHEMI will play a broader role in rewarding other network parti
 
 ### 1. Open MetaMask
 
-![](<../../../.gitbook/assets/1 (1).png>)
+![](<../../../../.gitbook/assets/1 (1).png>)
 
 ***
 
@@ -36,7 +36,7 @@ Looking ahead, **tHEMI will play a broader role in rewarding other network parti
 * Navigate to `Tokens`
 * `Import Tokens`
 
-![](<../../../.gitbook/assets/2 (1).png>)
+![](<../../../../.gitbook/assets/2 (1).png>)
 
 ***
 
@@ -44,7 +44,7 @@ Looking ahead, **tHEMI will play a broader role in rewarding other network parti
 
 * Type in the tHEMI token contract address `0x4200000000000000000000000000000000000042` into the `Token Contract Address` field.
 
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3 (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 * If the address is recognized, MetaMask will automatically populate the `Token Symbol` and `Decimals of Precision` fields.
 

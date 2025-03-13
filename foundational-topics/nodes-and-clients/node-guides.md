@@ -14,7 +14,7 @@
 
 #### **🏁 Requirements**
 
-**➡️ View complete instructions via the** [**PoP Miner tutorial.**](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1.md)
+**➡️ View complete instructions via the** [**PoP Miner tutorial.**](../../how-to-tutorials/using-hemi/pop-mining/setup-part-1/)
 
 ***
 

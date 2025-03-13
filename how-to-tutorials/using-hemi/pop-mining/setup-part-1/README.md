@@ -13,7 +13,7 @@
 ## 🏁 Prerequisites
 
 * Basic CLI Knowledge
-* **BTC** (See [#bitcoin-fee-vb](setup-part-1.md#bitcoin-fee-vb "mention") to understand how much BTC is required to PoP mine)
+* **BTC** (See [#bitcoin-fee-vb](./#bitcoin-fee-vb "mention") to understand how much BTC is required to PoP mine)
 
 ***
 
@@ -27,7 +27,7 @@
 
 [Download a pre-built binary](https://github.com/hemilabs/heminetwork/releases) or [build from source using the README](https://github.com/hemilabs/heminetwork?tab=readme-ov-file#-building-from-source). Choose the release you want to use (_if unsure, choose the latest_), and click on `Assets` dropdown:
 
-<figure><img src="../../../.gitbook/assets/release-v1.0.0.png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/release-v1.0.0.png" alt=""><figcaption><p>Note: The version numbers may be different</p></figcaption></figure>
 
 The package you will need to download depends on your OS and architecture:
 
@@ -195,14 +195,14 @@ Find your wallet address:
 
 * **New Address:** If you generated a new public key in Step 6a, check the JSON file from Step 6b for your `pubkey_hash`.
 * **Existing BTC Address:** If you are importing a private key from an existing BTC address, [change your wallet type](https://docs.unisat.io/unisat-services/unisat-wallet/unisat-wallet-address-type) to P2PKH (Legacy) and locate the pubkey hash.
-* **Existing EVM Address:** If you are importing a private key from an existing EVM address, [import your private key into UniSat](../wallet-setup/btc-wallet-setup/) and select P2PKH (Legacy) as your wallet type.
+* **Existing EVM Address:** If you are importing a private key from an existing EVM address, [import your private key into UniSat](../../wallet-setup/btc-wallet-setup/) and select P2PKH (Legacy) as your wallet type.
 
 {% hint style="danger" %}
 **Best Practices for BTC Allocation**
 
 We advise against sending large amounts of Bitcoin to the private key connected to your PoP miner. To run the miner, `~0.002 BTC` is required per day assuming a Bitcoin fee rate of 2-3 sat/vB. As a safety practice, consider sending only enough BTC for a week or a month at a time and refilling periodically.\
 \
-To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](setup-part-1.md#bitcoin-fee-vb "mention").
+To determine how much BTC to send to your wallet, review [#bitcoin-fee-vb](./#bitcoin-fee-vb "mention").
 {% endhint %}
 
 {% hint style="info" %}
@@ -221,10 +221,10 @@ In your console, execute the following commands while:
 2. replacing `<fee_per_vB_integer>` with the fee in sat/vB you want to pay.
 
 {% hint style="info" %}
-Read the [**"Bitcoin fee/vB"**](setup-part-1.md#bitcoin-fee-vb) section below if you need help determining what value to set here.
+Read the [**"Bitcoin fee/vB"**](./#bitcoin-fee-vb) section below if you need help determining what value to set here.
 {% endhint %}
 
-{% include "../../../.gitbook/includes/read-the-bitcoin-fee-vb-s....md" %}
+{% include "../../../../.gitbook/includes/read-the-bitcoin-fee-vb-s....md" %}
 
 **Linux & macOS**
 
