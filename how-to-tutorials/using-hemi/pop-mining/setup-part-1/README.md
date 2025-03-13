@@ -289,11 +289,7 @@ The Bitcoin transaction (normally represented in satoshis per virtual byte or sa
 * In order to ensure PoP transactions from your PoP miner are included in Bitcoin blocks, ensure the configured fee is set to an appropriate value. The PoP miner can be configured to use a certain fee in sats/vB by changing the `POPM_STATIC_FEE` environment variable when running the PoP miner. In a future version, the PoP miner will automatically calculate the current network fee to guarantee PoP transactions are included in Bitcoin blocks.
 * The lower you set the fee, the less BTC you will pay per PoP transaction. If your fees are too low, Bitcoin miners may not include your transaction quickly enough for you to successfully PoP mine.
 
-**Beginner and intermediate users:**
-
-* We recommend setting the `POPM_STATIC_FEE` environment variable to `50` (50 sats/vB) to ensure PoP transactions are included in Bitcoin blocks.
-
-**Advanced users:**
+**Bitcoin fee determination:**
 
 * Check Current Fee Levels: Visit [mempool.space](https://mempool.space/testnet) to see the current fee levels. Look at the "sat/vB" numbers for the different transaction fee priorities. It is recommended to set the value to the "High Priority" value or slightly higher.
 * Set the Static Fee: Re-run the command to set the `POPM_STATIC_FEE` environment variable from above (`export` on Linux/macOS, `set` on Windows) each time you want to change the fee, and restart the PoP Miner afterwards.
