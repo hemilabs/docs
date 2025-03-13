@@ -61,7 +61,6 @@
     * [CLI PoP Miner](how-to-tutorials/using-hemi/pop-mining/setup-part-1/README.md)
       * [(Testnet) Add tHEMI to MetaMask](how-to-tutorials/using-hemi/pop-mining/setup-part-1/add-themi-to-metamask.md)
       * [(Mainnet) Add PoPPoints to Metamask](how-to-tutorials/using-hemi/pop-mining/setup-part-1/add-pop-points-to-metamask.md)
-    * [draft pop](how-to-tutorials/using-hemi/pop-mining/draft-pop.md)
     * [Web PoP Miner (deprecated)](how-to-tutorials/using-hemi/pop-mining/web-based-pop-miner.md)
 * [Developing on Hemi](how-to-tutorials/developing-on-hemi/README.md)
   * [General](how-to-tutorials/developing-on-hemi/general/README.md)
