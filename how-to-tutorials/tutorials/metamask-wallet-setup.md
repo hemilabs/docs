@@ -52,11 +52,11 @@ Click on the network-selection dropdown, which is found at the top left of the M
 
 In the "`Add a network manually"` settings, input the following information for the Hemi testnet network:
 
-<table><thead><tr><th width="289"></th><th>Hemi mainnet</th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>43111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td>https://rpc.hemi.network/rpc</td></tr><tr><td><strong>Explorer</strong></td><td>https://testnet.explorer.hemi.xyz</td></tr></tbody></table>
+<table><thead><tr><th width="289"></th><th>Hemi mainnet</th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>43111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td>https://rpc.hemi.network/rpc</td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://explorer.hemi.xyz">https://explorer.hemi.xyz</a></td></tr></tbody></table>
 
 For Hemi testnet, input the following information instead:
 
-<table><thead><tr><th width="289"></th><th>Hemi testnet</th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>743111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td><a href="https://testnet.rpc.hemi.network/rpc">https://testnet.rpc.hemi.network/rpc</a></td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://testnet.explorer.hemi.xyz">https://testnet.explorer.hemi.xyz</a></td></tr></tbody></table>
+<table><thead><tr><th width="289"></th><th>Hemi testnet</th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>743111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td>https://testnet.rpc.hemi.network/rpc</td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://testnet.explorer.hemi.xyz">https://testnet.explorer.hemi.xyz</a></td></tr></tbody></table>
 
 ***
 
