@@ -7,6 +7,7 @@
 * **hVM** is an indexed Bitcoin full node directly accessible inside the EVM.
 * **hBK** is a smart contract library running on Hemi that utilizes hVM and makes Hemi’s Bitcoin awareness easier to use.
 * hVM’s precompile calls and hBK's functions are subject to change in future versions of the Hemi testnet.&#x20;
+* **Latest hBK release on Hemi:** [0x7007dd1C09527B92AEcd8Ae6570B73d09E0B8F12](https://explorer.hemi.xyz/address/0x7007dd1C09527B92AEcd8Ae6570B73d09E0B8F12)
 * **Latest hBK release on Hemi testnet:** [0xeC9fa5daC1118963933e1A675a4EEA0009b7f215](https://testnet.explorer.hemi.xyz/address/0xeC9fa5daC1118963933e1A675a4EEA0009b7f215)
 {% endhint %}
 
