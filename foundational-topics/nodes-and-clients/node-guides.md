@@ -27,7 +27,7 @@
 
 #### **🙋‍♂️ Who might run a BFG node?**
 
-* **PoP Miners:** A custom BFG deamon can notify your local PoP miner and this will broadcast them to your Electrs+bitcoind setup so you don't rely on Hemi Labs — or any third party — which may be congested.
+* **PoP Miners:** A custom BFG daemon can notify your local PoP miner and this will broadcast them to your Electrs+bitcoind setup so you don't rely on Hemi Labs — or any third party — which may be congested.
 * **Enterprise Node Operators:** Exchanges, large dApp platforms, or custodial services that need independent, verifiable finality checks on Hemi transactions.
 
 #### **🏁 Requirements**
