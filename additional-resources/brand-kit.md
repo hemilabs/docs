@@ -52,7 +52,7 @@ On Hemi Orange or colored backgrounds, use either the fully white or full black 
 
 {% file src="../.gitbook/assets/hemiBTC.svg" %}
 
-{% file src="../.gitbook/assets/hemiBTC.png" %}
+{% include "../.gitbook/includes/untitled.md" %}
 
 ***
 

@@ -1,7 +1,7 @@
 # Hemi Bitcoin Kit (hBK)
 
 {% hint style="info" %}
-### 📜 **TL;DR:**
+#### 📜 **TL;DR:**
 
 * The Hemi Bitcoin Kit (hBK) is a library of smart contracts for developers to use to build Bitcoin-aware smart contracts.
 * The hBK abstracts away the complications of interacting directly with the hVM Precompiles; parsing query results into data structures that are easy to understand and use.
@@ -22,7 +22,7 @@
 
 * The hVM is based on the Ethereum Virtual Machine (EVM) and comes stocked with built-in precompiles to interact with the embedded Bitcoin full node.
 * Unlike other Bitcoin interoperability solutions, Bitcoin-aware smart contracts built using hBK don't rely on any external relayers, require gas-intensive proof validation, or suffer from limited views of Bitcoin's state.
-* Performing a query for Bitcoin data is just as easy as reading the state of other contracts in the EVM. No need to design complex smart contracts that register requests to handle after the requested data is relayed.&#x20;
+* Performing a query for Bitcoin data is just as easy as reading the state of other contracts in the EVM. No need to design complex smart contracts that register requests to handle after the requested data is relayed.
 * Pre-validated data directly available in the EVM significantly reduces both the complexity and cost of developing and maintaining Bitcoin-related applications
 
 {% hint style="success" %}
