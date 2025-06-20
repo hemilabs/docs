@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ## 📜 **TL;DR:**
 
-* [**Merged mining** ](https://www.techopedia.com/definition/merged-mining)allows Bitcoin miners to simultaneously mine a Bitcoin sidechain, which can limit decentralization and lead to an attack on the sidechain.
+* [**Merged mining** ](https://en.bitcoin.it/wiki/Merged_mining_specification)allows Bitcoin miners to simultaneously mine a Bitcoin sidechain, which can limit decentralization and lead to an attack on the sidechain.
 * The **Proof-of-Proof (PoP)** consensus protocol utilized by Hemi enables PoP miners to independently publish data to the Bitcoin blockchain, cutting off this attack vector.
 
 
