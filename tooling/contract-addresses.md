@@ -30,7 +30,7 @@ Core Hemi contracts deployed on **Hemi**.
 
 Commonly used utility contracts deployed on **Hemi**.
 
-<table><thead><tr><th width="247">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>BitcoinKit v0</code></td><td>TBD</td></tr></tbody></table>
+<table><thead><tr><th width="247">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>BitcoinKit v1</code></td><td>0x7007dd1C09527B92AEcd8Ae6570B73d09E0B8F12</td></tr></tbody></table>
 
 ***
 
