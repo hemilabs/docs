@@ -61,7 +61,7 @@ Go to Hemi Blockscout Explorer and navigate to the [Verify & Publish Contract](h
 
 Copy and paste the entire flattened contract code into the Contract code field and click 'Verify & publish'.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -73,7 +73,7 @@ Once all required details are entered, submit the form. BlockScout will compare 
 To confirm verification, search for your contract address on BlockScout. A green check mark next to your contract indicates successful verification.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

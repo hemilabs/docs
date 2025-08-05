@@ -66,7 +66,7 @@ Connect your BTC wallet (currently only UniSat supported). If you do not have a 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-02-19 at 12.27.22 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -88,7 +88,7 @@ Input the amount of BTC you wish to tunnel to Hemi. There is a minimum amount of
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-02-20 at 11.25.33.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 After you have confirmed the gas fee and wish to proceed with the deposit, click `'Deposit.'`
 
@@ -111,7 +111,7 @@ Your transaction has been initiated and must go through two confirmation periods
 
 You can check the status and view the transaction in the `'Transaction History'` tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 `hemiBTC` can be tracked and added to your wallet at the following contract address: **`0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28`**

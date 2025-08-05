@@ -1,7 +1,7 @@
 # Contract Addresses
 
 {% hint style="info" %}
-## 📜 **TL;DR:**
+### 📜 **TL;DR:**
 
 * In this article, you’ll find useful contract addresses for Hemi Mainnet, Hemi Sepolia, and commonly used protocols.
 {% endhint %}
@@ -22,7 +22,7 @@ Core Hemi contracts deployed on **Ethereum Mainnet**.
 
 Core Hemi contracts deployed on **Hemi**.
 
-<table><thead><tr><th width="285">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>WETH9</code> </td><td><a href="https://explorer.hemi.xyz/token/0x4200000000000000000000000000000000000006"><code>0x4200000000000000000000000000000000000006</code></a></td></tr><tr><td><code>OptimismMintableERC20Factory</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000012"><code>0x4200000000000000000000000000000000000012</code></a></td></tr><tr><td><code>OptimismMintableERC721Factory</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000017"><code>0x4200000000000000000000000000000000000017</code></a></td></tr><tr><td><code>L2StandardBridge</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000010"><code>0x4200000000000000000000000000000000000010</code></a></td></tr><tr><td><code>L2ERC721Bridge</code></td><td><code>0x4200000000000000000000000000000000000014</code></td></tr></tbody></table>
+<table><thead><tr><th width="285">Contract Name</th><th>Contract Address</th></tr></thead><tbody><tr><td><code>WETH9</code></td><td><a href="https://explorer.hemi.xyz/token/0x4200000000000000000000000000000000000006"><code>0x4200000000000000000000000000000000000006</code></a></td></tr><tr><td><code>OptimismMintableERC20Factory</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000012"><code>0x4200000000000000000000000000000000000012</code></a></td></tr><tr><td><code>OptimismMintableERC721Factory</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000017"><code>0x4200000000000000000000000000000000000017</code></a></td></tr><tr><td><code>L2StandardBridge</code></td><td><a href="https://explorer.hemi.xyz/address/0x4200000000000000000000000000000000000010"><code>0x4200000000000000000000000000000000000010</code></a></td></tr><tr><td><code>L2ERC721Bridge</code></td><td><code>0x4200000000000000000000000000000000000014</code></td></tr></tbody></table>
 
 ***
 
