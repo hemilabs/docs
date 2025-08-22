@@ -8,6 +8,7 @@
   * [Enthusiast Quickstart](main/start-here/enthusiasts.md)
   * [Miner Quickstart](main/start-here/miners.md)
 * [Network Details](main/network-details.md)
+* [Token Contract Details](main/token-contract-details.md)
 
 ## ⛰️ Foundational Topics
 
