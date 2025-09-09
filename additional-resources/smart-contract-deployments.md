@@ -153,6 +153,3 @@ Read our review process in [partners.md](partners.md "mention").
 </details>
 
 Have more questions or concerns? E-mail **support@hemi.xyz** or [**join our Discord.**](https://discord.gg/hemixyz)
-
-[\
-](https://docs.capsulelabs.xyz/capsulenft/comparison-to-erc-998)
