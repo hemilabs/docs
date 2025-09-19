@@ -3,9 +3,8 @@
 {% hint style="info" %}
 ## 📜 TL;DR:
 
-* **Gas fees in the Hemi Network** are paid using ETH, the network's native token.
+* **Gas fees on Hemi** is paid using ETH, the network's native token.
 * This approach is similar to Ethereum Layer 2 rollups like Optimism, where gas fees are in their native bridged tokens.
-* To interact with the Hemi Network, users can obtain ETH (or claim through the faucet in our [Discord](https://discord.gg/2DnVTugBf2)) and [tunnel](https://docs.hemi.xyz/tunnel-sepeth-to-hemi) to Hemi.
 {% endhint %}
 
 ***

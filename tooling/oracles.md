@@ -29,7 +29,7 @@ Pyth offers push-based price feeds for Hemi.&#x20;
 * Hemi Mainnet
 * Hemi Sepolia
 
-{% embed url="https://docs.pyth.network/price-feeds/contract-addresses/evm" %}
+{% embed url="https://insights.pyth.network/price-feeds?search=hemi" %}
 
 ***
 
@@ -42,7 +42,7 @@ Redstone offers push-based price feeds for Hemi.&#x20;
 * Hemi Mainnet
 * Hemi Sepolia
 
-{% embed url="https://docs.redstone.finance/docs/introduction" %}
+{% embed url="https://app.redstone.finance/app/feeds/?networks=743111,43111&page=1&sortBy=popularity&sortDesc=false&perPage=32" %}
 
 ***
 

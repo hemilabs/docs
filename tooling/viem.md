@@ -2,7 +2,7 @@
 
 ## 🌐 **Overview**
 
-[viem ](https://viem.sh/)extension for the [Hemi Network](https://hemi.xyz/).&#x20;
+[viem ](https://viem.sh/)extension for [Hemi](https://hemi.xyz/).&#x20;
 
 
 

@@ -2,7 +2,7 @@
 
 ## Hemi Mainnet&#x20;
 
-<table><thead><tr><th width="293"></th><th></th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>43111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td><a href="https://testnet.rpc.hemi.network/rpc">https://rpc.hemi.network/rpc</a></td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://explorer.hemi.xyz">https://explorer.hemi.xyz</a></td></tr></tbody></table>
+<table><thead><tr><th width="293"></th><th></th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>43111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td><a href="https://rpc.hemi.network/rpc">https://rpc.hemi.network/rpc</a></td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://explorer.hemi.xyz">https://explorer.hemi.xyz</a></td></tr></tbody></table>
 
 ### Additional Mainnet Public RPC Endpoints
 
