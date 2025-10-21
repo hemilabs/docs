@@ -54,10 +54,10 @@ We partner with leading node providers to help you seamlessly integrate your dAp
 
 {% tabs %}
 {% tab title="Mainnet" %}
-<table><thead><tr><th width="156.85546875">Name</th><th>Https Url</th><th>WebSocket Url</th></tr></thead><tbody><tr><td>dRPC</td><td><a href="https://hemi.drpc.org">https://hemi.drpc.org</a></td><td>wss://hemi.drpc.org</td></tr><tr><td>DIN</td><td><a href="https://hemi-mainnet.infura.io/v3/c89b638d56f144cba995ae0666f37c11">https://hemi-mainnet.infura.io/v3/</a>YOUR_API_KEY</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="156.85546875">Name</th><th>Https Url</th><th>WebSocket Url</th></tr></thead><tbody><tr><td>dRPC</td><td><a href="https://hemi.drpc.org">https://hemi.drpc.org</a></td><td>wss://hemi.drpc.org</td></tr><tr><td>DIN</td><td>https://hemi-mainnet.infura.io/v3/YOUR_API_KEY</td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Testnet" %}
-<table><thead><tr><th width="156.95703125">Name</th><th>Https Url</th><th>WebSocket Url</th></tr></thead><tbody><tr><td>dRPC</td><td><a href="https://hemi-testnet.drpc.org">https://hemi-testnet.drpc.org</a></td><td>wss://hemi-testnet.drpc.org</td></tr><tr><td>DIN</td><td><a href="https://hemi-testnet.infura.io/v3/">https://hemi-testnet.infura.io/v3/</a>YOUR_API_KEY</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="156.95703125">Name</th><th>Https Url</th><th>WebSocket Url</th></tr></thead><tbody><tr><td>dRPC</td><td><a href="https://hemi-testnet.drpc.org">https://hemi-testnet.drpc.org</a></td><td>wss://hemi-testnet.drpc.org</td></tr><tr><td>DIN</td><td>https://hemi-testnet.infura.io/v3/YOUR_API_KEY</td><td></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
