@@ -23,7 +23,7 @@
 
 ## ⛽ **Gas Fees on Hemi**
 
-* The Hemi Network adopts a method akin to Ethereum Layer 2 rollups by using ETH as its gas token. This strategy enhances compatibility and user-friendliness, particularly for those accustomed to Ethereum's system.
+* Hemi adopts a method akin to Ethereum Layer 2 rollups by using ETH as its gas token. This strategy enhances compatibility and user-friendliness, particularly for those accustomed to Ethereum's system.
 * To interact with the Hemi Network, users can obtain ETH and **tunnel** to Hemi. This ensures a seamless and efficient means for users to engage with the Hemi Network's services.
 
 🔍 [Explore Network Details](../../main/network-details.md)
