@@ -5,7 +5,7 @@ description: 🟩 This is a beginner track.
 # HelloWorld.sol
 
 {% hint style="info" %}
-### 📜 **TL;DR:**
+#### 📜 **TL;DR:**
 
 * In this tutorial, we will utilize [Remix IDE](https://remix.ethereum.org/), a versatile, open-source web-based platform, to develop and deploy our smart contract onto Hemi testnet.
 * This guide is tested to work with Solidity version **0.8.26.** If you experience any issues, try setting this version explicitly in the Solidity Compiler tab on Remix.

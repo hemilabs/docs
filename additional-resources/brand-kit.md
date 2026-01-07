@@ -8,7 +8,7 @@ description: This page features the official Hemi logos, symbols, and colors for
 
 Hemi's Visual Style Guide provides guidelines and a standard for the visual of the Hemi brand. We recommend using this document as a starting point for the Hemi brand.
 
-{% file src="../.gitbook/assets/Hemi 2025 - Visual Style Guide 2.0.pdf" %}
+{% file src="../.gitbook/assets/Hemi 2026 Brand Guide.pdf" %}
 
 ***
 
@@ -24,21 +24,23 @@ The Hemi Logo is the primary representation of the brand and is comprised of the
 
 For use on white or light backgrounds, use the [Positive Hemi Logo](brand-kit.md#positive-hemi-logo). For use on black or dark backgrounds, use the [Reversed Hemi Logo](brand-kit.md#reversed-hemi-log). This allows for all elements of the Hemi Logo to be clear and legible in many applications and use cases
 
+<figure><img src="../.gitbook/assets/Logo – Positive + Reverse.png" alt=""><figcaption></figcaption></figure>
+
 #### Positive Hemi Logo
 
 For use on white or light backgrounds.
 
-{% file src="../.gitbook/assets/hemi-logo-positive.svg" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Positive.svg" %}
 
-{% file src="../.gitbook/assets/hemi-logo-positive.png" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Positive.png" %}
 
 #### Reversed Hemi Logo
 
 For use on black or dark backgrounds.
 
-{% file src="../.gitbook/assets/hemi-logo-negative.svg" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Reverse (1).svg" %}
 
-{% file src="../.gitbook/assets/hemi-logo-negative.png" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Reverse (1).png" %}
 
 ***
 
@@ -48,7 +50,9 @@ The Symbol may be used independently of the Wordmark. However, the Symbol must a
 
 When used independently of the Wordmark, the Hemi Symbol should be in the color Orange in all possibl e applications and use cases.
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/hemi-symbol-orange.svg" alt=""><figcaption><p>hemi-logo-orange.svg</p></figcaption></figure> <figure><img src="../.gitbook/assets/hemi-symbol-orange.png" alt="" width="240"><figcaption><p>hemi-logo-orange.png</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/Logo – Symbol.png" alt=""><figcaption></figcaption></figure>
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Hemi - Logo - Icon - Orange.svg" alt=""><figcaption><p>hemi-logo-orange.svg</p></figcaption></figure> <figure><img src="../.gitbook/assets/Hemi - Logo - Icon - Orange (2).png" alt=""><figcaption><p>hemi-logo-orange.png</p></figcaption></figure></div>
 
 ***
 
@@ -58,21 +62,27 @@ The Hemi Logo should be presented with a clear zone around it, ensuring that the
 
 To identify the clear zone for the Hemi Logo, use the diagram shown below. Clear zone measurements are based on the width of the Hemi Symbol.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo – Clearspace.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Alternate Logos
 
-In certain cases, a one-color version of the logo may be necessary. For example, this is a common request for any screen printed materials, as the cost of the printing increases with each color added.
+In certain cases, a one-color version of the logo may be necessary.&#x20;
 
-If used on an Orange, Slate (or Black), or Cyan background, the One-Color Hemi Logo should be in presented in White.
+For example, this is a common request for any screen printed materials, as the cost of the printing increases with each color added.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+If used on an Electric Orange or Protocol Teal background, the One-Color Hemi Logo should be presented in White or Frost White.
 
-{% file src="../.gitbook/assets/hemi-logo-white.svg" %}
+<figure><img src="../.gitbook/assets/Logo – White.png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/hemi-logo-white.png" %}
+{% file src="../.gitbook/assets/Hemi - Logo - White.svg" %}
+
+{% file src="../.gitbook/assets/Hemi - Logo - White.png" %}
+
+{% file src="../.gitbook/assets/Hemi - Logo - Frost White.svg" %}
+
+{% file src="../.gitbook/assets/Hemi - Logo - Frost White.png" %}
 
 {% file src="../.gitbook/assets/hemi-logo-orange.svg" %}
 
@@ -82,13 +92,13 @@ If used on an Orange, Slate (or Black), or Cyan background, the One-Color Hemi L
 
 {% file src="../.gitbook/assets/hemi-logo-slate.png" %}
 
+{% file src="../.gitbook/assets/Hemi - Logo - Icon - Orange (1).svg" %}
+
+{% file src="../.gitbook/assets/Hemi - Logo - Icon - Orange (3).png" %}
+
 {% file src="../.gitbook/assets/hemi-symbol-white.svg" %}
 
 {% file src="../.gitbook/assets/hemi-symbol-white.png" %}
-
-{% file src="../.gitbook/assets/hemi-symbol-orange.svg" %}
-
-{% file src="../.gitbook/assets/hemi-symbol-orange.png" %}
 
 {% file src="../.gitbook/assets/hemi-symbol-slate.svg" %}
 
@@ -98,21 +108,24 @@ If used on an Orange, Slate (or Black), or Cyan background, the One-Color Hemi L
 
 ## Brand Colors
 
-The Hemi Primary Color Palette is comprised of Orange, Slate, Cyan, Mist and White.
+The Hemi Primary Color Palette is comprised of Electric Orange, Native Teal, Protocol Blue, Black and White.
 
-<table><thead><tr><th width="199">Color</th><th width="265">Web Colors</th><th>Print Colors</th></tr></thead><tbody><tr><td><strong>Orange</strong></td><td>Hex      <strong><code>#ff6a00</code></strong><br>RGB     <strong><code>255, 106, 0</code></strong></td><td>CMYK:     <strong><code>0, 69, 100, 0</code></strong><br>Process:  <strong><code>Pantone P 30-8 C</code></strong><br>Spot:        <strong><code>PMS Orange 021 C</code></strong></td></tr><tr><td><strong>Slate</strong></td><td>Hex      <strong><code>#1d2e34</code></strong><br>RGB     <strong><code>29, 46, 52</code></strong></td><td>CMYK:     <strong><code>0, 0, 0, 95</code></strong><br>Process:  <strong><code>Pantone P 179-15 C</code></strong><br>Spot:        <strong><code>PMS 433 C</code></strong></td></tr><tr><td><strong>Cyan</strong></td><td>Hex      <strong><code>#2599ee</code></strong><br>RGB     <strong><code>37, 153, 238</code></strong></td><td>CMYK:     <strong><code>50, 0, 0, 0</code></strong><br>Process:  <strong><code>Pantone P 115-6 C</code></strong><br>Spot:        <strong><code>PMS 2727 C</code></strong></td></tr><tr><td><strong>Mist</strong></td><td>Hex      <strong><code>#ecf8f9</code></strong><br>RGB     <strong><code>236, 248, 249</code></strong></td><td>CMYK:     <strong><code>4, 0, 0, 0</code></strong><br>Process:  <strong><code>Pantone P 115-1 C</code></strong><br>Spot:        <strong><code>PMS 656 C</code></strong></td></tr><tr><td><strong>White</strong></td><td>Hex      <strong><code>#ffffff</code></strong><br>RGB     <strong><code>255, 255, 255</code></strong></td><td>CMYK:     <strong><code>0, 0, 0, 0</code></strong><br>Process:  <strong><code>N/A</code></strong><br>Spot:        <strong><code>White</code></strong></td></tr></tbody></table>
+<table><thead><tr><th width="199">Color</th><th width="265">Web Colors</th><th>Print Colors</th></tr></thead><tbody><tr><td><strong>Electric Orange</strong></td><td>Hex      <strong><code>#ff4600</code></strong><br>RGB     <strong><code>255, 70, 0</code></strong></td><td>CMYK:     <strong><code>0, 72, 100, 0</code></strong><br>Spot:        <strong><code>PMS 1655 C</code></strong></td></tr><tr><td><strong>Native Teal</strong></td><td>Hex      <strong><code>#002e32</code></strong><br>RGB     <strong><code>0, 46, 50</code></strong></td><td>CMYK:     <strong><code>100, 8, 0, 80</code></strong><br>Spot:        <strong><code>PMS 2217 C</code></strong></td></tr><tr><td><strong>Protocol Blue</strong></td><td>Hex      <strong><code>#002791</code></strong><br>RGB     <strong><code>0, 39, 145</code></strong></td><td>CMYK:     <strong><code>100, 73, 0, 43</code></strong><br>Spot:        <strong><code>PMS Dark Blue C</code></strong></td></tr><tr><td><strong>Black</strong></td><td>Hex      <strong><code>#000000</code></strong><br>RGB     <strong><code>0, 0, 0</code></strong></td><td>CMYK:     <strong><code>60, 40, 40, 100</code></strong><br>Spot:        <strong><code>Black</code></strong></td></tr><tr><td><strong>White</strong></td><td>Hex      <strong><code>#ffffff</code></strong><br>RGB     <strong><code>255, 255, 255</code></strong></td><td>CMYK:     <strong><code>0, 0, 0, 0</code></strong><br>Spot:        <strong><code>White</code></strong></td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Hemi Colors.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Typography
 
-Inter is a variable typeface that serves as the Hemi brand typeface, used for all text applications such as headlines (H1, H2, H3) and paragraph text
+**AT Aero Regular** serves as Hemi’s heading typeface, used for larger applications and headlines, giving them an unmistakable Hemi look.&#x20;
 
-To download the Inter typeface family, visit: [https://fonts.google.com/specimen/Inter](https://fonts.google.com/specimen/Inter) or [https://rsms.me/inter/](https://rsms.me/inter/)
+**Geist Regular** is used as body copy, ensuring clear communication and legibility.
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+At Aero Regular is available upon request from the Hemi team.\
+Geist can be downloaded from Google Fonts: [https://fonts.google.com/specimen/Geist](https://fonts.google.com/specimen/Geist)
+
+<figure><img src="../.gitbook/assets/Typography.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -55,8 +55,7 @@ A Safe Wallet can be set up as a multi-sig wallet, whitelisting addresses who ma
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-After adding additional signers, you may specify how many signers are required to sign any given transaction. This variable is referred to as the Threshold. \
-
+After adding additional signers, you may specify how many signers are required to sign any given transaction. This variable is referred to as the Threshold. <br>
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 

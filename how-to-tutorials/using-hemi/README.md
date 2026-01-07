@@ -20,7 +20,7 @@ Follow along with some of the tutorials to help you get a head start when buildi
 
 ### Developer Tooling
 
-<table><thead><tr><th width="198">Tutorial</th><th width="397">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="../tutorials/set-up-a-safe-wallet.md">Set Up a Safe Wallet</a></td><td>Learn about multi-sig wallets and set up a <a href="https://safe.global">Safe</a> Wallet on Hemi.</td><td>🟢 Easy</td></tr><tr><td><a href="developer-tooling/create-a-capsule.md">Create a Capsule</a></td><td>Learn about gasless transactions, re-routing/recalling, and configurable security with <a href="broken-reference">Capsules</a> on Hemi.</td><td>🟡 Medium</td></tr></tbody></table>
+<table><thead><tr><th width="198">Tutorial</th><th width="397">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="../tutorials/set-up-a-safe-wallet.md">Set Up a Safe Wallet</a></td><td>Learn about multi-sig wallets and set up a <a href="https://safe.global">Safe</a> Wallet on Hemi.</td><td>🟢 Easy</td></tr><tr><td><a href="developer-tooling/create-a-capsule.md">Create a Capsule</a></td><td>Learn about gasless transactions, re-routing/recalling, and configurable security with <a href="/broken/pages/0Tb3yNIIHy5udB9WaZbs">Capsules</a> on Hemi.</td><td>🟡 Medium</td></tr></tbody></table>
 
 ***
 

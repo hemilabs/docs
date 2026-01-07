@@ -62,7 +62,7 @@ Start developing your own decentralized applications (dApps) on Hemi using its p
 * [Deploy a smart contract on Hemi](../../how-to-tutorials/developing-on-hemi/general/using-remix-ide.md).
 * [Deploy an ERC-20 token on Hemi](../../how-to-tutorials/tutorials/erc-20.md).
 * Learn about developing with [viem](../../tooling/viem.md).
-* Discover the [Hemi Bitcoin Kit (hBK)](../../building-bitcoin-apps/hemi-bitcoin-kit-hbk/) and [build Bitcoin apps](broken-reference).
+* Discover the [Hemi Bitcoin Kit (hBK)](../../building-bitcoin-apps/hemi-bitcoin-kit-hbk/) and [build Bitcoin apps](/broken/pages/tRUh43Yd79He2t0YrhDP).
 * [Dive into our Github](https://github.com/hemilabs).
 
 ***
