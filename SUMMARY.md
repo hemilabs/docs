@@ -1,14 +1,15 @@
 # Table of contents
 
-## 🏠 Main
+* [Introduction](README.md)
 
-* [Welcome to the Hemi Docs](README.md)
-* [Getting Started](main/start-here/README.md)
-  * [Developer Quickstart](main/start-here/developers.md)
-  * [Enthusiast Quickstart](main/start-here/enthusiasts.md)
-  * [Miner Quickstart](main/start-here/miners.md)
-* [Network Details](main/network-details.md)
-* [Token Contract Details](main/token-contract-details.md)
+## Discover Hemi <a href="#discover" id="discover"></a>
+
+* [Getting Started](discover/getting-started/README.md)
+  * [Developer Quickstart](discover/getting-started/developers.md)
+  * [Enthusiast Quickstart](discover/getting-started/enthusiasts.md)
+  * [Miner Quickstart](discover/getting-started/miners.md)
+* [Network Details](discover/network-details.md)
+* [Token Contract Details](discover/token-contract-details.md)
 
 ## ⛰️ Foundational Topics
 

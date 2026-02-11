@@ -84,13 +84,9 @@ If used on an Electric Orange or Protocol Teal background, the One-Color Hemi Lo
 
 {% file src="../.gitbook/assets/Hemi - Logo - Frost White.png" %}
 
-{% file src="../.gitbook/assets/hemi-logo-orange.svg" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Teal.svg" %}
 
-{% file src="../.gitbook/assets/hemi-logo-orange.png" %}
-
-{% file src="../.gitbook/assets/hemi-logo-slate.svg" %}
-
-{% file src="../.gitbook/assets/hemi-logo-slate.png" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Teal.png" %}
 
 {% file src="../.gitbook/assets/Hemi - Logo - Icon - Orange (1).svg" %}
 
@@ -100,9 +96,9 @@ If used on an Electric Orange or Protocol Teal background, the One-Color Hemi Lo
 
 {% file src="../.gitbook/assets/hemi-symbol-white.png" %}
 
-{% file src="../.gitbook/assets/hemi-symbol-slate.svg" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Icon - Teal.svg" %}
 
-{% file src="../.gitbook/assets/hemi-symbol-slate.png" %}
+{% file src="../.gitbook/assets/Hemi - Logo - Icon - Teal.png" %}
 
 ***
 

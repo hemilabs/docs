@@ -40,7 +40,7 @@
 Connect your MetaMask wallet by clicking the button in the top-right corner.&#x20;
 
 {% hint style="warning" %}
-**Capsule currently only supports the Hemi testnet network.** View our official [documentation](../../../main/network-details.md) to add the Hemi testnet network to your wallet and ensure that you are connected to the Hemi network before proceeding.
+**Capsule currently only supports the Hemi testnet network.** View our official [documentation](../../../discover/network-details.md) to add the Hemi testnet network to your wallet and ensure that you are connected to the Hemi network before proceeding.
 {% endhint %}
 
 ***

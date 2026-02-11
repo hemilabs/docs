@@ -1,17 +1,20 @@
+---
+icon: house
+---
+
 # Introduction
 
-{% hint style="info" %}
-## 📜 **TL;DR:**
+The **Hemi Network** is a modular Layer-2 protocol for superior scaling, security, and interoperability, powered by Bitcoin and Ethereum.
 
-* The **Hemi Network** is a modular Layer-2 protocol for superior scaling, security, and interoperability, powered by Bitcoin and Ethereum.
-* Whereas other projects approach Bitcoin and Ethereum as ecosystem silos, Hemi views them as components of a single supernetwork. This unlocks new levels of programmability, portability, and potential.
-* At Hemi's core: the **Hemi Virtual Machine (hVM)**, which incorporates a full Bitcoin node within an **Ethereum Virtual Machine**.
-* Combined with the **Hemi Bitcoin Kit (hBK)**, developers have a familiar yet powerful platform for creating Hemi decentralized applications (hApps).
-{% endhint %}
+Whereas other projects approach Bitcoin and Ethereum as ecosystem silos, Hemi views them as components of a single supernetwork. This unlocks new levels of programmability, portability, and potential.
+
+At Hemi's core: the **Hemi Virtual Machine (hVM)**, which incorporates a full Bitcoin node within an **Ethereum Virtual Machine**.
+
+Combined with the **Hemi Bitcoin Kit (hBK)**, developers have a familiar yet powerful platform for creating Hemi decentralized applications (hApps).
 
 ***
 
-## 🌐 Overview
+## Overview
 
 * The **Hemi Network** represents a different way of thinking about Layer-2 scaling, by approaching **Bitcoin** and **Ethereum** as components of a supernetwork.
 * This modular protocol aims to scale these networks and maximize their utility, creating a more connected and efficient blockchain ecosystem.
@@ -19,9 +22,8 @@
 
 ***
 
-## 💡 The Benefits of Hemi
+## The Benefits of Hemi
 
-{% hint style="success" %}
 *   **Ease of Development**
 
     The Hemi Virtual Machine (hVM) integrates a full Bitcoin node within an Ethereum Virtual Machine (EVM), providing developers with a familiar programming interface while harnessing the power of both Bitcoin and Ethereum.
@@ -40,4 +42,3 @@
 *   **Superior Asset Handling**
 
     Advanced on-chain functionalities, including routing, time-lock, and password protection, are made possible through Hemi, elevating asset management and security.
-{% endhint %}

@@ -8,7 +8,7 @@ Follow along with some of the tutorials to help you get a head start when buildi
 
 ### Wallet Setup
 
-<table><thead><tr><th width="217">Tutorial</th><th width="384">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="../../main/start-here/developers.md">Set Up an EVM Wallet</a></td><td>Learn how to set up and get started with an EVM (<a href="https://metamask.io">MetaMask</a>) wallet.</td><td>🟢 Easy</td></tr><tr><td><a href="wallet-setup/btc-wallet-setup/">Set Up a BTC Wallet</a></td><td>Learn how to set up and get started with a BTC (<a href="https://unisat.io">UniSat</a>) wallet.</td><td>🟢 Easy</td></tr></tbody></table>
+<table><thead><tr><th width="217">Tutorial</th><th width="384">Description</th><th>Difficulty</th></tr></thead><tbody><tr><td><a href="../../discover/getting-started/developers.md">Set Up an EVM Wallet</a></td><td>Learn how to set up and get started with an EVM (<a href="https://metamask.io">MetaMask</a>) wallet.</td><td>🟢 Easy</td></tr><tr><td><a href="wallet-setup/btc-wallet-setup/">Set Up a BTC Wallet</a></td><td>Learn how to set up and get started with a BTC (<a href="https://unisat.io">UniSat</a>) wallet.</td><td>🟢 Easy</td></tr></tbody></table>
 
 ***
 
