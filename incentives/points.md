@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Points
 
 ### 🌐 Season 1: Testnet <a href="#pdf-page-jfwnwievmil2x2lghizb-season-1-testnet" id="pdf-page-jfwnwievmil2x2lghizb-season-1-testnet"></a>

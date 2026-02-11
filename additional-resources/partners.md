@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Partners
 
 ## Review Process
