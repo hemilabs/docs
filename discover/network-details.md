@@ -1,63 +1,47 @@
+---
+description: Everything you need to connect to the Hemi network.
+---
+
 # Network Details
 
-## Hemi Mainnet&#x20;
+## Hemi Mainnet
 
-<table><thead><tr><th width="293"></th><th></th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>43111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td><a href="https://rpc.hemi.network/rpc">https://rpc.hemi.network/rpc</a></td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://explorer.hemi.xyz">https://explorer.hemi.xyz</a></td></tr></tbody></table>
+<table><thead><tr><th width="293"></th><th></th></tr></thead><tbody><tr><td>Chain ID</td><td><code>43111</code></td></tr><tr><td>Currency symbol / Gas Token</td><td><code>ETH</code></td></tr><tr><td>RPC URL</td><td><a href="https://rpc.hemi.network/rpc">https://rpc.hemi.network/rpc</a></td></tr><tr><td>Block Explorer URL</td><td><a href="https://explorer.hemi.xyz">https://explorer.hemi.xyz</a></td></tr></tbody></table>
 
-### Additional Mainnet Public RPC Endpoints
+{% hint style="info" %}
+Need to bring assets to Hemi? Visit the [**Hemi Tunnel**](https://app.hemi.xyz/en/tunnel/).
+{% endhint %}
 
-* BFG (for PoP Mining): `wss://rpc.hemi.network/v1/ws/public`
-* Explorer: [`https://explorer.hemi.xyz/api/v2/`](https://testnet.explorer.hemi.xyz/api/v2/)
-* Explorer documentation: [`https://explorer.hemi.xyz/api-docs`](https://testnet.explorer.hemi.xyz/api-docs)
+## Hemi Testnet
 
-## Code Snippets
+{% hint style="warning" %}
+Testnet is a testing environment for validating new features and deployments before they reach mainnet. Testnet tokens have no monetary value — do not send real assets to testnet addresses. Hemi testnet may undergo maintenance or be reset without notice.
+{% endhint %}
 
-Example HTTP request:
+<table><thead><tr><th width="289"></th><th></th></tr></thead><tbody><tr><td>Chain ID</td><td><code>743111</code></td></tr><tr><td>Currency symbol / Gas Token</td><td><code>ETH</code></td></tr><tr><td>RPC URL</td><td><a href="https://testnet.rpc.hemi.network/rpc">https://testnet.rpc.hemi.network/rpc</a></td></tr><tr><td>Block Explorer URL</td><td><a href="https://testnet.explorer.hemi.xyz">https://testnet.explorer.hemi.xyz</a></td></tr></tbody></table>
 
-<pre class="language-sh"><code class="lang-sh">curl -X POST \
-    -H "Content-Type: application/json" \
-<strong>    --data '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}' \
-</strong>    https://rpc.hemi.network/rpc
-
-<strong># This will print the RPC response:
-</strong># {"jsonrpc":"2.0","id":1,"result":"0xaa3716"}
-</code></pre>
+{% hint style="info" %}
+Public RPC endpoints are rate-limited to approximately 300 requests per minute and are intended for development and testing. These limits are subject to change. For production applications, use a third-party provider.
+{% endhint %}
 
 ***
 
-## Hemi Testnet&#x20;
+## Third-Party RPC Providers
 
-<table><thead><tr><th width="289"></th><th></th></tr></thead><tbody><tr><td><strong>Gas Token/Currency Symbol</strong></td><td>ETH</td></tr><tr><td><strong>ChainID</strong></td><td>743111</td></tr><tr><td><strong>RPC API endpoint</strong></td><td><a href="https://testnet.rpc.hemi.network/rpc">https://testnet.rpc.hemi.network/rpc</a></td></tr><tr><td><strong>Explorer</strong></td><td><a href="https://testnet.explorer.hemi.xyz">https://testnet.explorer.hemi.xyz</a></td></tr></tbody></table>
+We partner with leading node providers to allow dApps to seamlessly integrate with the Hemi network. These providers offer reliable and scalable RPC endpoints, allowing you to concentrate on development while they handle node infrastructure.
 
-### Additional Testnet Public RPC Endpoints
+#### dRPC
 
-* BFG (for PoP Miner): `wss://testnet.rpc.hemi.network/v1/ws/public`
-* Explorer: [`https://testnet.explorer.hemi.xyz/api/v2/`](https://testnet.explorer.hemi.xyz/api/v2/)
-* Explorer documentation: [`https://testnet.explorer.hemi.xyz/api-docs`](https://testnet.explorer.hemi.xyz/api-docs)
+[dRPC](https://drpc.org) provides high-performance RPC access to Hemi, backed by a distributed network of node providers. A free tier is available.
 
-## Code Snippets
+[Sign up at drpc.org →](https://drpc.org)
 
-Example HTTP request:
+<table><thead><tr><th width="132.30859375">Network</th><th>HTTPS</th><th>WebSocket</th></tr></thead><tbody><tr><td>Mainnet</td><td><code>https://hemi.drpc.org</code></td><td><code>wss://hemi.drpc.org</code></td></tr><tr><td>Testnet</td><td><code>https://hemi-testnet.drpc.org</code></td><td><code>wss://hemi-testnet.drpc.org</code></td></tr></tbody></table>
 
-<pre class="language-sh"><code class="lang-sh">curl -X POST \
-    -H "Content-Type: application/json" \
-<strong>    --data '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}' \
-</strong>    https://testnet.rpc.hemi.network/rpc
+#### DIN (via Infura)
 
-<strong># This will print the RPC response:
-</strong># {"jsonrpc":"2.0","id":1,"result":"0xaa3716"}
-</code></pre>
+[DIN](https://www.infura.io/solutions/decentralized-infrastructure-service) is Infura's Decentralized Infrastructure Network. Hemi is available on all Infura plans, including the free tier. An API key is required.
 
-## Third-Party Providers
+[Sign up at infura.io →](https://www.infura.io)
 
-We partner with leading node providers to help you seamlessly integrate your dApps with the Hemi network. These providers offer reliable and scalable API access to Hemi nodes, allowing you to concentrate on development while they handle the infrastructure management.
-
-{% tabs %}
-{% tab title="Mainnet" %}
-<table><thead><tr><th width="156.85546875">Name</th><th>Https Url</th><th>WebSocket Url</th></tr></thead><tbody><tr><td>dRPC</td><td><a href="https://hemi.drpc.org">https://hemi.drpc.org</a></td><td>wss://hemi.drpc.org</td></tr><tr><td>DIN</td><td>https://hemi-mainnet.infura.io/v3/YOUR_API_KEY</td><td></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="Testnet" %}
-<table><thead><tr><th width="156.95703125">Name</th><th>Https Url</th><th>WebSocket Url</th></tr></thead><tbody><tr><td>dRPC</td><td><a href="https://hemi-testnet.drpc.org">https://hemi-testnet.drpc.org</a></td><td>wss://hemi-testnet.drpc.org</td></tr><tr><td>DIN</td><td>https://hemi-testnet.infura.io/v3/YOUR_API_KEY</td><td></td></tr></tbody></table>
-{% endtab %}
-{% endtabs %}
+<table><thead><tr><th width="131.5390625">Network</th><th>HTTPS</th></tr></thead><tbody><tr><td>Mainnet</td><td><code>https://hemi-mainnet.infura.io/v3/YOUR_API_KEY</code></td></tr><tr><td>Testnet</td><td><code>https://hemi-testnet.infura.io/v3/YOUR_API_KEY</code></td></tr></tbody></table>
