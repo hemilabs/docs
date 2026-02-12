@@ -1,26 +1,43 @@
-# Bug Report
+---
+description: How to get help, report bugs, and disclose security vulnerabilities to Hemi.
+---
 
-{% hint style="info" %}
-## 📜 **TL;DR:**
+# Support and Bug Reports
 
-* This page describes general best practices for reporting bugs and specific reporting guidelines for Hemi code contained within the [Hemi Labs GitHub](https://github.com/hemilabs/) organization.
-{% endhint %}
+### Getting Help
+
+| Issue                                             | Where to report                                                               |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- |
+| General support                                   | [Hemi Discord](https://discord.gg/hemixyz) — `#support` or `#create-ticket`   |
+| Bugs in Hemi services (app, explorer, etc.)       | [Hemi Discord](https://discord.gg/hemixyz) — `#create-ticket`                 |
+| Bugs or feature requests for open-source software | Open a [GitHub Issue](https://github.com/hemilabs) on the relevant repository |
+| Security vulnerabilities                          | [See below](bug-bounty.md#security-vulnerabilities)                           |
+
+### Security Vulnerabilities
+
+If you've found a security vulnerability in Hemi, we want to hear about it.
 
 {% hint style="danger" %}
-**Do not** disclose vulnerabilities publicly or by executing them against a production network. If you do, you will not only be putting users at risk, but you will forfeit your right to a reward. Always follow the appropriate reporting pathways.
+**Do not** test against production systems, disclose vulnerabilities publicly, or report them in GitHub issues. Doing so puts users at risk, may violate applicable law, and will disqualify you from rewards.\
+\
+Denial-of-service testing, social engineering, and volumetric attacks are explicitly out of scope and prohibited. **All security research must be conducted in accordance with the policies outlined in our** [**Bugcrowd program**](https://bugcrowd.com/engagements/hemi)**.**
 {% endhint %}
 
-***
+#### How to Report
 
-### 🪲 Hemi Vulnerability Disclosure Program <a href="#optimism-bug-bounty-program" id="optimism-bug-bounty-program"></a>
+All vulnerability reports **must** be submitted through our official [Vulnerability Disclosure Program on Bugcrowd](https://bugcrowd.com/engagements/hemi). We do not accept vulnerability reports via email, Discord, social media, or any other channel. Reports submitted outside of Bugcrowd will not be reviewed or eligible for rewards.
 
-#### Vulnerability Disclosure Program (VDP) <a href="#unscoped-bugs" id="unscoped-bugs"></a>
+When reporting, the more information you can provide, the faster we can triage and confirm the vulnerability. Reports with clear reproduction steps and screenshots are highly valued.
 
-If you think you have found a significant bug or vulnerability in any Hemi smart contract, application, infrastructure, etc., please report it on the [HackerOne Vulnerability Disclosure Program](https://hackerone.com/hemi_labs_vdp).&#x20;
+#### Bug Bounty Program
 
-#### Bounty Program <a href="#main-bounty-page" id="main-bounty-page"></a>
+Hemi also operates a private Bug Bounty program on Bugcrowd with paid rewards. Researchers who submit high-quality reports through our Vulnerability Disclosure Program may be invited to participate at Hemi's discretion.
 
-HackerOne hosts Hemi's dedicated [Bug Bounty program](https://hackerone.com/hemi_labs_vdp). Contact [HackerOne](https://hackerone.com/hemi_labs_vdp) to get involved and learn more about the information relating to components in scope, reporting, and the payout process.
+#### Responsible Disclosure
+
+Please do not discuss any vulnerabilities outside our Bugcrowd program without express consent from Hemi Labs. Follow our [program disclosure policy](https://bugcrowd.com/engagements/hemi) for full details.
+
+Hemi provides Safe Harbor for security research conducted in good faith under our program policy. See the full Safe Harbor terms on our [Bugcrowd program page](https://bugcrowd.com/engagements/hemi).
 
 {% hint style="info" %}
 For other security-related questions or concerns, please contact [security@hemi.xyz](mailto:security@hemi.xyz).
