@@ -106,7 +106,6 @@
 * [Official Links](additional-resources/official-links.md)
 * [Brand Kit](additional-resources/brand-kit.md)
 
-## 📨 Send Feedback
+## Feedback
 
-* [Support and Bug Reports](send-feedback/bug-bounty.md)
-* [Contact Us](send-feedback/contact-us.md)
+* [Support and Bug Reports](feedback/contact.md)

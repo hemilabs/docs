@@ -6,12 +6,13 @@ description: How to get help, report bugs, and disclose security vulnerabilities
 
 ### Getting Help
 
-| Issue                                             | Where to report                                                               |
-| ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| General support                                   | [Hemi Discord](https://discord.gg/hemixyz) — `#support` or `#create-ticket`   |
-| Bugs in Hemi services (app, explorer, etc.)       | [Hemi Discord](https://discord.gg/hemixyz) — `#create-ticket`                 |
-| Bugs or feature requests for open-source software | Open a [GitHub Issue](https://github.com/hemilabs) on the relevant repository |
-| Security vulnerabilities                          | [See below](bug-bounty.md#security-vulnerabilities)                           |
+| Issue                                             | Where to report                                                                                                                                                                     |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General support                                   | <p><a href="https://discord.gg/hemixyz">Hemi Discord</a> — <code>#support</code> or <code>#create-ticket</code><br>Email <a href="mailto:support@hemi.xyz">support@hemi.xyz</a></p> |
+| Partnership inquiries                             | <p><a href="https://discord.gg/hemixyz">Hemi Discord</a> — <code>#create-ticket</code> <br>Email <a href="mailto:support@hemi.xyz">support@hemi.xyz</a></p>                         |
+| Bugs in Hemi services (app, explorer, etc.)       | [Hemi Discord](https://discord.gg/hemixyz) — `#create-ticket`                                                                                                                       |
+| Bugs or feature requests for open-source software | Open a [GitHub Issue](https://github.com/hemilabs) on the relevant repository                                                                                                       |
+| Security vulnerabilities                          | [See below](contact.md#security-vulnerabilities)                                                                                                                                    |
 
 ### Security Vulnerabilities
 
