@@ -40,8 +40,7 @@ description: Links to everything Hemi.
 Below is a list of our official domains. Any domains not listed here are third-party and **are not operated, owned, or affiliated with Hemi Labs.** **Beware of malicious sites claiming to represent Hemi.**
 {% endhint %}
 
-| Domain           | Description                    |
-| ---------------- | ------------------------------ |
 | `hemi.xyz`       | Hemi websites and applications |
+| ---------------- | ------------------------------ |
 | `hemi.network`   | API and RPC nodes              |
 | `hemistatus.com` | Hemi status page               |
