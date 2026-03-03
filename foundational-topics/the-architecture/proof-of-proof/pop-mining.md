@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Running a PoP Mining
 
 {% hint style="info" %}

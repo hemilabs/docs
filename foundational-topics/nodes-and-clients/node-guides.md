@@ -1,11 +1,15 @@
+---
+hidden: true
+---
+
 # Node Guides
 
 ## Proof-of-Proof Miners (PoP Miners)
 
-#### 🌐 Overview&#x20;
+#### 🌐 Overview
 
-* PoP Miners embed Hemi headers — L2 keystones — into Bitcoin blocks, effectively “anchoring” Hemi state to Bitcoin’s security.&#x20;
-* PoP Miners receive Hemi headers from a BFG, create BTC transactions with those headers, and forward them to Bitcoin for inclusion in blocks.&#x20;
+* PoP Miners embed Hemi headers — L2 keystones — into Bitcoin blocks, effectively “anchoring” Hemi state to Bitcoin’s security.
+* PoP Miners receive Hemi headers from a BFG, create BTC transactions with those headers, and forward them to Bitcoin for inclusion in blocks.
 * Successful PoP Miners are earn rewards on the Hemi network, incentivizing them to maintain network operation.
 
 #### **🙋‍♂️ Who might run a PoP Miner?**
@@ -71,4 +75,3 @@
 #### **🏁 Requirements**
 
 * Clone the [Hemi Network GitHub](https://github.com/hemilabs/heminetwork) and follow instructions for the Modified Geth build.
-

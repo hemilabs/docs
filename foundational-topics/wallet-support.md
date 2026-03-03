@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Wallet Support
 
 {% hint style="info" %}

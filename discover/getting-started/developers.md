@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Developer Quickstart
 
 {% hint style="info" %}

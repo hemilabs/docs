@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Enthusiast Quickstart
 
 {% hint style="info" %}

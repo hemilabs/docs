@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Nodes & Clients
 
 {% hint style="info" %}
