@@ -40,7 +40,7 @@ Begin by familiarizing yourself with the Hemi network’s architecture, key feat
 
 Prepare your development environment to start building on Hemi by setting up the necessary tools and configurations. This step ensures you have everything in place to interact with the Hemi network effectively.
 
-* [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)and [connect to the Hemi Network.](../network-details.md)
+* [Set up an EVM wallet ](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)and [connect to the Hemi Network.](../network-details.md)
 * [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/).
 * Join our [Discord](https://discord.gg/hemixyz) and collaborate with the community.
 
@@ -64,7 +64,7 @@ Dive into the Hemi ecosystem by exploring and interacting with decentralized app
 Start developing your own decentralized applications (dApps) on Hemi using its powerful suite of developer tools and resources. This section will guide you through the process of creating, testing, and deploying your projects on the Hemi network.
 
 * [Deploy a smart contract on Hemi](../../how-to-tutorials/developing-on-hemi/general/using-remix-ide.md).
-* [Deploy an ERC-20 token on Hemi](../../how-to-tutorials/tutorials/erc-20.md).
+* [Deploy an ERC-20 token on Hemi](../../how-to-tutorials/developing-on-hemi/general/erc-20.md).
 * Learn about developing with [viem](../../tooling/viem.md).
 * Discover the [Hemi Bitcoin Kit (hBK)](../../building-bitcoin-apps/hemi-bitcoin-kit-hbk/) and [build Bitcoin apps](/broken/pages/tRUh43Yd79He2t0YrhDP).
 * [Dive into our Github](https://github.com/hemilabs).
@@ -79,7 +79,7 @@ Now that you’ve set up your environment, explored various apps, and begun buil
 
 * Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
 * [Create a Capsule](../../how-to-tutorials/using-hemi/developer-tooling/create-a-capsule.md) with Hemi assets.
-* [Set up a Safe Wallet](../../how-to-tutorials/tutorials/set-up-a-safe-wallet.md) on Hemi.
+* [Set up a Safe Wallet](../../how-to-tutorials/using-hemi/developer-tooling/set-up-a-safe-wallet.md) on Hemi.
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
 * Follow us on [X](https://x.com/hemi_xyz).
 

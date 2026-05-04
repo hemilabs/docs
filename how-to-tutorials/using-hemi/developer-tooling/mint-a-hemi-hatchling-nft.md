@@ -17,8 +17,8 @@ noIndex: true
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../../tutorials/metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi](../tunneling/tunnel-eth-to-hemi.md)
+1. [MetaMask Wallet Setup](../wallet-setup/metamask-wallet-setup.md)
+2. [Tunnel ETH to Hemi](../tunnel-from-ethereum/tunnel-eth-to-hemi.md)
 
 ***
 
@@ -32,7 +32,7 @@ noIndex: true
 
 Kick off your journey by selecting an egg: (🔥 Fire,💧 Water, 🌍 Earth)
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -46,13 +46,13 @@ After selecting your egg, you will be prompted to connect your wallet.
 
 After connecting your wallet, you will be asked to confirm the transaction to mint your Hemi Hatchling.
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 5. Success! You've just minted a Hemi Hatchling! 🎉
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -62,7 +62,7 @@ After connecting your wallet, you will be asked to confirm the transaction to mi
 
 Navigate to the [Hemi Explorer](https://testnet.explorer.hemi.xyz/) and type in your address. On the `Address details` page, click `NFTs` and locate the NFT and NFT ID.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -70,7 +70,7 @@ Navigate to the [Hemi Explorer](https://testnet.explorer.hemi.xyz/) and type in 
 
 In the image above, click `'View in collection'` to view the NFT token collection in the explorer. Locate the token contract address and keep it handy for Step 4.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -90,13 +90,13 @@ Import the following information into the pop-up module in MetaMask:
 
 **Token ID:** Use the token ID found in Step 1.
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### **5. Success! Your NFT was added! 🎉**
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 * **Pixelated Hatchlings:** All Hemi Hatchlings during the testnet will be pixelated. This is intentional.
 * **Air Hemi Hatchling Airdrop:** If you claim an Air Hemi Hatchling, you will receive an airdrop of that Hemi Hatchling during the Hemi mainnet. We will airdrop the real NFT to everyone during that period if you collected one in your Capsule during testnet.

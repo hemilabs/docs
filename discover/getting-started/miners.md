@@ -33,7 +33,7 @@ Begin by familiarizing yourself with some of the key Hemi network terms and feat
 
 Prepare your various wallets to start PoP mining on Hemi by setting up an EVM and BTC wallet.&#x20;
 
-* \[_Optional_] [Set up an EVM wallet](../../how-to-tutorials/tutorials/metamask-wallet-setup.md) and [connect to Hemi](../network-details.md).
+* \[_Optional_] [Set up an EVM wallet](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md) and [connect to Hemi](../network-details.md).
 * \[_Optional_] [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/).
 * \[_Optional_] Mint an OnlyMeID via [DEMOS](https://app.demos.global) on Hemi.
 * Join our [Discord](https://discord.gg/hemixyz) and chat with the community.
@@ -50,7 +50,7 @@ The [CLI (Command Line Interface) PoP Miner](../../how-to-tutorials/using-hemi/p
 
 Congratulations 🎉 Now that you’re PoP miner is running, here are some next steps to deepen your engagement and maximize the potential of your journey on Hemi.
 
-* [Tunnel Ethereum and other ERC20s to Hemi](../../how-to-tutorials/using-hemi/tunneling/tunnel-eth-to-hemi.md).
+* [Tunnel Ethereum and other ERC20s to Hemi](../../how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-eth-to-hemi.md).
 * Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!.
 * Follow us on [X](https://x.com/hemi_xyz).

@@ -11,7 +11,7 @@
 
 ## 🏁 Prerequisites
 
-* [**EVM (MetaMask) Wallet Setup**](../../../tutorials/metamask-wallet-setup.md) **-** Set up your EVM wallet and add the Hemi Network before interacting with any Hemi application.
+* [**EVM (MetaMask) Wallet Setup**](../../wallet-setup/metamask-wallet-setup.md) **-** Set up your EVM wallet and add the Hemi Network before interacting with any Hemi application.
 
 ***
 
@@ -21,7 +21,7 @@
 
 Navigate to the [Stargate bridge ](https://stargate.finance/bridge?srcChain=ethereum\&dstChain=hemi)to tunnel your ERC20 asset from Ethereum to the Hemi network.
 
-<figure><img src="../../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -29,7 +29,7 @@ Navigate to the [Stargate bridge ](https://stargate.finance/bridge?srcChain=ethe
 
 Click `'Connect Wallet'` in the top-right corner.
 
-<figure><img src="../../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -41,7 +41,7 @@ Using the token dropdown, select the asset you wish to bridge to Hemi.&#x20;
 Before proceeding, confirm Ethereum as the FROM network and Hemi as the TO network.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -49,7 +49,7 @@ Before proceeding, confirm Ethereum as the FROM network and Hemi as the TO netwo
 
 Input the amount of asset you wish to bridge to Hemi.
 
-<figure><img src="../../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 When you are satisfied with your transaction, click `'Transfer'.`
 
@@ -59,7 +59,7 @@ When you are satisfied with your transaction, click `'Transfer'.`
 
 From your connected wallet, approve the asset spend and sign the transaction.
 
-<figure><img src="../../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -67,5 +67,5 @@ From your connected wallet, approve the asset spend and sign the transaction.
 
 After signing the transaction, look for the pending transaction bar at the top of the screen. It may take a few minutes to confirm the transaction.
 
-<figure><img src="../../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 

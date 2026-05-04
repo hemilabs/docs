@@ -35,7 +35,7 @@ To follow along, you’ll need:
 
 Retrieves the current balance (in satoshis) of a specified Bitcoin address.
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output
@@ -46,7 +46,7 @@ Retrieves the current balance (in satoshis) of a specified Bitcoin address.
 
 Navigate to [https://blockstream.info](https://blockstream.info) and input the Bitcoin address to confirm the above output.
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -54,7 +54,7 @@ Navigate to [https://blockstream.info](https://blockstream.info) and input the B
 
 Returns the latest Bitcoin block header containing metadata like hash, height, and timestamp.
 
-<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output
@@ -74,7 +74,7 @@ Returns the latest Bitcoin block header containing metadata like hash, height, a
 
 Navigate to [https://blockstream.info](https://blockstream.info) and input the Block header to confirm the above output.
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -82,7 +82,7 @@ Navigate to [https://blockstream.info](https://blockstream.info) and input the B
 
 Fetches the block header for a specific block height.
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output
@@ -102,7 +102,7 @@ Fetches the block header for a specific block height.
 
 Navigate to [https://blockstream.info](https://blockstream.info) and input the Block header height to confirm the above output.
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -110,7 +110,7 @@ Navigate to [https://blockstream.info](https://blockstream.info) and input the B
 
 Fetches the details of a Bitcoin transaction using its transaction ID, including all of its inputs and outputs.
 
-<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output
@@ -150,7 +150,7 @@ Navigate to [https://blockstream.info](https://blockstream.info) and input the t
 
 Retrieves the number of confirmations for a specific transaction based on its transaction ID.
 
-<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output
@@ -167,7 +167,7 @@ Navigate to [https://blockstream.info](https://blockstream.info) and input the t
 
 Returns the UTXOs (Unspent Transaction Outputs) of a Bitcoin address, with pagination support.
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Sample output

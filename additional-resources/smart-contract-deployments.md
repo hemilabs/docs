@@ -27,10 +27,9 @@ Check out [incentives.md](../incentives/incentives.md "mention") for the most re
 **🌐 Overview**
 
 * Deployment issues on testnet can stem from using features or opcodes not yet supported by the testnet's version of the EVM.
+*   Check the `Raw trace` tab
 
--   Check the `Raw trace` tab
-
-    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 **👀 Common Culprits**
 

@@ -8,14 +8,14 @@ hidden: true
 ## 📜 **TL;DR:**
 
 * Stake your BTC, ETH, and other assets using the Hemi Stake platform.
-* An [EVM](../../tutorials/metamask-wallet-setup.md) wallet is required to stake assets on Hemi.
+* An [EVM](../wallet-setup/metamask-wallet-setup.md) wallet is required to stake assets on Hemi.
 {% endhint %}
 
 ***
 
 ## 🏁 Prerequisites
 
-* [**EVM (MetaMask) Wallet Setup**](../../tutorials/metamask-wallet-setup.md) **-** Set up your EVM wallet and add Hemi Network.
+* [**EVM (MetaMask) Wallet Setup**](../wallet-setup/metamask-wallet-setup.md) **-** Set up your EVM wallet and add Hemi Network.
 
 ***
 
@@ -27,7 +27,7 @@ Go to [https://app.hemi.xyz/stake](https://app.hemi.xyz/stake) to access the Hem
 
 
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -35,7 +35,7 @@ Go to [https://app.hemi.xyz/stake](https://app.hemi.xyz/stake) to access the Hem
 
 Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
-<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,7 +43,7 @@ Click `'Connect Wallets'` in the top-right corner of the Hemi Portal.
 
 Currently, MetaMask and Rabby are the only EVM wallets Hemi supports. Our team is working to add  support for additional wallets.
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

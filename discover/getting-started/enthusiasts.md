@@ -37,7 +37,7 @@ Begin by familiarizing yourself with the Hemi network’s architecture, key feat
 
 Prepare your various wallets to start exploring Hemi by setting up an EVM and BTC wallet. This step ensures you have everything in place to interact with the Hemi network effectively.
 
-* [Set up an EVM wallet ](../../how-to-tutorials/tutorials/metamask-wallet-setup.md)and [connect to the Hemi Network.](../network-details.md)
+* [Set up an EVM wallet ](../../how-to-tutorials/using-hemi/wallet-setup/metamask-wallet-setup.md)and [connect to the Hemi Network.](../network-details.md)
 * [Set up a BTC wallet](../../how-to-tutorials/using-hemi/wallet-setup/btc-wallet-setup/).
 * Join our [Discord](https://discord.gg/hemixyz) and collaborate with the community.
 
@@ -64,7 +64,7 @@ Now that you’ve set up your environment, explored various apps, and begun buil
 
 * Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
 * [Create a Capsule](../../how-to-tutorials/using-hemi/developer-tooling/create-a-capsule.md) with Hemi assets.
-* [Set up a Safe Wallet](../../how-to-tutorials/tutorials/set-up-a-safe-wallet.md) on Hemi.
+* [Set up a Safe Wallet](../../how-to-tutorials/using-hemi/developer-tooling/set-up-a-safe-wallet.md) on Hemi.
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!
 * Follow us on [X](https://x.com/hemi_xyz).
 

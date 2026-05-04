@@ -20,8 +20,8 @@
 
 ## 🏁 Prerequisites
 
-1. [MetaMask Wallet Setup](../../tutorials/metamask-wallet-setup.md)
-2. [Tunnel ETH to Hemi ](../tunneling/tunnel-eth-to-hemi.md)(or other Hemi assets)
+1. [MetaMask Wallet Setup](../wallet-setup/metamask-wallet-setup.md)
+2. [Tunnel ETH to Hemi ](../tunnel-from-ethereum/tunnel-eth-to-hemi.md)(or other Hemi assets)
 
 ***
 
@@ -49,9 +49,9 @@ Connect your MetaMask wallet by clicking the button in the top-right corner.&#x2
 
 Click `'Add Asset'` to select the Hemi assets you would like to add to the Capsule. You may add any quantity and any combination of any Hemi assets as desired.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 _Optional_: You may change the name of the Capsule generated in the text box below the `'Add Asset'` button.
 
@@ -68,7 +68,7 @@ Capsule comes with a variety of optional features, including:
 * **Password Protection:** A password is required to redeem the assets (a unique and random password is provided by Capsule).
 * **Asset Key Verification:** The asset cannot be redeemed unless the recipient holds a designated NFT in their wallet (specific ID optional).
 
-![](<../../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../../.gitbook/assets/image (89).png>)
 
 After selecting and adjusting any preferred features, click  `'Continue'`.
 
@@ -86,7 +86,7 @@ When finished, click  `'Continue'`.
 
 To finalize your Capsule, you must approve all the assets you included inside your MetaMask wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 When finished, click  `'Continue'`.
 
@@ -96,7 +96,7 @@ When finished, click  `'Continue'`.
 
 Confirm your transaction in MetaMask.
 
-<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -104,4 +104,4 @@ Confirm your transaction in MetaMask.
 
 Copy your Capsule transfer link (and if included, your redemption password) and distribute your Capsule as desired!&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
