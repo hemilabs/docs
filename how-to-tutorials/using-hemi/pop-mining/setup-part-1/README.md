@@ -1,5 +1,7 @@
 # CLI PoP Miner
 
+{% include "../../../../.gitbook/includes/this-documentation-page-is-....md" %}
+
 {% hint style="info" %}
 #### 📜 **TL;DR:**
 

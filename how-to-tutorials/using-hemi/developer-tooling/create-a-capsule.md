@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Create a Capsule
 
 {% hint style="info" %}

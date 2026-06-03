@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tunnel BTC via 3rd Party
 
 {% hint style="info" %}

@@ -1,9 +1,11 @@
 # hBK Smart Contract
 
+{% include "../../.gitbook/includes/this-documentation-page-is-....md" %}
+
 ## 🌐 Overview
 
-* The Hemi Bitcoin Kit smart contract provides utilities for interacting with Bitcoin data on the Hemi blockchain.&#x20;
-* It includes methods to retrieve Bitcoin address balances, UTXOs, transaction details, and block headers.&#x20;
+* The Hemi Bitcoin Kit smart contract provides utilities for interacting with Bitcoin data on the Hemi blockchain.
+* It includes methods to retrieve Bitcoin address balances, UTXOs, transaction details, and block headers.
 * The contract leverages hVM's new precompiles to perform Bitcoin-related queries.
 * **Latest hBK release on Hemi:** [0x7007dd1C09527B92AEcd8Ae6570B73d09E0B8F12](https://explorer.hemi.xyz/address/0x7007dd1C09527B92AEcd8Ae6570B73d09E0B8F12)
 * **Latest hBK release on Hemi testnet:** [0xeC9fa5daC1118963933e1A675a4EEA0009b7f215](https://testnet.explorer.hemi.xyz/address/0xeC9fa5daC1118963933e1A675a4EEA0009b7f215)
@@ -221,4 +223,3 @@ function getHeaderN(uint32 height) public view returns (BitcoinHeader memory)
 ```
 
 ***
-
