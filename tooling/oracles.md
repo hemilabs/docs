@@ -67,3 +67,15 @@ eOracle offers pull-based price feeds for Hemi.&#x20;
 * Hemi Mainnet
 
 {% embed url="https://docs.eo.app/docs/eprice/feed-addresses/hemi" %}
+
+***
+
+### DIA <a href="#dia" id="dia"></a>
+
+DIA offers push-based fundamental & market price feeds on Hemi.
+
+#### Supported Networks:
+
+* Hemi Mainnet
+
+{% embed url="https://www.diadata.org/docs/guides/chain-specific-guide/hemi" %}
