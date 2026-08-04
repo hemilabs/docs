@@ -45,3 +45,7 @@ We partner with leading node providers to allow dApps to seamlessly integrate wi
 [Sign up at infura.io →](https://www.infura.io)
 
 <table><thead><tr><th width="131.5390625">Network</th><th>HTTPS</th></tr></thead><tbody><tr><td>Mainnet</td><td><code>https://hemi-mainnet.infura.io/v3/YOUR_API_KEY</code></td></tr><tr><td>Testnet</td><td><code>https://hemi-testnet.infura.io/v3/YOUR_API_KEY</code></td></tr></tbody></table>
+
+***
+
+For live latency comparisons across free public Hemi RPC endpoints, see [OpenChainBench](https://openchainbench.com/benchmarks/hemi-rpc) — an open benchmark that continuously measures response times so you can pick the fastest endpoint for your use case.
