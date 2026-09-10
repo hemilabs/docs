@@ -55,11 +55,11 @@ Some examples of unique applications that the Hemi Bitcoin Kit enables:
 
 The [Hemi Bitcoin Kit Demo](https://bitcoin-kit.hemi.xyz/code-editor) provides developers with an interactive code editor and execution environment featuring six essential Bitcoin blockchain functions. Users can do the following:&#x20;
 
-* Retrieve address balances,
-* Access the latest block headers,&#x20;
-* Query block headers by specific height,&#x20;
-* Get detailed transaction information,&#x20;
-* Check transaction confirmations,&#x20;
-* List unspent transaction outputs (UTXOs) for any address.&#x20;
+* Retrieve address balances
+* Access the latest block headers
+* Query block headers by specific height
+* Get detailed transaction information
+* Check transaction confirmations
+* List unspent transaction outputs (UTXOs) for any address
 
 Each function comes with pre-written, well-documented code that demonstrates how to interact with Bitcoin's blockchain through smart contract calls, making it easy for developers to understand and implement Bitcoin functionality in their own applications. The demo serves as both a learning tool and a practical reference for app development, allowing users to execute real Bitcoin queries and see immediate results without needing to set up their own development environment.
