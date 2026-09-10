@@ -51,7 +51,7 @@ The [CLI (Command Line Interface) PoP Miner](../../how-to-tutorials/using-hemi/p
 Congratulations 🎉 Now that you’re PoP miner is running, here are some next steps to deepen your engagement and maximize the potential of your journey on Hemi.
 
 * [Tunnel Ethereum and other ERC20s to Hemi](../../how-to-tutorials/using-hemi/tunnel-from-ethereum/tunnel-eth-to-hemi.md).
-* Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
+* Learn about[ incentives](/broken/pages/ZshDzamqXEpUe2dao5vN) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!.
 * Follow us on [X](https://x.com/hemi_xyz).
 * **Become a** [**Hemi Developer**](developers.md)**.**

@@ -62,7 +62,7 @@ Congratulations on getting started with Hemi! 🎉&#x20;
 
 Now that you’ve set up your environment, explored various apps, and begun building on the network, here are the next steps to deepen your engagement and maximize the potential of your journey on Hemi.
 
-* Learn about[ incentives](../../incentives/incentives.md) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
+* Learn about[ incentives](/broken/pages/ZshDzamqXEpUe2dao5vN) and our rewards [dashboard](https://points.absinthe.network/hemi/start).
 * [Create a Capsule](../../how-to-tutorials/using-hemi/developer-tooling/create-a-capsule.md) with Hemi assets.
 * [Set up a Safe Wallet](../../how-to-tutorials/using-hemi/developer-tooling/set-up-a-safe-wallet.md) on Hemi.
 * [Refer a friend](https://points.absinthe.network/hemi/start) to Hemi!

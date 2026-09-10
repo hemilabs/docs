@@ -91,17 +91,8 @@
 * [Data Indexing](tooling/data-indexing.md)
 * [Oracles](tooling/oracles.md)
 
-## 📝 Incentives
-
-* [Incentives](incentives/incentives.md)
-* [Points](incentives/points.md)
-* [Grants](incentives/grants.md)
-* [Retroactive Funding](incentives/retroactive-funding.md)
-* [One-Off Spends](incentives/one-off-spends.md)
-
 ## ⚡ Additional Resources
 
-* [Partners](additional-resources/partners.md)
 * [FAQ](additional-resources/smart-contract-deployments.md)
 * [Official Links](additional-resources/official-links.md)
 * [Brand Kit](additional-resources/brand-kit.md)

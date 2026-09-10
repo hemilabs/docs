@@ -10,14 +10,6 @@ You can learn more about Hemi by reading our documentation, visiting our website
 
 </details>
 
-<details>
-
-<summary>How do I earn points, and how does incentivized testnet work?</summary>
-
-Check out [incentives.md](../incentives/incentives.md "mention") for the most recent info.
-
-</details>
-
 ## Smart Contract Deployments
 
 <details>
@@ -105,50 +97,4 @@ Hemi’s Bitcoin and Ethereum Tunnels improve security while decentralizing asse
 
 </details>
 
-## Capsules
-
-<details>
-
-<summary>What is Capsule?</summary>
-
-Capsule is an asset transfer protocol that allows anyone to batch and transfer multiple assets in a single package on Hemi. Additionally, it provides users and developers with advanced functionality like gasless transactions, re-routing/recalling, and configurable security. Learn more about Capsule Labs by visiting the Capsule [site](https://capsulelabs.xyz).
-
-</details>
-
-## Grants
-
-<details>
-
-<summary>How do I apply for a grant?</summary>
-
-_wip_
-
-</details>
-
-<details>
-
-<summary>How do we review grants?</summary>
-
-_wip_
-
-</details>
-
-## Getting Involved
-
-<details>
-
-<summary>How do I partner with Hemi?</summary>
-
-You can find the partnership inquiry form [here](https://discord.com/channels/1202677849887080508/1219364577939030220/1219364577939030220).
-
-</details>
-
-<details>
-
-<summary>How do we review partnership inquiries?</summary>
-
-Read our review process in [partners.md](partners.md "mention").
-
-</details>
-
-Have more questions or concerns? E-mail **support@hemi.xyz** or [**join our Discord.**](https://discord.gg/hemixyz)
+Have more questions or concerns? See [contact.md](../feedback/contact.md "mention")

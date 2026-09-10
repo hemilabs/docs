@@ -36,7 +36,7 @@ Looking ahead, **tHEMI will play a broader role in rewarding other network parti
 * Navigate to `Tokens`
 * `Import Tokens`
 
-![](<../../../../.gitbook/assets/2 (1).png>)
+<img src="../../../../.gitbook/assets/2 (1).png" alt="" width="357">
 
 ***
 

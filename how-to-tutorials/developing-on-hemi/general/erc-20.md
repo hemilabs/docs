@@ -64,7 +64,7 @@ npx hardhat init
 
 b) Select `Create an empty hardhat.config.js`
 
-![](../../../.gitbook/assets/1d.png)
+<img src="../../../.gitbook/assets/1d.png" alt="" width="563">
 
 ***
 
@@ -80,7 +80,7 @@ mkdir contracts && mkdir scripts
 
 ### 6. Write Your Contract
 
-![](../../../.gitbook/assets/2d.png)
+<img src="../../../.gitbook/assets/2d.png" alt="" width="358">
 
 * In the `contracts` folder, create a file named `MyToken.sol` . This will be your ERC-20 token contract. Here's a basic example:
 
@@ -119,7 +119,7 @@ a) Export your private key from MetaMask:
 
 * Open MetaMask, select your account icon, and go to `Account Details`
 
-![](../../../.gitbook/assets/3d.png)
+<img src="../../../.gitbook/assets/3d.png" alt="" width="353">
 
 * Select `Show private key`
 * Enter your password.
@@ -184,7 +184,7 @@ module.exports = {
 
 ### 10. Write a Deployment Script
 
-![](../../../.gitbook/assets/4d.png)
+<img src="../../../.gitbook/assets/4d.png" alt="" width="358">
 
 In the `scripts` folder, create a file named `deploy.js` to write a script for deploying your contract.
 
